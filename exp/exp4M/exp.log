@@ -1,0 +1,1462 @@
+../exp 4000000 0 32 process:0, from 0 to 23031
+exp time [s] = 2
+../exp 4000000 1 32 process:1, from 23031 to 46062
+exp time [s] = 2
+../exp 4000000 2 32 process:2, from 46062 to 69093
+exp time [s] = 3
+../exp 4000000 3 32 process:3, from 69093 to 92124
+exp time [s] = 3
+../exp 1 ../0/ ../1/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../0/ ../1/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../2/ ../3/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../2/ ../3/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../0-1/ ../2-3/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../0-1/ ../2-3/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 4000000 32 32 process division
+exp time [s] = 178
+../exp 4000000 4 32 process:4, from 92124 to 115155
+exp time [s] = 4
+../exp 4000000 5 32 process:5, from 115155 to 138186
+exp time [s] = 3
+../exp 4000000 6 32 process:6, from 138186 to 161217
+exp time [s] = 3
+../exp 4000000 7 32 process:7, from 161217 to 184248
+exp time [s] = 3
+../exp 1 ../4/ ../5/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../4/ ../5/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../6/ ../7/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../6/ ../7/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../4-5/ ../6-7/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../4-5/ ../6-7/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 3
+../exp 4000000 32 32 process division
+exp time [s] = 178
+../exp 4000000 8 32 process:8, from 184248 to 207279
+exp time [s] = 3
+../exp 4000000 9 32 process:9, from 207279 to 230310
+exp time [s] = 3
+../exp 4000000 10 32 process:10, from 230310 to 253341
+exp time [s] = 3
+../exp 4000000 11 32 process:11, from 253341 to 276372
+exp time [s] = 4
+../exp 1 ../8/ ../9/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../8/ ../9/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../10/ ../11/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../10/ ../11/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../8-9/ ../10-11/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../8-9/ ../10-11/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 177
+../exp 4000000 12 32 process:12, from 276372 to 299403
+exp time [s] = 4
+../exp 4000000 13 32 process:13, from 299403 to 322434
+exp time [s] = 4
+../exp 4000000 14 32 process:14, from 322434 to 345465
+exp time [s] = 4
+../exp 4000000 15 32 process:15, from 345465 to 368496
+exp time [s] = 4
+../exp 1 ../12/ ../13/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../12/ ../13/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../14/ ../15/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../14/ ../15/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../12-13/ ../14-15/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../12-13/ ../14-15/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 176
+../exp 4000000 16 32 process:16, from 368496 to 391527
+exp time [s] = 3
+../exp 4000000 17 32 process:17, from 391527 to 414558
+exp time [s] = 3
+../exp 4000000 18 32 process:18, from 414558 to 437589
+exp time [s] = 3
+../exp 4000000 19 32 process:19, from 437589 to 460620
+exp time [s] = 4
+../exp 1 ../16/ ../17/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../16/ ../17/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../18/ ../19/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../18/ ../19/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../16-17/ ../18-19/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../16-17/ ../18-19/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 177
+../exp 4000000 20 32 process:20, from 460620 to 483651
+exp time [s] = 5
+../exp 4000000 21 32 process:21, from 483651 to 506682
+exp time [s] = 4
+../exp 4000000 22 32 process:22, from 506682 to 529713
+exp time [s] = 4
+../exp 4000000 23 32 process:23, from 529713 to 552744
+exp time [s] = 3
+../exp 1 ../20/ ../21/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../20/ ../21/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../22/ ../23/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../22/ ../23/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../20-21/ ../22-23/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../20-21/ ../22-23/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 3
+../exp 4000000 32 32 process division
+exp time [s] = 178
+../exp 4000000 24 32 process:24, from 552744 to 575775
+exp time [s] = 4
+../exp 4000000 25 32 process:25, from 575775 to 598806
+exp time [s] = 4
+../exp 4000000 26 32 process:26, from 598806 to 621837
+exp time [s] = 3
+../exp 4000000 27 32 process:27, from 621837 to 644868
+exp time [s] = 4
+../exp 1 ../24/ ../25/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../24/ ../25/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../26/ ../27/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../26/ ../27/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../24-25/ ../26-27/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../24-25/ ../26-27/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 175
+../exp 4000000 28 32 process:28, from 644868 to 667899
+exp time [s] = 4
+../exp 4000000 29 32 process:29, from 667899 to 690930
+exp time [s] = 4
+../exp 4000000 30 32 process:30, from 690930 to 713961
+exp time [s] = 4
+../exp 4000000 31 32 process:31, from 713961 to 736993
+exp time [s] = 3
+../exp 1 ../28/ ../29/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../28/ ../29/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../30/ ../31/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../30/ ../31/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../28-29/ ../30-31/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../28-29/ ../30-31/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 178
+../exp 4 ./ ../28-31/exp.tmp0  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 162
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../24-27/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 160
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../20-23/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 159
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 1
+../exp 4 ./ ../16-19/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 160
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../12-15/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 159
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../8-11/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 161
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../4-7/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 173
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4000000 exp time [s] = 769
+../exp 4000000 0 32 process:0, from 0 to 23031
+exp time [s] = 3
+../exp 4000000 1 32 process:1, from 23031 to 46062
+exp time [s] = 3
+../exp 4000000 2 32 process:2, from 46062 to 69093
+exp time [s] = 3
+../exp 4000000 3 32 process:3, from 69093 to 92124
+exp time [s] = 3
+../exp 1 ../0/ ../1/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 0
+../exp 3 ../0/ ../1/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../2/ ../3/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../2/ ../3/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../0-1/ ../2-3/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../0-1/ ../2-3/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 114
+../exp 4000000 4 32 process:4, from 92124 to 115155
+exp time [s] = 4
+../exp 4000000 5 32 process:5, from 115155 to 138186
+exp time [s] = 4
+../exp 4000000 6 32 process:6, from 138186 to 161217
+exp time [s] = 4
+../exp 4000000 7 32 process:7, from 161217 to 184248
+exp time [s] = 4
+../exp 1 ../4/ ../5/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../4/ ../5/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../6/ ../7/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../6/ ../7/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../4-5/ ../6-7/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../4-5/ ../6-7/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 3
+../exp 4000000 32 32 process division
+exp time [s] = 121
+../exp 4000000 8 32 process:8, from 184248 to 207279
+exp time [s] = 3
+../exp 4000000 9 32 process:9, from 207279 to 230310
+exp time [s] = 3
+../exp 4000000 10 32 process:10, from 230310 to 253341
+exp time [s] = 3
+../exp 4000000 11 32 process:11, from 253341 to 276372
+exp time [s] = 3
+../exp 1 ../8/ ../9/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../8/ ../9/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../10/ ../11/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../10/ ../11/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../8-9/ ../10-11/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../8-9/ ../10-11/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 113
+../exp 4000000 12 32 process:12, from 276372 to 299403
+exp time [s] = 4
+../exp 4000000 13 32 process:13, from 299403 to 322434
+exp time [s] = 4
+../exp 4000000 14 32 process:14, from 322434 to 345465
+exp time [s] = 4
+../exp 4000000 15 32 process:15, from 345465 to 368496
+exp time [s] = 4
+../exp 1 ../12/ ../13/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../12/ ../13/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../14/ ../15/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../14/ ../15/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../12-13/ ../14-15/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../12-13/ ../14-15/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 110
+../exp 4000000 16 32 process:16, from 368496 to 391527
+exp time [s] = 4
+../exp 4000000 17 32 process:17, from 391527 to 414558
+exp time [s] = 4
+../exp 4000000 18 32 process:18, from 414558 to 437589
+exp time [s] = 4
+../exp 4000000 19 32 process:19, from 437589 to 460620
+exp time [s] = 4
+../exp 1 ../16/ ../17/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../16/ ../17/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../18/ ../19/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../18/ ../19/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../16-17/ ../18-19/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../16-17/ ../18-19/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 3
+../exp 4000000 32 32 process division
+exp time [s] = 111
+../exp 4000000 20 32 process:20, from 460620 to 483651
+exp time [s] = 4
+../exp 4000000 21 32 process:21, from 483651 to 506682
+exp time [s] = 4
+../exp 4000000 22 32 process:22, from 506682 to 529713
+exp time [s] = 4
+../exp 4000000 23 32 process:23, from 529713 to 552744
+exp time [s] = 4
+../exp 1 ../20/ ../21/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../20/ ../21/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../22/ ../23/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../22/ ../23/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../20-21/ ../22-23/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../20-21/ ../22-23/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 112
+../exp 4000000 24 32 process:24, from 552744 to 575775
+exp time [s] = 4
+../exp 4000000 25 32 process:25, from 575775 to 598806
+exp time [s] = 4
+../exp 4000000 26 32 process:26, from 598806 to 621837
+exp time [s] = 4
+../exp 4000000 27 32 process:27, from 621837 to 644868
+exp time [s] = 4
+../exp 1 ../24/ ../25/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../24/ ../25/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../26/ ../27/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../26/ ../27/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../24-25/ ../26-27/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../24-25/ ../26-27/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 112
+../exp 4000000 28 32 process:28, from 644868 to 667899
+exp time [s] = 5
+../exp 4000000 29 32 process:29, from 667899 to 690930
+exp time [s] = 4
+../exp 4000000 30 32 process:30, from 690930 to 713961
+exp time [s] = 4
+../exp 4000000 31 32 process:31, from 713961 to 736993
+exp time [s] = 4
+../exp 1 ../28/ ../29/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../28/ ../29/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../30/ ../31/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../30/ ../31/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../28-29/ ../30-31/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../28-29/ ../30-31/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 112
+../exp 4 ./ ../28-31/exp.tmp0  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 102
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../24-27/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 101
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../20-23/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 105
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../16-19/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 112
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../12-15/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 101
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../8-11/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 112
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../4-7/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 109
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4000000 ../exp 4000000 Note (different BETA)!
+Error!
+exp time [s] = 13
+../exp 5 ./ ./ exp.tmp0 process division
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4000000 exp time [s] = 785
+../exp 4000000 0 32 process:0, from 0 to 23031
+exp time [s] = 3
+../exp 4000000 1 32 process:1, from 23031 to 46062
+exp time [s] = 3
+../exp 4000000 2 32 process:2, from 46062 to 69093
+exp time [s] = 2
+../exp 4000000 3 32 process:3, from 69093 to 92124
+exp time [s] = 3
+../exp 1 ../0/ ../1/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../0/ ../1/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../2/ ../3/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../2/ ../3/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../0-1/ ../2-3/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../0-1/ ../2-3/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 178
+../exp 4000000 4 32 process:4, from 92124 to 115155
+../exp 4000000 5 32 process:5, from 115155 to 138186
+../exp 4000000 6 32 process:6, from 138186 to 161217
+../exp 4000000 16 32 process:16, from 368496 to 391527
+../exp 4000000 28 32 process:28, from 644868 to 667899
+../exp 4000000 0 32 process:0, from 0 to 23031
+exp time [s] = 3
+../exp 4000000 1 32 process:1, from 23031 to 46062
+exp time [s] = 3
+../exp 4000000 2 32 process:2, from 46062 to 69093
+exp time [s] = 3
+../exp 4000000 3 32 process:3, from 69093 to 92124
+exp time [s] = 3
+../exp 1 ../0/ ../1/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../0/ ../1/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 0
+../exp 1 ../2/ ../3/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../2/ ../3/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../0-1/ ../2-3/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../0-1/ ../2-3/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 156
+../exp 4000000 4 32 process:4, from 92124 to 115155
+exp time [s] = 3
+../exp 4000000 5 32 process:5, from 115155 to 138186
+exp time [s] = 3
+../exp 4000000 6 32 process:6, from 138186 to 161217
+exp time [s] = 3
+../exp 4000000 7 32 process:7, from 161217 to 184248
+exp time [s] = 4
+../exp 1 ../4/ ../5/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../4/ ../5/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../6/ ../7/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../6/ ../7/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../4-5/ ../6-7/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../4-5/ ../6-7/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 170
+../exp 4000000 8 32 process:8, from 184248 to 207279
+exp time [s] = 4
+../exp 4000000 9 32 process:9, from 207279 to 230310
+exp time [s] = 4
+../exp 4000000 10 32 process:10, from 230310 to 253341
+exp time [s] = 4
+../exp 4000000 11 32 process:11, from 253341 to 276372
+exp time [s] = 3
+../exp 1 ../8/ ../9/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../8/ ../9/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 0
+../exp 1 ../10/ ../11/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../10/ ../11/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../8-9/ ../10-11/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../8-9/ ../10-11/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 164
+../exp 4000000 12 32 process:12, from 276372 to 299403
+exp time [s] = 4
+../exp 4000000 13 32 process:13, from 299403 to 322434
+exp time [s] = 4
+../exp 4000000 14 32 process:14, from 322434 to 345465
+exp time [s] = 3
+../exp 4000000 15 32 process:15, from 345465 to 368496
+exp time [s] = 3
+../exp 1 ../12/ ../13/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../12/ ../13/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../14/ ../15/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../14/ ../15/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../12-13/ ../14-15/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../12-13/ ../14-15/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 185
+../exp 4000000 16 32 process:16, from 368496 to 391527
+exp time [s] = 4
+../exp 4000000 17 32 process:17, from 391527 to 414558
+exp time [s] = 4
+../exp 4000000 18 32 process:18, from 414558 to 437589
+exp time [s] = 4
+../exp 4000000 19 32 process:19, from 437589 to 460620
+exp time [s] = 3
+../exp 1 ../16/ ../17/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../16/ ../17/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../18/ ../19/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../18/ ../19/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../16-17/ ../18-19/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../16-17/ ../18-19/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 168
+../exp 4000000 20 32 process:20, from 460620 to 483651
+exp time [s] = 4
+../exp 4000000 21 32 process:21, from 483651 to 506682
+exp time [s] = 4
+../exp 4000000 22 32 process:22, from 506682 to 529713
+exp time [s] = 4
+../exp 4000000 23 32 process:23, from 529713 to 552744
+exp time [s] = 4
+../exp 1 ../20/ ../21/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../20/ ../21/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../22/ ../23/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../22/ ../23/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../20-21/ ../22-23/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../20-21/ ../22-23/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 3
+../exp 4000000 32 32 process division
+exp time [s] = 184
+../exp 4000000 24 32 process:24, from 552744 to 575775
+exp time [s] = 5
+../exp 4000000 25 32 process:25, from 575775 to 598806
+exp time [s] = 4
+../exp 4000000 26 32 process:26, from 598806 to 621837
+exp time [s] = 4
+../exp 4000000 27 32 process:27, from 621837 to 644868
+exp time [s] = 5
+../exp 1 ../24/ ../25/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../24/ ../25/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../26/ ../27/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../26/ ../27/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../24-25/ ../26-27/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../24-25/ ../26-27/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 421
+../exp 4000000 28 32 process:28, from 644868 to 667899
+exp time [s] = 6
+../exp 4000000 29 32 process:29, from 667899 to 690930
+exp time [s] = 8
+../exp 4000000 30 32 process:30, from 690930 to 713961
+exp time [s] = 8
+../exp 4000000 31 32 process:31, from 713961 to 736993
+exp time [s] = 5
+../exp 1 ../28/ ../29/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../28/ ../29/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../30/ ../31/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../30/ ../31/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 1 ../28-29/ ../30-31/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../28-29/ ../30-31/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 4
+../exp 4000000 32 32 process division
+exp time [s] = 216
+../exp 4 ./ ../28-31/exp.tmp0  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 170
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../24-27/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = -3.15358e+07
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../20-23/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 3.15362e+07
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../16-19/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 144
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../12-15/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 145
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../8-11/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 145
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../4-7/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 155
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4000000 exp time [s] = 806
+../exp 4000000 0 32 process:0, from 0 to 23031
+exp time [s] = 3
+../exp 4000000 1 32 process:1, from 23031 to 46062
+exp time [s] = 4
+../exp 4000000 2 32 process:2, from 46062 to 69093
+exp time [s] = 3
+../exp 4000000 3 32 process:3, from 69093 to 92124
+exp time [s] = 3
+../exp 1 ../0/ ../1/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 0
+../exp 3 ../0/ ../1/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../2/ ../3/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../2/ ../3/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../0-1/ ../2-3/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../0-1/ ../2-3/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 152
+../exp 4000000 4 32 process:4, from 92124 to 115155
+exp time [s] = 4
+../exp 4000000 5 32 process:5, from 115155 to 138186
+exp time [s] = 4
+../exp 4000000 6 32 process:6, from 138186 to 161217
+exp time [s] = 3
+../exp 4000000 7 32 process:7, from 161217 to 184248
+exp time [s] = 3
+../exp 1 ../4/ ../5/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../4/ ../5/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../6/ ../7/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../6/ ../7/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../4-5/ ../6-7/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../4-5/ ../6-7/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 3
+../exp 4000000 32 32 process division
+exp time [s] = 151
+../exp 4000000 8 32 process:8, from 184248 to 207279
+exp time [s] = 3
+../exp 4000000 9 32 process:9, from 207279 to 230310
+exp time [s] = 3
+../exp 4000000 10 32 process:10, from 230310 to 253341
+exp time [s] = 3
+../exp 4000000 11 32 process:11, from 253341 to 276372
+exp time [s] = 3
+../exp 1 ../8/ ../9/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../8/ ../9/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../10/ ../11/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../10/ ../11/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../8-9/ ../10-11/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../8-9/ ../10-11/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 151
+../exp 4000000 12 32 process:12, from 276372 to 299403
+exp time [s] = 4
+../exp 4000000 13 32 process:13, from 299403 to 322434
+exp time [s] = 3
+../exp 4000000 14 32 process:14, from 322434 to 345465
+exp time [s] = 3
+../exp 4000000 15 32 process:15, from 345465 to 368496
+exp time [s] = 4
+../exp 1 ../12/ ../13/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../12/ ../13/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../14/ ../15/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../14/ ../15/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../12-13/ ../14-15/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../12-13/ ../14-15/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 151
+../exp 4000000 16 32 process:16, from 368496 to 391527
+exp time [s] = 3
+../exp 4000000 17 32 process:17, from 391527 to 414558
+exp time [s] = 3
+../exp 4000000 18 32 process:18, from 414558 to 437589
+exp time [s] = 3
+../exp 4000000 19 32 process:19, from 437589 to 460620
+exp time [s] = 4
+../exp 1 ../16/ ../17/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../16/ ../17/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../18/ ../19/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../18/ ../19/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../16-17/ ../18-19/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../16-17/ ../18-19/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 151
+../exp 4000000 20 32 process:20, from 460620 to 483651
+exp time [s] = 4
+../exp 4000000 21 32 process:21, from 483651 to 506682
+exp time [s] = 4
+../exp 4000000 22 32 process:22, from 506682 to 529713
+exp time [s] = 3
+../exp 4000000 23 32 process:23, from 529713 to 552744
+exp time [s] = 4
+../exp 1 ../20/ ../21/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../20/ ../21/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../22/ ../23/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../22/ ../23/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../20-21/ ../22-23/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../20-21/ ../22-23/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 151
+../exp 4000000 24 32 process:24, from 552744 to 575775
+exp time [s] = 3
+../exp 4000000 25 32 process:25, from 575775 to 598806
+exp time [s] = 4
+../exp 4000000 26 32 process:26, from 598806 to 621837
+exp time [s] = 4
+../exp 4000000 27 32 process:27, from 621837 to 644868
+exp time [s] = 4
+../exp 1 ../24/ ../25/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../24/ ../25/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../26/ ../27/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../26/ ../27/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../24-25/ ../26-27/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../24-25/ ../26-27/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 151
+../exp 4000000 28 32 process:28, from 644868 to 667899
+exp time [s] = 4
+../exp 4000000 29 32 process:29, from 667899 to 690930
+exp time [s] = 4
+../exp 4000000 30 32 process:30, from 690930 to 713961
+exp time [s] = 4
+../exp 4000000 31 32 process:31, from 713961 to 736993
+exp time [s] = 4
+../exp 1 ../28/ ../29/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../28/ ../29/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../30/ ../31/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 1
+../exp 3 ../30/ ../31/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 1
+../exp 1 ../28-29/ ../30-31/ exp-t.tmp read......ok!
+exp-q.tmp read......ok!
+exp-t.tmp read......ok!
+combine1
+exp time [s] = 2
+../exp 3 ../28-29/ ../30-31/ exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine3
+exp time [s] = 2
+../exp 4000000 32 32 process division
+exp time [s] = 152
+../exp 4 ./ ../28-31/exp.tmp0  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 134
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../24-27/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 134
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../20-23/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 134
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../16-19/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 135
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../12-15/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 134
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../8-11/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 134
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4 ./ ../4-7/exp.tmp  read......ok!
+exp-q.tmp read......ok!
+combine4
+exp time [s] = 148
+../exp 5 ./ ./ exp.tmp0 read......ok!
+exp.tmp2 read......ok!
+combine5
+exp time [s] = 0
+../exp 4000000 exp time [s] = 689

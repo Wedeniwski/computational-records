@@ -1,0 +1,1149 @@
+../exp2 1 55000000 0 16 process_m:0, from 0 to 3437500
+exp time [s] = 29073
+../exp2 1 55000000 1 16 process_m:1, from 3437501 to 6875000
+exp time [s] = 30067
+../exp2 1 55000000 2 16 process_m:2, from 6875001 to 10312500
+exp time [s] = 30249
+../exp2 1 55000000 3 16 process_m:3, from 10312501 to 13750000
+exp time [s] = 30866
+../exp2 1 55000000 4 16 process_m:4, from 13750001 to 17187500
+exp time [s] = 31146
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7039
+../exp2 1 55000000 5 16 process_m:5, from 17187501 to 20625000
+exp time [s] = 31795
+../exp2 1 55000000 6 16 process_m:6, from 20625001 to 24062500
+exp time [s] = 32113
+../exp2 1 55000000 7 16 process_m:7, from 24062501 to 27500000
+exp time [s] = 32510
+../exp2 1 55000000 8 16 process_m:8, from 27500001 to 30937500
+exp time [s] = 32528
+../exp2 1 55000000 9 16 process_m:9, from 30937501 to 34375000
+exp time [s] = 31813
+../exp2 1 55000000 10 16 process_m:10, from 34375001 to 37812500
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7058
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7068
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7092
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7067
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 14939
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 14943
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 30830
+../exp2 1 55000000 10 16 process_m:10, from 34375001 to 37812500
+../exp2 1 55000000 0 16 process_m:0, from 0 to 3437500
+exp time [s] = 29073
+../exp2 1 55000000 1 16 process_m:1, from 3437501 to 6875000
+exp time [s] = 30067
+../exp2 1 55000000 2 16 process_m:2, from 6875001 to 10312500
+exp time [s] = 30249
+../exp2 1 55000000 3 16 process_m:3, from 10312501 to 13750000
+exp time [s] = 30866
+../exp2 1 55000000 4 16 process_m:4, from 13750001 to 17187500
+exp time [s] = 31146
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7039
+../exp2 1 55000000 5 16 process_m:5, from 17187501 to 20625000
+exp time [s] = 31795
+../exp2 1 55000000 6 16 process_m:6, from 20625001 to 24062500
+exp time [s] = 32113
+../exp2 1 55000000 7 16 process_m:7, from 24062501 to 27500000
+exp time [s] = 32510
+../exp2 1 55000000 8 16 process_m:8, from 27500001 to 30937500
+exp time [s] = 32528
+../exp2 1 55000000 9 16 process_m:9, from 30937501 to 34375000
+exp time [s] = 31813
+../exp2 1 55000000 10 16 process_m:10, from 34375001 to 37812500
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7058
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7068
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7092
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7067
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 14939
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 14943
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 30830
+../exp2 1 55000000 10 16 process_m:10, from 34375001 to 37812500
+exp time [s] = 32159
+../exp2 1 55000000 11 16 process_m:11, from 37812501 to 41250000
+exp time [s] = 32448
+../exp2 1 55000000 12 16 process_m:12, from 41250001 to 44687500
+exp time [s] = 32773
+../exp2 1 55000000 13 16 process_m:13, from 44687501 to 48125000
+exp time [s] = 32703
+../exp2 1 55000000 14 16 process_m:14, from 48125001 to 51562500
+exp time [s] = 32849
+../exp2 0 55000000 15 16 process:15, from 51562501 to 55000000
+exp time [s] = 30250
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7042
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7054
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 4035
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 14905
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 8500
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 17539
+../exp2 3 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine3
+exp time [s] = 9170
+../exp2 4 ../0-7/ ../8-15/ ../0-7/exp-p1.tmp read......ok!
+exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine4
+exp time [s] = 9420
+../exp2 5 ../0-7/ ../8-15/ ../0-7/exp-p2.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine5
+exp time [s] = 9139
+../exp2 6 ../0-7/ ../8-15/ ../0-7/exp-p3.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine6
+exp time [s] = 9372
+../exp2 1 55000000 0 16 process_m:0, from 0 to 3437500
+exp time [s] = 29073
+../exp2 1 55000000 1 16 process_m:1, from 3437501 to 6875000
+exp time [s] = 30067
+../exp2 1 55000000 2 16 process_m:2, from 6875001 to 10312500
+exp time [s] = 30249
+../exp2 1 55000000 3 16 process_m:3, from 10312501 to 13750000
+exp time [s] = 30866
+../exp2 1 55000000 4 16 process_m:4, from 13750001 to 17187500
+exp time [s] = 31146
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7039
+../exp2 1 55000000 5 16 process_m:5, from 17187501 to 20625000
+exp time [s] = 31795
+../exp2 1 55000000 6 16 process_m:6, from 20625001 to 24062500
+exp time [s] = 32113
+../exp2 1 55000000 7 16 process_m:7, from 24062501 to 27500000
+exp time [s] = 32510
+../exp2 1 55000000 8 16 process_m:8, from 27500001 to 30937500
+exp time [s] = 32528
+../exp2 1 55000000 9 16 process_m:9, from 30937501 to 34375000
+exp time [s] = 31813
+../exp2 1 55000000 10 16 process_m:10, from 34375001 to 37812500
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7058
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7068
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7092
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7067
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 14939
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 14943
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 30830
+../exp2 1 55000000 10 16 process_m:10, from 34375001 to 37812500
+../exp2 1 55000000 0 16 process_m:0, from 0 to 3437500
+exp time [s] = 29073
+../exp2 1 55000000 1 16 process_m:1, from 3437501 to 6875000
+exp time [s] = 30067
+../exp2 1 55000000 2 16 process_m:2, from 6875001 to 10312500
+exp time [s] = 30249
+../exp2 1 55000000 3 16 process_m:3, from 10312501 to 13750000
+exp time [s] = 30866
+../exp2 1 55000000 4 16 process_m:4, from 13750001 to 17187500
+exp time [s] = 31146
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7039
+../exp2 1 55000000 5 16 process_m:5, from 17187501 to 20625000
+exp time [s] = 31795
+../exp2 1 55000000 6 16 process_m:6, from 20625001 to 24062500
+exp time [s] = 32113
+../exp2 1 55000000 7 16 process_m:7, from 24062501 to 27500000
+exp time [s] = 32510
+../exp2 1 55000000 8 16 process_m:8, from 27500001 to 30937500
+exp time [s] = 32528
+../exp2 1 55000000 9 16 process_m:9, from 30937501 to 34375000
+exp time [s] = 31813
+../exp2 1 55000000 10 16 process_m:10, from 34375001 to 37812500
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7058
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7068
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7092
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7067
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 14939
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 14943
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 30830
+../exp2 1 55000000 10 16 process_m:10, from 34375001 to 37812500
+exp time [s] = 32159
+../exp2 1 55000000 11 16 process_m:11, from 37812501 to 41250000
+exp time [s] = 32448
+../exp2 1 55000000 12 16 process_m:12, from 41250001 to 44687500
+exp time [s] = 32773
+../exp2 1 55000000 13 16 process_m:13, from 44687501 to 48125000
+exp time [s] = 32703
+../exp2 1 55000000 14 16 process_m:14, from 48125001 to 51562500
+exp time [s] = 32849
+../exp2 0 55000000 15 16 process:15, from 51562501 to 55000000
+exp time [s] = 30250
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7042
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7054
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 4035
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 14905
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 8500
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 17539
+../exp2 3 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine3
+exp time [s] = 9170
+../exp2 4 ../0-7/ ../8-15/ ../0-7/exp-p1.tmp read......ok!
+exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine4
+exp time [s] = 9420
+../exp2 5 ../0-7/ ../8-15/ ../0-7/exp-p2.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine5
+exp time [s] = 9139
+../exp2 6 ../0-7/ ../8-15/ ../0-7/exp-p3.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine6
+exp time [s] = 9372
+../exp2 0 55000000 4 4 decimals=869894101
+process division: 2889725760,45151963
+exp time [s] = 20219
+../exp2 0 55000000 5 4 combine: 2889725760,45151963
+exp time [s] = 9285
+../exp2 0 55000000 5 4 process division: 2844573797,45151963
+exp time [s] = 20102
+../exp2 0 55000000 5 4 combine: 2844573797,45151963
+exp time [s] = 9330
+../exp2 0 55000000 5 4 process division: 2799421834,45151963
+exp time [s] = 20312
+../exp2 0 55000000 5 4 combine: 2799421834,45151963
+exp time [s] = 9376
+../exp2 0 55000000 5 4 process division: 2754269871,45151963
+exp time [s] = 19991
+../exp2 0 55000000 5 4 combine: 2754269871,45151963
+exp time [s] = 9455
+../exp2 0 55000000 5 4 process division: 2709117908,45151963
+exp time [s] = 20564
+../exp2 0 55000000 5 4 combine: 2709117908,45151963
+exp time [s] = 9387
+../exp2 0 55000000 5 4 process division: 2663965945,45151963
+exp time [s] = 20003
+../exp2 0 55000000 5 4 combine: 2663965945,45151963
+exp time [s] = 9528
+../exp2 0 55000000 5 4 process division: 2618813982,45151963
+exp time [s] = 20440
+../exp2 0 55000000 5 4 combine: 2618813982,45151963
+exp time [s] = 9480
+../exp2 0 55000000 5 4 process division: 2573662019,45151963
+exp time [s] = 20785
+../exp2 0 55000000 5 4 combine: 2573662019,45151963
+exp time [s] = 9558
+../exp2 0 55000000 5 4 process division: 2528510056,45151963
+exp time [s] = 19870
+../exp2 0 55000000 5 4 combine: 2528510056,45151963
+exp time [s] = 9119
+../exp2 0 55000000 5 4 process division: 2483358093,45151963
+exp time [s] = 19909
+../exp2 0 55000000 5 4 combine: 2483358093,45151963
+exp time [s] = 9160
+../exp2 0 55000000 5 4 process division: 2438206130,45151963
+exp time [s] = 19881
+../exp2 0 55000000 5 4 combine: 2438206130,45151963
+exp time [s] = 9122
+../exp2 0 55000000 5 4 process division: 2393054167,45151963
+exp time [s] = 19898
+../exp2 0 55000000 5 4 combine: 2393054167,45151963
+exp time [s] = 9124
+../exp2 0 55000000 5 4 process division: 2347902204,45151963
+exp time [s] = 19871
+../exp2 0 55000000 5 4 combine: 2347902204,45151963
+exp time [s] = 9117
+../exp2 0 55000000 5 4 process division: 2302750241,45151963
+exp time [s] = 19869
+../exp2 0 55000000 5 4 combine: 2302750241,45151963
+exp time [s] = 9271
+../exp2 0 55000000 5 4 process division: 2257598278,45151963
+exp time [s] = 19870
+../exp2 0 55000000 5 4 combine: 2257598278,45151963
+exp time [s] = 9135
+../exp2 0 55000000 5 4 process division: 2212446315,45151963
+exp time [s] = 19866
+../exp2 0 55000000 5 4 combine: 2212446315,45151963
+exp time [s] = 9644
+../exp2 0 55000000 5 4 process division: 2167294352,45151963
+exp time [s] = 19885
+../exp2 0 55000000 5 4 combine: 2167294352,45151963
+exp time [s] = 9116
+../exp2 0 55000000 5 4 process division: 2122142389,45151963
+exp time [s] = 19852
+../exp2 0 55000000 5 4 combine: 2122142389,45151963
+exp time [s] = 9192
+../exp2 0 55000000 5 4 process division: 2076990426,45151963
+exp time [s] = 19991
+../exp2 0 55000000 5 4 combine: 2076990426,45151963
+exp time [s] = 9167
+../exp2 0 55000000 5 4 process division: 2031838463,45151963
+exp time [s] = 19899
+../exp2 0 55000000 5 4 combine: 2031838463,45151963
+exp time [s] = 9137
+../exp2 0 55000000 5 4 process division: 1986686500,45151963
+exp time [s] = 20207
+../exp2 0 55000000 5 4 combine: 1986686500,45151963
+exp time [s] = 9880
+../exp2 0 55000000 5 4 process division: 1941534537,45151963
+exp time [s] = 19850
+../exp2 0 55000000 5 4 combine: 1941534537,45151963
+exp time [s] = 9267
+../exp2 0 55000000 5 4 process division: 1896382574,45151963
+exp time [s] = 19834
+../exp2 0 55000000 5 4 combine: 1896382574,45151963
+exp time [s] = 9339
+../exp2 0 55000000 5 4 process division: 1851230611,45151963
+exp time [s] = 19943
+../exp2 0 55000000 5 4 combine: 1851230611,45151963
+exp time [s] = 9200
+../exp2 0 55000000 5 4 process division: 1806078648,45151963
+exp time [s] = 19893
+../exp2 0 55000000 5 4 combine: 1806078648,45151963
+exp time [s] = 9239
+../exp2 0 55000000 5 4 process division: 1760926685,45151963
+exp time [s] = 20095
+../exp2 0 55000000 5 4 combine: 1760926685,45151963
+exp time [s] = 9227
+../exp2 0 55000000 5 4 process division: 1715774722,45151963
+exp time [s] = 19892
+../exp2 0 55000000 5 4 combine: 1715774722,45151963
+exp time [s] = 9348
+../exp2 0 55000000 5 4 process division: 1670622759,45151963
+exp time [s] = 20040
+../exp2 0 55000000 5 4 combine: 1670622759,45151963
+exp time [s] = 9333
+../exp2 0 55000000 5 4 process division: 1625470796,45151963
+exp time [s] = 19901
+../exp2 0 55000000 5 4 combine: 1625470796,45151963
+exp time [s] = 9348
+../exp2 0 55000000 5 4 process division: 1580318833,45151963
+exp time [s] = 20308
+../exp2 0 55000000 5 4 combine: 1580318833,45151963
+exp time [s] = 9636
+../exp2 0 55000000 5 4 process division: 1535166870,45151963
+exp time [s] = 19889
+../exp2 0 55000000 5 4 combine: 1535166870,45151963
+exp time [s] = 9337
+../exp2 0 55000000 5 4 process division: 1490014907,45151963
+exp time [s] = 19873
+../exp2 0 55000000 5 4 combine: 1490014907,45151963
+exp time [s] = 9389
+../exp2 0 55000000 5 4 process division: 1444862944,45151963
+exp time [s] = 19901
+../exp2 0 55000000 5 4 combine: 1444862944,45151963
+exp time [s] = 9451
+../exp2 0 55000000 5 4 process division: 1399710981,45151963
+exp time [s] = 19845
+../exp2 0 55000000 5 4 combine: 1399710981,45151963
+../exp2 0 55000000 5 4 combine: 1399710981,45151963
+../exp2 0 55000000 5 4 combine: 1399710981,45151963
+../exp2 0 55000000 5 4 combine: 1399710981,45151963
+../exp2 0 55000000 5 4 combine: 1399710981,45151963
+../exp2 0 55000000 5 4 combine: 1399710981,45151963
+../exp2 0 55000000 5 4 ../exp2 0 55000000 5 4 combine: 1399710981,45151963
+../exp2 0 55000000 5 4 combine: 1399710981,45151963
+exp time [s] = 9201
+../exp2 0 55000000 5 4 process division: 1354559018,45151963
+exp time [s] = 19826
+../exp2 0 55000000 5 4 combine: 1354559018,45151963
+exp time [s] = 9323
+../exp2 0 55000000 5 4 process division: 1309407055,45151963
+exp time [s] = 19726
+../exp2 0 55000000 5 4 combine: 1309407055,45151963
+exp time [s] = 9280
+../exp2 0 55000000 5 4 process division: 1264255092,45151963
+exp time [s] = 19761
+../exp2 0 55000000 5 4 combine: 1264255092,45151963
+exp time [s] = 9265
+../exp2 0 55000000 5 4 process division: 1219103129,45151963
+exp time [s] = 19705
+../exp2 0 55000000 5 4 combine: 1219103129,45151963
+exp time [s] = 9271
+../exp2 0 55000000 5 4 process division: 1173951166,45151963
+exp time [s] = 19656
+../exp2 0 55000000 5 4 combine: 1173951166,45151963
+exp time [s] = 9322
+../exp2 0 55000000 5 4 process division: 1128799203,45151963
+exp time [s] = 19668
+../exp2 0 55000000 5 4 combine: 1128799203,45151963
+exp time [s] = 9318
+../exp2 0 55000000 5 4 process division: 1083647240,45151963
+exp time [s] = 19814
+../exp2 0 55000000 5 4 combine: 1083647240,45151963
+exp time [s] = 9311
+../exp2 0 55000000 5 4 process division: 1038495277,45151963
+exp time [s] = 19476
+../exp2 0 55000000 5 4 combine: 1038495277,45151963
+exp time [s] = 9262
+../exp2 0 55000000 5 4 process division: 993343314,45151963
+exp time [s] = 19540
+../exp2 0 55000000 5 4 combine: 993343314,45151963
+exp time [s] = 9278
+../exp2 0 55000000 5 4 process division: 948191351,45151963
+exp time [s] = 19777
+../exp2 0 55000000 5 4 combine: 948191351,45151963
+exp time [s] = 9313
+../exp2 0 55000000 5 4 process division: 903039388,45151963
+exp time [s] = 19675
+../exp2 0 55000000 5 4 combine: 903039388,45151963
+exp time [s] = 9332
+../exp2 0 55000000 5 4 process division: 857887425,45151963
+exp time [s] = 19489
+../exp2 0 55000000 5 4 combine: 857887425,45151963
+exp time [s] = 9354
+../exp2 0 55000000 5 4 process division: 812735462,45151963
+exp time [s] = 19748
+../exp2 0 55000000 5 4 combine: 812735462,45151963
+exp time [s] = 9330
+../exp2 0 55000000 5 4 process division: 767583499,45151963
+exp time [s] = 19524
+../exp2 0 55000000 5 4 combine: 767583499,45151963
+exp time [s] = 9338
+../exp2 0 55000000 5 4 process division: 722431536,45151963
+exp time [s] = 19492
+../exp2 0 55000000 5 4 combine: 722431536,45151963
+exp time [s] = 9346
+../exp2 0 55000000 5 4 process division: 677279573,45151963
+exp time [s] = 19442
+../exp2 0 55000000 5 4 combine: 677279573,45151963
+exp time [s] = 9399
+../exp2 0 55000000 5 4 process division: 632127610,45151963
+exp time [s] = 19542
+../exp2 0 55000000 5 4 combine: 632127610,45151963
+exp time [s] = 9388
+../exp2 0 55000000 5 4 process division: 586975647,45151963
+exp time [s] = 19585
+../exp2 0 55000000 5 4 combine: 586975647,45151963
+exp time [s] = 9387
+../exp2 0 55000000 5 4 process division: 541823684,45151963
+exp time [s] = 19468
+../exp2 0 55000000 5 4 combine: 541823684,45151963
+exp time [s] = 9428
+../exp2 0 55000000 5 4 process division: 496671721,45151963
+exp time [s] = 19416
+../exp2 0 55000000 5 4 combine: 496671721,45151963
+exp time [s] = 9216
+../exp2 0 55000000 5 4 process division: 451519758,45151963
+exp time [s] = 19367
+../exp2 0 55000000 5 4 combine: 451519758,45151963
+exp time [s] = 9203
+../exp2 0 55000000 5 4 process division: 406367795,45151963
+exp time [s] = 19417
+../exp2 0 55000000 5 4 combine: 406367795,45151963
+exp time [s] = 9404
+../exp2 0 55000000 5 4 process division: 361215832,45151963
+exp time [s] = 19441
+../exp2 0 55000000 5 4 combine: 361215832,45151963
+exp time [s] = 9477
+../exp2 0 55000000 5 4 process division: 316063869,45151963
+exp time [s] = 19455
+../exp2 0 55000000 5 4 combine: 316063869,45151963
+exp time [s] = 9371
+../exp2 0 55000000 5 4 process division: 270911906,45151963
+exp time [s] = 19394
+../exp2 0 55000000 5 4 combine: 270911906,45151963
+exp time [s] = 9474
+../exp2 0 55000000 5 4 process division: 225759943,45151963
+exp time [s] = 19451
+../exp2 0 55000000 5 4 combine: 225759943,45151963
+exp time [s] = 9618
+../exp2 0 55000000 5 4 process division: 180607980,45151963
+exp time [s] = 19378
+../exp2 0 55000000 5 4 combine: 180607980,45151963
+exp time [s] = 9478
+../exp2 0 55000000 5 4 process division: 135456017,45151963
+exp time [s] = 19351
+../exp2 0 55000000 5 4 combine: 135456017,45151963
+exp time [s] = 9590
+../exp2 0 55000000 5 4 process division: 90304054,45151963
+exp time [s] = 19364
+../exp2 0 55000000 5 4 combine: 90304054,45151963
+exp time [s] = 9555
+../exp2 0 55000000 5 4 process division: 45152091,45151963
+exp time [s] = 19371
+../exp2 0 55000000 5 4 combine: 45152091,45151963
+exp time [s] = 9616
+../exp2 0 55000000 5 4 process division: 128,45151963
+exp time [s] = 453
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 55000000 Note (different BETA)!
+Error!
+exp time [s] = 254
+../exp2 55000000 ../exp2 55000000 ../exp2 55000000 ../exp2 55000000 ../exp2 55000000 ../exp2 55000000 ../exp2 55000000 ../exp2 55000000 ../exp2 55000000 ../exp2 55000000 ../exp2 55000000 ../exp2 55000000 ../exp2 55000000 ../exp2 55000000 ../exp2 55000000 ../exp2 55000000 ../exp2 0 55000000 4 4 decimals=869894101
+process division: 2889725760,722431414
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 55000000 ../exp2X 0 55000000 4 4 decimals=869894101
+process division: 2889725760,722431414
+../exp2 0 55000000 5 4 READY!
+../exp2X 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2X 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2X 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 55000000 ../exp2X 0 55000000 4 4 decimals=869894101
+process division: 2889725760,361215707
+exp time [s] = 22820
+../exp2 0 55000000 5 4 combine: 2889725760,361215707
+exp time [s] = 36
+../exp2X 0 55000000 5 4 process division: 2528510053,361215707
+../exp2 0 55000000 5 4 process division: 2528510053,361215707
+../exp2 0 55000000 5 4 process division: 2528510053,361215707
+../exp2X 0 55000000 5 4 process division: 2528510053,361215707
+../exp2 0 55000000 5 4 process division: 2528510053,361215707
+../exp2 0 55000000 4 4 decimals=869894101
+process division: 2889725760,90303926
+exp time [s] = 23568
+../exp2 0 55000000 5 4 combine: 2889725760,90303926
+exp time [s] = 9088
+../exp2 0 55000000 5 4 process division: 2799421834,90303926
+exp time [s] = 23458
+../exp2 0 55000000 5 4 combine: 2799421834,90303926
+exp time [s] = 8972
+../exp2 0 55000000 5 4 process division: 2709117908,90303926
+exp time [s] = 23713
+../exp2 0 55000000 5 4 combine: 2709117908,90303926
+exp time [s] = 9059
+../exp2 0 55000000 5 4 process division: 2618813982,90303926
+exp time [s] = 23800
+../exp2 0 55000000 5 4 combine: 2618813982,90303926
+exp time [s] = 9089
+../exp2 0 55000000 5 4 process division: 2528510056,90303926
+exp time [s] = 23636
+../exp2 0 55000000 5 4 combine: 2528510056,90303926
+exp time [s] = 9093
+../exp2 0 55000000 5 4 process division: 2438206130,90303926
+exp time [s] = 23649
+../exp2 0 55000000 5 4 combine: 2438206130,90303926
+exp time [s] = 9156
+../exp2 0 55000000 5 4 process division: 2347902204,90303926
+exp time [s] = 23523
+../exp2 0 55000000 5 4 combine: 2347902204,90303926
+exp time [s] = 9084
+../exp2 0 55000000 5 4 process division: 2257598278,90303926
+exp time [s] = 23676
+../exp2 0 55000000 5 4 combine: 2257598278,90303926
+exp time [s] = 9166
+../exp2 0 55000000 5 4 process division: 2167294352,90303926
+exp time [s] = 23617
+../exp2 0 55000000 5 4 combine: 2167294352,90303926
+exp time [s] = 9104
+../exp2 0 55000000 5 4 process division: 2076990426,90303926
+exp time [s] = 23436
+../exp2 0 55000000 5 4 combine: 2076990426,90303926
+exp time [s] = 9208
+../exp2 0 55000000 5 4 process division: 1986686500,90303926
+exp time [s] = 23587
+../exp2 0 55000000 5 4 combine: 1986686500,90303926
+exp time [s] = 9226
+../exp2 0 55000000 5 4 process division: 1896382574,90303926
+exp time [s] = 23528
+../exp2 0 55000000 5 4 combine: 1896382574,90303926
+exp time [s] = 9124
+../exp2 0 55000000 5 4 process division: 1806078648,90303926
+exp time [s] = 23557
+../exp2 0 55000000 5 4 combine: 1806078648,90303926
+exp time [s] = 9258
+../exp2 0 55000000 5 4 process division: 1715774722,90303926
+exp time [s] = 23622
+../exp2 0 55000000 5 4 combine: 1715774722,90303926
+exp time [s] = 9177
+../exp2 0 55000000 5 4 process division: 1625470796,90303926
+exp time [s] = 23547
+../exp2 0 55000000 5 4 combine: 1625470796,90303926
+exp time [s] = 9234
+../exp2 0 55000000 5 4 process division: 1535166870,90303926
+exp time [s] = 23664
+../exp2 0 55000000 5 4 combine: 1535166870,90303926
+exp time [s] = 9194
+../exp2 0 55000000 5 4 process division: 1444862944,90303926
+exp time [s] = 23649
+../exp2 0 55000000 5 4 combine: 1444862944,90303926
+exp time [s] = 9242
+../exp2 0 55000000 5 4 process division: 1354559018,90303926
+exp time [s] = 23524
+../exp2 0 55000000 5 4 combine: 1354559018,90303926
+exp time [s] = 9270
+../exp2 0 55000000 5 4 process division: 1264255092,90303926
+exp time [s] = 23847
+../exp2 0 55000000 5 4 combine: 1264255092,90303926
+exp time [s] = 9255
+../exp2 0 55000000 5 4 process division: 1173951166,90303926
+exp time [s] = 23546
+../exp2 0 55000000 5 4 combine: 1173951166,90303926
+exp time [s] = 9287
+../exp2 0 55000000 5 4 process division: 1083647240,90303926
+exp time [s] = 23556
+../exp2 0 55000000 5 4 combine: 1083647240,90303926
+exp time [s] = 9367
+../exp2 0 55000000 5 4 process division: 993343314,90303926
+exp time [s] = 23625
+../exp2 0 55000000 5 4 combine: 993343314,90303926
+exp time [s] = 9367
+../exp2 0 55000000 5 4 process division: 903039388,90303926
+exp time [s] = 23483
+../exp2 0 55000000 5 4 combine: 903039388,90303926
+exp time [s] = 9335
+../exp2 0 55000000 5 4 process division: 812735462,90303926
+exp time [s] = 23596
+../exp2 0 55000000 5 4 combine: 812735462,90303926
+exp time [s] = 9343
+../exp2 0 55000000 5 4 process division: 722431536,90303926
+exp time [s] = 23507
+../exp2 0 55000000 5 4 combine: 722431536,90303926
+exp time [s] = 9394
+../exp2 0 55000000 5 4 process division: 632127610,90303926
+exp time [s] = 23490
+../exp2 0 55000000 5 4 combine: 632127610,90303926
+exp time [s] = 9450
+../exp2 0 55000000 5 4 process division: 541823684,90303926
+exp time [s] = 23445
+../exp2 0 55000000 5 4 combine: 541823684,90303926
+exp time [s] = 9495
+../exp2 0 55000000 5 4 process division: 451519758,90303926
+exp time [s] = 23433
+../exp2 0 55000000 5 4 combine: 451519758,90303926
+exp time [s] = 9535
+../exp2 0 55000000 5 4 process division: 361215832,90303926
+exp time [s] = 23421
+../exp2 0 55000000 5 4 combine: 361215832,90303926
+exp time [s] = 9369
+../exp2 0 55000000 5 4 process division: 270911906,90303926
+exp time [s] = 23359
+../exp2 0 55000000 5 4 combine: 270911906,90303926
+exp time [s] = 9423
+../exp2 0 55000000 5 4 process division: 180607980,90303926
+exp time [s] = 23398
+../exp2 0 55000000 5 4 combine: 180607980,90303926
+exp time [s] = 9533
+../exp2 0 55000000 5 4 process division: 90304054,90303926
+exp time [s] = 23565
+../exp2 0 55000000 5 4 combine: 90304054,90303926
+exp time [s] = 9554
+../exp2 0 55000000 5 4 process division: 128,90303926
+exp time [s] = 258
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 0 55000000 5 4 READY!
+../exp2 55000000 ../exp2 55000000 ../exp2 55000000 ../exp2 55000000 ../exp2 55000000 Note (different BETA)!
+Error!
+../exp2 55000000 ../exp2 0 55000000 5 4 process division: 128,722431414
+exp time [s] = 299
+../exp2 869894101 ../exp2 869894101 

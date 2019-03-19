@@ -1,0 +1,1676 @@
+Tue May 18 14:03:43 DFT 1999
+../exp2 0 55000000 4 4 decimals=869894101
+process division: 2889725760,45151963
+exp time [s] = 20219
+Tue May 18 20:43:06 DFT 1999
+../exp2 0 55000000 5 4 combine: 2889725760,45151963
+exp time [s] = 9285
+Wed May 19 00:16:40 DFT 1999
+../exp2 0 55000000 5 4 process division: 2844573797,45151963
+exp time [s] = 20102
+Wed May 19 06:49:14 DFT 1999
+../exp2 0 55000000 5 4 combine: 2844573797,45151963
+exp time [s] = 9330
+Wed May 19 10:22:13 DFT 1999
+../exp2 0 55000000 5 4 process division: 2799421834,45151963
+exp time [s] = 20312
+Wed May 19 16:57:41 DFT 1999
+../exp2 0 55000000 5 4 combine: 2799421834,45151963
+exp time [s] = 9376
+Wed May 19 20:33:04 DFT 1999
+../exp2 0 55000000 5 4 process division: 2754269871,45151963
+exp time [s] = 19991
+Thu May 20 03:04:11 DFT 1999
+../exp2 0 55000000 5 4 combine: 2754269871,45151963
+exp time [s] = 9455
+Thu May 20 06:41:16 DFT 1999
+../exp2 0 55000000 5 4 process division: 2709117908,45151963
+exp time [s] = 20564
+Thu May 20 13:25:44 DFT 1999
+../exp2 0 55000000 5 4 combine: 2709117908,45151963
+exp time [s] = 9387
+Thu May 20 17:02:44 DFT 1999
+../exp2 0 55000000 5 4 process division: 2663965945,45151963
+exp time [s] = 20003
+Thu May 20 23:33:40 DFT 1999
+../exp2 0 55000000 5 4 combine: 2663965945,45151963
+exp time [s] = 9528
+Fri May 21 03:14:03 DFT 1999
+../exp2 0 55000000 5 4 process division: 2618813982,45151963
+exp time [s] = 20440
+Fri May 21 09:51:21 DFT 1999
+../exp2 0 55000000 5 4 combine: 2618813982,45151963
+exp time [s] = 9480
+Fri May 21 13:32:10 DFT 1999
+../exp2 0 55000000 5 4 process division: 2573662019,45151963
+exp time [s] = 20785
+Fri May 21 20:20:48 DFT 1999
+../exp2 0 55000000 5 4 combine: 2573662019,45151963
+exp time [s] = 9558
+Sat May 22 00:14:08 DFT 1999
+../exp2 0 55000000 5 4 process division: 2528510056,45151963
+exp time [s] = 19870
+Sat May 22 06:43:10 DFT 1999
+../exp2 0 55000000 5 4 combine: 2528510056,45151963
+exp time [s] = 9119
+Sat May 22 10:20:59 DFT 1999
+../exp2 0 55000000 5 4 process division: 2483358093,45151963
+exp time [s] = 19909
+Sat May 22 16:49:09 DFT 1999
+../exp2 0 55000000 5 4 combine: 2483358093,45151963
+exp time [s] = 9160
+Sat May 22 20:28:35 DFT 1999
+../exp2 0 55000000 5 4 process division: 2438206130,45151963
+exp time [s] = 19881
+Sun May 23 02:56:26 DFT 1999
+../exp2 0 55000000 5 4 combine: 2438206130,45151963
+exp time [s] = 9122
+Sun May 23 06:36:12 DFT 1999
+../exp2 0 55000000 5 4 process division: 2393054167,45151963
+exp time [s] = 19898
+Sun May 23 13:04:25 DFT 1999
+../exp2 0 55000000 5 4 combine: 2393054167,45151963
+exp time [s] = 9124
+Sun May 23 16:45:52 DFT 1999
+../exp2 0 55000000 5 4 process division: 2347902204,45151963
+exp time [s] = 19871
+Sun May 23 23:13:39 DFT 1999
+../exp2 0 55000000 5 4 combine: 2347902204,45151963
+exp time [s] = 9117
+Mon May 24 02:56:35 DFT 1999
+../exp2 0 55000000 5 4 process division: 2302750241,45151963
+exp time [s] = 19869
+Mon May 24 09:24:19 DFT 1999
+../exp2 0 55000000 5 4 combine: 2302750241,45151963
+exp time [s] = 9271
+Mon May 24 13:11:15 DFT 1999
+../exp2 0 55000000 5 4 process division: 2257598278,45151963
+exp time [s] = 19870
+Mon May 24 19:38:53 DFT 1999
+../exp2 0 55000000 5 4 combine: 2257598278,45151963
+exp time [s] = 9135
+Mon May 24 23:24:30 DFT 1999
+../exp2 0 55000000 5 4 process division: 2212446315,45151963
+exp time [s] = 19866
+Tue May 25 05:51:56 DFT 1999
+../exp2 0 55000000 5 4 combine: 2212446315,45151963
+exp time [s] = 9644
+Tue May 25 09:56:30 DFT 1999
+../exp2 0 55000000 5 4 process division: 2167294352,45151963
+exp time [s] = 19885
+Tue May 25 16:23:57 DFT 1999
+../exp2 0 55000000 5 4 combine: 2167294352,45151963
+exp time [s] = 9116
+Tue May 25 20:18:15 DFT 1999
+../exp2 0 55000000 5 4 process division: 2122142389,45151963
+exp time [s] = 19852
+Wed May 26 02:45:43 DFT 1999
+../exp2 0 55000000 5 4 combine: 2122142389,45151963
+exp time [s] = 9192
+Wed May 26 06:37:01 DFT 1999
+../exp2 0 55000000 5 4 process division: 2076990426,45151963
+exp time [s] = 19991
+Wed May 26 13:06:30 DFT 1999
+../exp2 0 55000000 5 4 combine: 2076990426,45151963
+exp time [s] = 9167
+Wed May 26 16:59:49 DFT 1999
+../exp2 0 55000000 5 4 process division: 2031838463,45151963
+exp time [s] = 19899
+Wed May 26 23:27:44 DFT 1999
+../exp2 0 55000000 5 4 combine: 2031838463,45151963
+exp time [s] = 9137
+Thu May 27 03:22:11 DFT 1999
+../exp2 0 55000000 5 4 process division: 1986686500,45151963
+exp time [s] = 20207
+Thu May 27 10:03:10 DFT 1999
+../exp2 0 55000000 5 4 combine: 1986686500,45151963
+exp time [s] = 9880
+Thu May 27 14:18:40 DFT 1999
+../exp2 0 55000000 5 4 process division: 1941534537,45151963
+exp time [s] = 19850
+Thu May 27 20:46:14 DFT 1999
+../exp2 0 55000000 5 4 combine: 1941534537,45151963
+exp time [s] = 9267
+Fri May 28 00:49:55 DFT 1999
+../exp2 0 55000000 5 4 process division: 1896382574,45151963
+exp time [s] = 19834
+Fri May 28 07:16:46 DFT 1999
+../exp2 0 55000000 5 4 combine: 1896382574,45151963
+exp time [s] = 9339
+Fri May 28 11:22:13 DFT 1999
+../exp2 0 55000000 5 4 process division: 1851230611,45151963
+exp time [s] = 19943
+Fri May 28 17:50:57 DFT 1999
+../exp2 0 55000000 5 4 combine: 1851230611,45151963
+exp time [s] = 9200
+Fri May 28 21:56:05 DFT 1999
+../exp2 0 55000000 5 4 process division: 1806078648,45151963
+exp time [s] = 19893
+Sat May 29 04:24:25 DFT 1999
+../exp2 0 55000000 5 4 combine: 1806078648,45151963
+exp time [s] = 9239
+Sat May 29 08:33:28 DFT 1999
+../exp2 0 55000000 5 4 process division: 1760926685,45151963
+exp time [s] = 20095
+Sat May 29 15:04:46 DFT 1999
+../exp2 0 55000000 5 4 combine: 1760926685,45151963
+exp time [s] = 9227
+Sat May 29 19:16:10 DFT 1999
+../exp2 0 55000000 5 4 process division: 1715774722,45151963
+exp time [s] = 19892
+Sun May 30 01:43:59 DFT 1999
+../exp2 0 55000000 5 4 combine: 1715774722,45151963
+exp time [s] = 9348
+Sun May 30 06:00:18 DFT 1999
+../exp2 0 55000000 5 4 process division: 1670622759,45151963
+exp time [s] = 20040
+Sun May 30 12:30:56 DFT 1999
+../exp2 0 55000000 5 4 combine: 1670622759,45151963
+exp time [s] = 9333
+Sun May 30 16:52:47 DFT 1999
+../exp2 0 55000000 5 4 process division: 1625470796,45151963
+exp time [s] = 19901
+Sun May 30 23:21:06 DFT 1999
+../exp2 0 55000000 5 4 combine: 1625470796,45151963
+exp time [s] = 9348
+Mon May 31 03:42:15 DFT 1999
+../exp2 0 55000000 5 4 process division: 1580318833,45151963
+exp time [s] = 20308
+Mon May 31 10:17:38 DFT 1999
+../exp2 0 55000000 5 4 combine: 1580318833,45151963
+exp time [s] = 9636
+Mon May 31 14:52:06 DFT 1999
+../exp2 0 55000000 5 4 process division: 1535166870,45151963
+exp time [s] = 19889
+Mon May 31 21:20:05 DFT 1999
+../exp2 0 55000000 5 4 combine: 1535166870,45151963
+exp time [s] = 9337
+Tue Jun  1 01:51:00 DFT 1999
+../exp2 0 55000000 5 4 process division: 1490014907,45151963
+exp time [s] = 19873
+Tue Jun  1 08:18:42 DFT 1999
+../exp2 0 55000000 5 4 combine: 1490014907,45151963
+exp time [s] = 9389
+Tue Jun  1 12:49:01 DFT 1999
+../exp2 0 55000000 5 4 process division: 1444862944,45151963
+exp time [s] = 19901
+Tue Jun  1 19:17:08 DFT 1999
+../exp2 0 55000000 5 4 combine: 1444862944,45151963
+exp time [s] = 9451
+Wed Jun  2 00:04:49 DFT 1999
+../exp2 0 55000000 5 4 process division: 1399710981,45151963
+exp time [s] = 19845
+Wed Jun  2 06:31:45 DFT 1999
+../exp2 0 55000000 5 4 combine: 1399710981,45151963
+Wed Jun  2 07:00:40 DFT 1999
+../exp2 0 55000000 5 4 combine: 1399710981,45151963
+Wed Jun  2 07:29:07 DFT 1999
+../exp2 0 55000000 5 4 combine: 1399710981,45151963
+Wed Jun  2 07:56:05 DFT 1999
+../exp2 0 55000000 5 4 combine: 1399710981,45151963
+Wed Jun  2 08:23:47 DFT 1999
+../exp2 0 55000000 5 4 combine: 1399710981,45151963
+Wed Jun  2 08:51:12 DFT 1999
+../exp2 0 55000000 5 4 combine: 1399710981,45151963
+Wed Jun  2 09:21:43 DFT 1999
+../exp2 0 55000000 5 4 Mon Jun  7 08:35:56 DFT 1999
+../exp2 0 55000000 5 4 combine: 1399710981,45151963
+exp time [s] = 9201
+Mon Jun  7 13:12:09 DFT 1999
+../exp2 0 55000000 5 4 process division: 1354559018,45151963
+exp time [s] = 19826
+Mon Jun  7 19:40:40 DFT 1999
+../exp2 0 55000000 5 4 combine: 1354559018,45151963
+exp time [s] = 9323
+Tue Jun  8 00:30:23 DFT 1999
+../exp2 0 55000000 5 4 process division: 1309407055,45151963
+exp time [s] = 19726
+Tue Jun  8 06:57:30 DFT 1999
+../exp2 0 55000000 5 4 combine: 1309407055,45151963
+exp time [s] = 9280
+Tue Jun  8 11:39:44 DFT 1999
+../exp2 0 55000000 5 4 process division: 1264255092,45151963
+exp time [s] = 19761
+Tue Jun  8 18:06:26 DFT 1999
+../exp2 0 55000000 5 4 combine: 1264255092,45151963
+exp time [s] = 9265
+Tue Jun  8 23:00:20 DFT 1999
+../exp2 0 55000000 5 4 process division: 1219103129,45151963
+exp time [s] = 19705
+Wed Jun  9 05:26:16 DFT 1999
+../exp2 0 55000000 5 4 combine: 1219103129,45151963
+exp time [s] = 9271
+Wed Jun  9 10:19:21 DFT 1999
+../exp2 0 55000000 5 4 process division: 1173951166,45151963
+exp time [s] = 19656
+Wed Jun  9 16:44:25 DFT 1999
+../exp2 0 55000000 5 4 combine: 1173951166,45151963
+exp time [s] = 9322
+Wed Jun  9 21:49:45 DFT 1999
+../exp2 0 55000000 5 4 process division: 1128799203,45151963
+exp time [s] = 19668
+Thu Jun 10 04:15:11 DFT 1999
+../exp2 0 55000000 5 4 combine: 1128799203,45151963
+exp time [s] = 9318
+Thu Jun 10 09:19:18 DFT 1999
+../exp2 0 55000000 5 4 process division: 1083647240,45151963
+exp time [s] = 19814
+Thu Jun 10 15:46:39 DFT 1999
+../exp2 0 55000000 5 4 combine: 1083647240,45151963
+exp time [s] = 9311
+Thu Jun 10 20:57:49 DFT 1999
+../exp2 0 55000000 5 4 process division: 1038495277,45151963
+exp time [s] = 19476
+Fri Jun 11 03:19:54 DFT 1999
+../exp2 0 55000000 5 4 combine: 1038495277,45151963
+exp time [s] = 9262
+Fri Jun 11 08:31:54 DFT 1999
+../exp2 0 55000000 5 4 process division: 993343314,45151963
+exp time [s] = 19540
+Fri Jun 11 14:52:43 DFT 1999
+../exp2 0 55000000 5 4 combine: 993343314,45151963
+exp time [s] = 9278
+Fri Jun 11 20:31:38 DFT 1999
+../exp2 0 55000000 5 4 process division: 948191351,45151963
+exp time [s] = 19777
+Sat Jun 12 02:58:14 DFT 1999
+../exp2 0 55000000 5 4 combine: 948191351,45151963
+exp time [s] = 9313
+Sat Jun 12 08:39:33 DFT 1999
+../exp2 0 55000000 5 4 process division: 903039388,45151963
+exp time [s] = 19675
+Sat Jun 12 15:04:52 DFT 1999
+../exp2 0 55000000 5 4 combine: 903039388,45151963
+exp time [s] = 9332
+Sat Jun 12 20:40:36 DFT 1999
+../exp2 0 55000000 5 4 process division: 857887425,45151963
+exp time [s] = 19489
+Sun Jun 13 03:02:52 DFT 1999
+../exp2 0 55000000 5 4 combine: 857887425,45151963
+exp time [s] = 9354
+Sun Jun 13 08:56:24 DFT 1999
+../exp2 0 55000000 5 4 process division: 812735462,45151963
+exp time [s] = 19748
+Sun Jun 13 15:22:52 DFT 1999
+../exp2 0 55000000 5 4 combine: 812735462,45151963
+exp time [s] = 9330
+Sun Jun 13 21:26:25 DFT 1999
+../exp2 0 55000000 5 4 process division: 767583499,45151963
+exp time [s] = 19524
+Mon Jun 14 03:49:09 DFT 1999
+../exp2 0 55000000 5 4 combine: 767583499,45151963
+exp time [s] = 9338
+Mon Jun 14 09:49:01 DFT 1999
+../exp2 0 55000000 5 4 process division: 722431536,45151963
+exp time [s] = 19492
+Mon Jun 14 16:11:20 DFT 1999
+../exp2 0 55000000 5 4 combine: 722431536,45151963
+exp time [s] = 9346
+Mon Jun 14 22:18:12 DFT 1999
+../exp2 0 55000000 5 4 process division: 677279573,45151963
+exp time [s] = 19442
+Tue Jun 15 04:39:30 DFT 1999
+../exp2 0 55000000 5 4 combine: 677279573,45151963
+exp time [s] = 9399
+Tue Jun 15 10:42:09 DFT 1999
+../exp2 0 55000000 5 4 process division: 632127610,45151963
+exp time [s] = 19542
+Tue Jun 15 17:04:41 DFT 1999
+../exp2 0 55000000 5 4 combine: 632127610,45151963
+exp time [s] = 9388
+Tue Jun 15 23:33:27 DFT 1999
+../exp2 0 55000000 5 4 process division: 586975647,45151963
+exp time [s] = 19585
+Wed Jun 16 05:56:54 DFT 1999
+../exp2 0 55000000 5 4 combine: 586975647,45151963
+exp time [s] = 9387
+Wed Jun 16 11:03:35 DFT 1999
+../exp2 0 55000000 5 4 process division: 541823684,45151963
+exp time [s] = 19468
+Wed Jun 16 17:24:49 DFT 1999
+../exp2 0 55000000 5 4 combine: 541823684,45151963
+exp time [s] = 9428
+Thu Jun 17 00:05:42 DFT 1999
+../exp2 0 55000000 5 4 process division: 496671721,45151963
+exp time [s] = 19416
+Thu Jun 17 06:26:43 DFT 1999
+../exp2 0 55000000 5 4 combine: 496671721,45151963
+exp time [s] = 9216
+Thu Jun 17 13:30:47 DFT 1999
+../exp2 0 55000000 5 4 process division: 451519758,45151963
+exp time [s] = 19367
+Thu Jun 17 19:50:42 DFT 1999
+../exp2 0 55000000 5 4 combine: 451519758,45151963
+exp time [s] = 9203
+Fri Jun 18 02:30:52 DFT 1999
+../exp2 0 55000000 5 4 process division: 406367795,45151963
+exp time [s] = 19417
+Fri Jun 18 08:51:35 DFT 1999
+../exp2 0 55000000 5 4 combine: 406367795,45151963
+exp time [s] = 9404
+Fri Jun 18 16:05:57 DFT 1999
+../exp2 0 55000000 5 4 process division: 361215832,45151963
+exp time [s] = 19441
+Fri Jun 18 22:27:15 DFT 1999
+../exp2 0 55000000 5 4 combine: 361215832,45151963
+exp time [s] = 9477
+Sat Jun 19 05:43:34 DFT 1999
+../exp2 0 55000000 5 4 process division: 316063869,45151963
+exp time [s] = 19455
+Sat Jun 19 12:04:59 DFT 1999
+../exp2 0 55000000 5 4 combine: 316063869,45151963
+exp time [s] = 9371
+Sat Jun 19 19:27:58 DFT 1999
+../exp2 0 55000000 5 4 process division: 270911906,45151963
+exp time [s] = 19394
+Sun Jun 20 01:48:11 DFT 1999
+../exp2 0 55000000 5 4 combine: 270911906,45151963
+exp time [s] = 9474
+Sun Jun 20 09:24:27 DFT 1999
+../exp2 0 55000000 5 4 process division: 225759943,45151963
+exp time [s] = 19451
+Sun Jun 20 15:45:40 DFT 1999
+../exp2 0 55000000 5 4 combine: 225759943,45151963
+exp time [s] = 9618
+Sun Jun 20 23:27:11 DFT 1999
+../exp2 0 55000000 5 4 process division: 180607980,45151963
+exp time [s] = 19378
+Mon Jun 21 05:47:32 DFT 1999
+../exp2 0 55000000 5 4 combine: 180607980,45151963
+exp time [s] = 9478
+Mon Jun 21 16:09:54 DFT 1999
+../exp2 0 55000000 5 4 process division: 135456017,45151963
+exp time [s] = 19351
+Mon Jun 21 22:29:18 DFT 1999
+../exp2 0 55000000 5 4 combine: 135456017,45151963
+exp time [s] = 9590
+Tue Jun 22 06:08:04 DFT 1999
+../exp2 0 55000000 5 4 process division: 90304054,45151963
+exp time [s] = 19364
+Tue Jun 22 12:28:04 DFT 1999
+../exp2 0 55000000 5 4 combine: 90304054,45151963
+exp time [s] = 9555
+Tue Jun 22 20:12:08 DFT 1999
+../exp2 0 55000000 5 4 process division: 45152091,45151963
+exp time [s] = 19371
+Wed Jun 23 02:32:02 DFT 1999
+../exp2 0 55000000 5 4 combine: 45152091,45151963
+exp time [s] = 9616
+Wed Jun 23 09:54:19 DFT 1999
+../exp2 0 55000000 5 4 process division: 128,45151963
+exp time [s] = 453
+Wed Jun 23 10:38:42 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:42 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:43 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:43 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:44 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:44 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:44 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:44 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:45 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:45 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:45 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:45 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:46 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:46 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:46 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:47 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:47 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:47 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:47 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:48 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:48 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:48 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:49 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:49 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:49 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:49 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:50 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:50 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:50 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:51 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:51 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:51 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:51 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:52 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:52 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:52 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:52 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:53 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:53 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:53 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:54 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:54 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:54 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:55 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:55 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:55 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:56 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:56 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:56 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:56 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:57 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:57 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:57 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:58 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:58 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:58 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:59 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:59 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:38:59 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:39:00 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:39:00 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:39:00 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:39:01 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:39:01 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:39:01 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:39:01 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:39:02 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:39:02 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:39:02 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:39:03 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Wed Jun 23 10:39:03 DFT 1999
+../exp2 55000000 Note (different BETA)!
+Error!
+exp time [s] = 254
+Wed Jun 23 10:43:18 DFT 1999
+Thu Jun 24 18:25:52 DFT 1999
+../exp2 55000000 Thu Jun 24 18:53:15 DFT 1999
+../exp2 55000000 Thu Jun 24 22:40:37 DFT 1999
+../exp2 55000000 Tue Jun 29 08:14:40 DFT 1999
+../exp2 55000000 Tue Jun 29 16:29:51 DFT 1999
+../exp2 55000000 start output
+i=7
+i=6
+i=5
+i=4
+i=3
+i=2
+i=1
+i=0
+sB=45857463
+Tue Jun 29 17:04:41 DFT 1999
+../exp2 55000000 Tue Jun 29 17:05:16 DFT 1999
+../exp2 55000000 start output
+i=11
+i=10
+i=9
+i=8
+i=7
+i=6
+i=5
+i=4
+i=3
+i=2
+i=1
+i=0
+sB=45857463, m=45151965, n=869894101
+Tue Jun 29 17:35:11 DFT 1999
+../exp2 55000000 start output
+i=11
+i=10
+i=9
+i=8
+i=7
+i=6
+i=5
+i=4
+i=3
+i=2
+i=1
+i=0
+sB=45857463, m=45151965, n=869894101
+n=869894101, st=1900
+n=869894101
+Tue Jun 29 17:59:18 DFT 1999
+Wed Jun 30 07:56:41 DFT 1999
+../exp2 55000000 start output
+i=8
+i=7
+i=6
+i=5
+i=4
+i=3
+i=2
+i=1
+i=0
+sB=45857463, m=45151965, n=869894101
+n=869894101, st=1900
+n=869894101
+Wed Jun 30 08:13:23 DFT 1999
+Wed Jun 30 08:39:23 DFT 1999
+../exp2 55000000 start output
+i=8
+i=7
+i=6
+i=5
+i=4
+i=3
+i=2
+i=1
+i=0
+sB=45857463, m=45151965, n=869894101
+n=869894101, st=1900
+n=869894101
+Thu Jul  1 16:49:28 DFT 1999
+../exp2 55000000 Thu Jul  1 16:56:51 DFT 1999
+../exp2 55000000 start output
+Thu Jul  1 17:16:04 DFT 1999
+Fri Jul  2 09:13:08 DFT 1999
+../exp2 55000000 start output
+sB=45857463, m=45151965, n=869894101
+n=869894101, st=1900
+n=869894101
+Fri Jul  2 09:34:41 DFT 1999
+Fri Jul  2 09:43:49 DFT 1999
+../exp2 55000000 start output
+sB=45857463, m=45151965, n=869894101
+n=869894101, st=1900
+n=869894101
+a.size=12624, c.size=6312
+a.size=6312, c.size=3156
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=6312, c.size=3156
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+n=869650901
+a.size=12624, c.size=6312
+a.size=6312, c.size=3156
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=6312, c.size=3156
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+n=869407701
+a.size=12624, c.size=6312
+a.size=6312, c.size=3156
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=6312, c.size=3156
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+n=869164501
+a.size=12624, c.size=6312
+a.size=6312, c.size=3156
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=6312, c.size=3156
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+n=868921301
+a.size=12624, c.size=6312
+a.size=6312, c.size=3156
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=6312, c.size=3156
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=3156, c.size=1578
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=1578, c.size=789
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=789, c.size=395
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+a.size=395, c.size=198
+a.size=198, c.size=99
+a.size=198, c.size=99
+n=868678101
+Thu Jul  8 16:33:48 DFT 1999
+../exp2 0 55000000 4 4 decimals=869894101
+process division: 2889725760,722431414
+Fri Jul  9 00:58:37 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Fri Jul  9 00:58:38 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Fri Jul  9 00:58:38 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Fri Jul  9 00:58:38 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Fri Jul  9 00:58:38 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Fri Jul  9 00:58:39 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Fri Jul  9 00:58:39 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Fri Jul  9 00:58:39 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Fri Jul  9 00:58:40 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Fri Jul  9 00:58:40 DFT 1999
+../exp2 55000000 start output
+sB=45857463, m=45151965, n=869894101
+Wed Jul 14 08:27:49 DFT 1999
+../exp2 0 55000000 4 4 decimals=869894101
+process division: 2889725760,90303926
+exp time [s] = 23568
+Wed Jul 14 16:02:18 DFT 1999
+../exp2 0 55000000 5 4 combine: 2889725760,90303926
+exp time [s] = 9088
+Wed Jul 14 19:30:51 DFT 1999
+../exp2 0 55000000 5 4 process division: 2799421834,90303926
+exp time [s] = 23458
+Thu Jul 15 02:58:49 DFT 1999
+../exp2 0 55000000 5 4 combine: 2799421834,90303926
+exp time [s] = 8972
+Thu Jul 15 06:25:30 DFT 1999
+../exp2 0 55000000 5 4 process division: 2709117908,90303926
+exp time [s] = 23713
+Thu Jul 15 13:59:38 DFT 1999
+../exp2 0 55000000 5 4 combine: 2709117908,90303926
+exp time [s] = 9059
+Thu Jul 15 17:30:50 DFT 1999
+../exp2 0 55000000 5 4 process division: 2618813982,90303926
+exp time [s] = 23800
+Fri Jul 16 01:08:01 DFT 1999
+../exp2 0 55000000 5 4 combine: 2618813982,90303926
+exp time [s] = 9089
+Fri Jul 16 04:41:51 DFT 1999
+../exp2 0 55000000 5 4 process division: 2528510056,90303926
+exp time [s] = 23636
+Fri Jul 16 12:16:14 DFT 1999
+../exp2 0 55000000 5 4 combine: 2528510056,90303926
+exp time [s] = 9093
+Fri Jul 16 15:53:00 DFT 1999
+../exp2 0 55000000 5 4 process division: 2438206130,90303926
+exp time [s] = 23649
+Fri Jul 16 23:32:32 DFT 1999
+../exp2 0 55000000 5 4 combine: 2438206130,90303926
+exp time [s] = 9156
+Sat Jul 17 03:13:49 DFT 1999
+../exp2 0 55000000 5 4 process division: 2347902204,90303926
+exp time [s] = 23523
+Sat Jul 17 10:44:12 DFT 1999
+../exp2 0 55000000 5 4 combine: 2347902204,90303926
+exp time [s] = 9084
+Sat Jul 17 14:28:18 DFT 1999
+../exp2 0 55000000 5 4 process division: 2257598278,90303926
+exp time [s] = 23676
+Sat Jul 17 22:00:28 DFT 1999
+../exp2 0 55000000 5 4 combine: 2257598278,90303926
+exp time [s] = 9166
+Sun Jul 18 01:50:38 DFT 1999
+../exp2 0 55000000 5 4 process division: 2167294352,90303926
+exp time [s] = 23617
+Sun Jul 18 09:23:08 DFT 1999
+../exp2 0 55000000 5 4 combine: 2167294352,90303926
+exp time [s] = 9104
+Sun Jul 18 13:13:59 DFT 1999
+../exp2 0 55000000 5 4 process division: 2076990426,90303926
+exp time [s] = 23436
+Sun Jul 18 20:41:55 DFT 1999
+../exp2 0 55000000 5 4 combine: 2076990426,90303926
+exp time [s] = 9208
+Mon Jul 19 00:39:20 DFT 1999
+../exp2 0 55000000 5 4 process division: 1986686500,90303926
+exp time [s] = 23587
+Mon Jul 19 08:10:01 DFT 1999
+../exp2 0 55000000 5 4 combine: 1986686500,90303926
+exp time [s] = 9226
+Mon Jul 19 12:09:11 DFT 1999
+../exp2 0 55000000 5 4 process division: 1896382574,90303926
+exp time [s] = 23528
+Mon Jul 19 19:38:35 DFT 1999
+../exp2 0 55000000 5 4 combine: 1896382574,90303926
+exp time [s] = 9124
+Mon Jul 19 23:40:18 DFT 1999
+../exp2 0 55000000 5 4 process division: 1806078648,90303926
+exp time [s] = 23557
+Tue Jul 20 07:09:39 DFT 1999
+../exp2 0 55000000 5 4 combine: 1806078648,90303926
+exp time [s] = 9258
+Tue Jul 20 11:19:23 DFT 1999
+../exp2 0 55000000 5 4 process division: 1715774722,90303926
+exp time [s] = 23622
+Tue Jul 20 18:50:05 DFT 1999
+../exp2 0 55000000 5 4 combine: 1715774722,90303926
+exp time [s] = 9177
+Tue Jul 20 23:05:17 DFT 1999
+../exp2 0 55000000 5 4 process division: 1625470796,90303926
+exp time [s] = 23547
+Wed Jul 21 06:35:00 DFT 1999
+../exp2 0 55000000 5 4 combine: 1625470796,90303926
+exp time [s] = 9234
+Wed Jul 21 10:59:49 DFT 1999
+../exp2 0 55000000 5 4 process division: 1535166870,90303926
+exp time [s] = 23664
+Wed Jul 21 18:31:02 DFT 1999
+../exp2 0 55000000 5 4 combine: 1535166870,90303926
+exp time [s] = 9194
+Wed Jul 21 23:05:43 DFT 1999
+../exp2 0 55000000 5 4 process division: 1444862944,90303926
+exp time [s] = 23649
+Thu Jul 22 06:36:48 DFT 1999
+../exp2 0 55000000 5 4 combine: 1444862944,90303926
+exp time [s] = 9242
+Thu Jul 22 11:23:52 DFT 1999
+../exp2 0 55000000 5 4 process division: 1354559018,90303926
+exp time [s] = 23524
+Thu Jul 22 18:53:06 DFT 1999
+../exp2 0 55000000 5 4 combine: 1354559018,90303926
+exp time [s] = 9270
+Thu Jul 22 23:46:43 DFT 1999
+../exp2 0 55000000 5 4 process division: 1264255092,90303926
+exp time [s] = 23847
+Fri Jul 23 07:20:59 DFT 1999
+../exp2 0 55000000 5 4 combine: 1264255092,90303926
+exp time [s] = 9255
+Fri Jul 23 12:18:57 DFT 1999
+../exp2 0 55000000 5 4 process division: 1173951166,90303926
+exp time [s] = 23546
+Fri Jul 23 19:48:14 DFT 1999
+../exp2 0 55000000 5 4 combine: 1173951166,90303926
+exp time [s] = 9287
+Sat Jul 24 00:59:21 DFT 1999
+../exp2 0 55000000 5 4 process division: 1083647240,90303926
+exp time [s] = 23556
+Sat Jul 24 08:29:00 DFT 1999
+../exp2 0 55000000 5 4 combine: 1083647240,90303926
+exp time [s] = 9367
+Sat Jul 24 13:48:59 DFT 1999
+../exp2 0 55000000 5 4 process division: 993343314,90303926
+exp time [s] = 23625
+Sat Jul 24 21:19:45 DFT 1999
+../exp2 0 55000000 5 4 combine: 993343314,90303926
+exp time [s] = 9367
+Sun Jul 25 02:55:58 DFT 1999
+../exp2 0 55000000 5 4 process division: 903039388,90303926
+exp time [s] = 23483
+Sun Jul 25 10:24:29 DFT 1999
+../exp2 0 55000000 5 4 combine: 903039388,90303926
+exp time [s] = 9335
+Sun Jul 25 16:11:49 DFT 1999
+../exp2 0 55000000 5 4 process division: 812735462,90303926
+exp time [s] = 23596
+Sun Jul 25 23:41:53 DFT 1999
+../exp2 0 55000000 5 4 combine: 812735462,90303926
+exp time [s] = 9343
+Mon Jul 26 05:45:55 DFT 1999
+../exp2 0 55000000 5 4 process division: 722431536,90303926
+exp time [s] = 23507
+Mon Jul 26 13:13:04 DFT 1999
+../exp2 0 55000000 5 4 combine: 722431536,90303926
+exp time [s] = 9394
+Mon Jul 26 19:48:41 DFT 1999
+../exp2 0 55000000 5 4 process division: 632127610,90303926
+exp time [s] = 23490
+Tue Jul 27 03:17:14 DFT 1999
+../exp2 0 55000000 5 4 combine: 632127610,90303926
+exp time [s] = 9450
+Tue Jul 27 09:58:01 DFT 1999
+../exp2 0 55000000 5 4 process division: 541823684,90303926
+exp time [s] = 23445
+Tue Jul 27 17:23:41 DFT 1999
+../exp2 0 55000000 5 4 combine: 541823684,90303926
+exp time [s] = 9495
+Wed Jul 28 00:42:07 DFT 1999
+../exp2 0 55000000 5 4 process division: 451519758,90303926
+exp time [s] = 23433
+Wed Jul 28 08:09:29 DFT 1999
+../exp2 0 55000000 5 4 combine: 451519758,90303926
+exp time [s] = 9535
+Wed Jul 28 15:42:16 DFT 1999
+../exp2 0 55000000 5 4 process division: 361215832,90303926
+exp time [s] = 23421
+Wed Jul 28 23:10:16 DFT 1999
+../exp2 0 55000000 5 4 combine: 361215832,90303926
+exp time [s] = 9369
+Thu Jul 29 07:09:37 DFT 1999
+../exp2 0 55000000 5 4 process division: 270911906,90303926
+exp time [s] = 23359
+Thu Jul 29 14:36:30 DFT 1999
+../exp2 0 55000000 5 4 combine: 270911906,90303926
+exp time [s] = 9423
+Thu Jul 29 22:09:45 DFT 1999
+../exp2 0 55000000 5 4 process division: 180607980,90303926
+exp time [s] = 23398
+Fri Jul 30 05:37:12 DFT 1999
+../exp2 0 55000000 5 4 combine: 180607980,90303926
+exp time [s] = 9533
+Fri Jul 30 13:11:24 DFT 1999
+../exp2 0 55000000 5 4 process division: 90304054,90303926
+exp time [s] = 23565
+Fri Jul 30 20:46:54 DFT 1999
+../exp2 0 55000000 5 4 combine: 90304054,90303926
+exp time [s] = 9554
+Sat Jul 31 05:13:08 DFT 1999
+../exp2 0 55000000 5 4 process division: 128,90303926
+exp time [s] = 258
+Sat Jul 31 05:53:54 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:54 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:55 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:55 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:55 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:56 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:56 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:56 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:57 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:57 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:57 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:57 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:58 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:58 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:58 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:59 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:59 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:53:59 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:00 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:00 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:00 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:01 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:01 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:01 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:02 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:02 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:02 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:02 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:03 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:03 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:03 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:04 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:04 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:04 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:04 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:05 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:05 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:05 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:06 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:06 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:06 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:06 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:07 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:07 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:07 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:08 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:08 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:08 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:08 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:09 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:09 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:09 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:09 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:10 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:10 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:10 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:11 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:11 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:11 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:11 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:12 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:12 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:12 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:13 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:13 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:13 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:13 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:14 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Sat Jul 31 05:54:14 DFT 1999
+../exp2 55000000 start output
+sB=45857463, m=45151965, n=869894101
+Tue Aug  3 08:50:29 DFT 1999
+../exp2 0 55000000 5 4 process division: 128,722431414
+exp time [s] = 299
+Tue Aug  3 13:42:05 DFT 1999
+../exp2 869894101 start output
+sB=45151966, m=45151965, n=869894101
+n=869894101, st=1900
+n=869894101
+Tue Aug  3 14:02:11 DFT 1999
+Tue Aug  3 14:26:24 DFT 1999
+../exp2 869894101 start output
+sB=45151966, m=45151965, n=869894101
+n=869894101, st=1900
+n=869894101
+n=869650901
+n=869407701
+n=869164501
+n=868921301
+n=868678101
+n=868434901
+n=868191701
+n=867948501
+n=867705301
+n=867462101
+n=867218901
+n=866975701
+n=866732501
+n=866489301
+n=866246101
+n=866002901
+n=865759701
+n=865516501
+n=865273301
+n=865030101
+n=864786901
+n=864543701
+n=864300501
+n=864057301

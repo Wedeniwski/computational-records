@@ -1,0 +1,274 @@
+Wed May  5 09:52:52 DFT 1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7039
+Mon May 10 08:33:21 DFT 1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7058
+Mon May 10 10:44:27 DFT 1999
+Mon May 10 10:44:27 DFT 1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7068
+Mon May 10 12:56:59 DFT 1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7092
+Mon May 10 15:10:25 DFT 1999
+Mon May 10 15:10:25 DFT 1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7067
+Mon May 10 17:23:29 DFT 1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 14939
+Mon May 10 22:01:00 DFT 1999
+Mon May 10 22:01:00 DFT 1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 14943
+Tue May 11 02:41:59 DFT 1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 30830
+Tue May 11 12:30:48 DFT 1999
+../exp2 1 55000000 10 16 process_m:10, from 34375001 to 37812500
+Mon May 10 08:33:21 DFT 1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7058
+Mon May 10 10:44:27 DFT 1999
+Mon May 10 10:44:27 DFT 1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7068
+Mon May 10 12:56:59 DFT 1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7092
+Mon May 10 15:10:25 DFT 1999
+Mon May 10 15:10:25 DFT 1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7067
+Mon May 10 17:23:29 DFT 1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 14939
+Mon May 10 22:01:00 DFT 1999
+Mon May 10 22:01:00 DFT 1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 14943
+Tue May 11 02:41:59 DFT 1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 30830
+Tue May 11 12:30:48 DFT 1999
+../exp2 1 55000000 10 16 process_m:10, from 34375001 to 37812500
+exp time [s] = 32159
+Tue May 11 21:32:17 DFT 1999
+../exp2 1 55000000 11 16 process_m:11, from 37812501 to 41250000
+exp time [s] = 32448
+Wed May 12 06:38:36 DFT 1999
+../exp2 1 55000000 12 16 process_m:12, from 41250001 to 44687500
+exp time [s] = 32773
+Wed May 12 15:50:22 DFT 1999
+../exp2 1 55000000 13 16 process_m:13, from 44687501 to 48125000
+exp time [s] = 32703
+Thu May 13 01:00:57 DFT 1999
+../exp2 1 55000000 14 16 process_m:14, from 48125001 to 51562500
+exp time [s] = 32849
+Thu May 13 10:13:59 DFT 1999
+../exp2 0 55000000 15 16 process:15, from 51562501 to 55000000
+exp time [s] = 30250
+Thu May 13 18:40:54 DFT 1999
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7042
+Thu May 13 20:53:47 DFT 1999
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 7054
+Thu May 13 23:06:59 DFT 1999
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 4035
+Fri May 14 00:23:24 DFT 1999
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 14905
+Fri May 14 05:04:30 DFT 1999
+Fri May 14 05:04:30 DFT 1999
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 8500
+Fri May 14 07:45:39 DFT 1999
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 17539
+Fri May 14 13:21:20 DFT 1999
+../exp2 3 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine3
+exp time [s] = 9170
+Sat May 15 19:36:29 DFT 1999
+../exp2 4 ../0-7/ ../8-15/ ../0-7/exp-p1.tmp read......ok!
+exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine4
+exp time [s] = 9420
+Sat May 15 23:17:30 DFT 1999
+../exp2 5 ../0-7/ ../8-15/ ../0-7/exp-p2.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine5
+exp time [s] = 9139
+Sun May 16 02:44:31 DFT 1999
+../exp2 6 ../0-7/ ../8-15/ ../0-7/exp-p3.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine6
+exp time [s] = 9372

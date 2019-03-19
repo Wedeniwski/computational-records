@@ -1,0 +1,212 @@
+Mon Jul 12 07:52:39 DFT 1999
+../exp2X 0 55000000 4 4 decimals=869894101
+process division: 2889725760,722431414
+steps=25
+step=23
+step=22
+step=21
+step=20
+step=19
+step=18
+step=17
+step=16
+step=15
+step=14
+step=13
+step=12
+step=11
+step=10
+step=9
+step=8
+step=7
+step=6
+step=5
+step=4
+step=3
+step=2
+step=1
+Mon Jul 12 12:28:53 DFT 1999
+../div2 shift=0
+div time [s] = 0
+div2 time [s] = 0
+Mon Jul 12 12:28:53 DFT 1999
+../div3 exp-p1.tmp x.tmp shift2=0
+exp-p1.tmp...ok!
+y2...ok!
+div3 time [s] = 35
+Mon Jul 12 12:38:33 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Mon Jul 12 12:38:34 DFT 1999
+../exp2X 0 55000000 5 4 READY!
+Mon Jul 12 12:38:35 DFT 1999
+../div2 shift=0
+div time [s] = 0
+div2 time [s] = 0
+Mon Jul 12 12:38:35 DFT 1999
+../div3 exp-p1.tmp x.tmp shift2=0
+exp-p1.tmp...ok!
+y2...ok!
+div3 time [s] = 36
+Mon Jul 12 12:46:21 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Mon Jul 12 12:46:21 DFT 1999
+Mon Jul 12 12:46:21 DFT 1999
+../exp2X 0 55000000 5 4 READY!
+Mon Jul 12 12:46:21 DFT 1999
+../div2 shift=0
+div time [s] = 0
+div2 time [s] = 0
+Mon Jul 12 12:46:22 DFT 1999
+../div3 exp-p1.tmp x.tmp shift2=0
+exp-p1.tmp...ok!
+y2...ok!
+div3 time [s] = 36
+Mon Jul 12 12:54:09 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Mon Jul 12 12:54:09 DFT 1999
+Mon Jul 12 12:54:09 DFT 1999
+../exp2X 0 55000000 5 4 READY!
+Mon Jul 12 12:54:10 DFT 1999
+../div2 shift=0
+div time [s] = 0
+div2 time [s] = 0
+Mon Jul 12 12:54:10 DFT 1999
+../div3 exp-p1.tmp x.tmp shift2=0
+exp-p1.tmp...ok!
+y2...ok!
+div3 time [s] = 35
+Mon Jul 12 13:01:56 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Mon Jul 12 13:01:56 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Mon Jul 12 13:01:56 DFT 1999
+../exp2 0 55000000 5 4 READY!
+Mon Jul 12 13:01:57 DFT 1999
+../exp2 55000000 Mon Jul 12 13:38:20 DFT 1999
+../exp2X 0 55000000 4 4 decimals=869894101
+process division: 2889725760,361215707
+steps=24
+step=22
+step=21
+step=20
+step=19
+step=18
+step=17
+step=16
+step=15
+step=14
+step=13
+step=12
+step=11
+step=10
+step=9
+step=8
+step=7
+step=6
+step=5
+step=4
+step=3
+step=2
+step=1
+step=0
+mult b
+shift=361216193
+shift2=1806079020
+exp time [s] = 22820
+Mon Jul 12 21:01:24 DFT 1999
+../div2 shift=361216193
+t...ok!
+b...ok!
+Mon Jul 12 21:16:33 DFT 1999
+../div3 exp-p1.tmp x.tmp shift2=1806079020
+exp-p1.tmp...ok!
+y2...ok!
+div3 time [s] = 45
+Mon Jul 12 21:26:59 DFT 1999
+../exp2 0 55000000 5 4 combine: 2889725760,361215707
+exp time [s] = 36
+Mon Jul 12 22:23:12 DFT 1999
+../exp2X 0 55000000 5 4 process division: 2528510053,361215707
+steps=25
+step=23
+step=22
+step=21
+step=20
+step=19
+step=18
+step=17
+step=16
+step=15
+step=14
+step=13
+step=12
+step=11
+step=10
+step=9
+step=8
+step=7
+step=6
+step=5
+step=4
+step=3
+step=2
+step=1
+Tue Jul 13 02:56:20 DFT 1999
+../div2 shift=361216193
+t...ok!
+b...ok!
+Tue Jul 13 03:11:23 DFT 1999
+../div3 exp-p1.tmp x.tmp shift2=1806079020
+exp-p1.tmp...ok!
+y2...ok!
+div3 time [s] = 45
+Tue Jul 13 03:21:52 DFT 1999
+../exp2 0 55000000 5 4 process division: 2528510053,361215707
+Tue Jul 13 17:13:18 DFT 1999
+../div2 shift=361216193
+t...ok!
+b...ok!
+Tue Jul 13 17:28:13 DFT 1999
+../div3 exp-p1.tmp x.tmp shift2=1806079020
+exp-p1.tmp...ok!
+y2...ok!
+div3 time [s] = 45
+Tue Jul 13 17:38:42 DFT 1999
+../exp2 0 55000000 5 4 process division: 2528510053,361215707
+Wed Jul 14 02:02:44 DFT 1999
+../exp2X 0 55000000 5 4 process division: 2528510053,361215707
+steps=25
+step=23
+step=22
+step=21
+step=20
+step=19
+step=18
+step=17
+step=16
+step=15
+step=14
+step=13
+step=12
+step=11
+step=10
+step=9
+step=8
+step=7
+step=6
+step=5
+step=4
+step=3
+step=2
+step=1
+Wed Jul 14 06:33:15 DFT 1999
+../div2 shift=361216193
+t...ok!
+b...ok!
+Wed Jul 14 06:49:12 DFT 1999
+../div3 exp-p1.tmp x.tmp shift2=1806079020
+exp-p1.tmp...ok!
+y2...ok!
+div3 time [s] = 45
+Wed Jul 14 06:59:43 DFT 1999
+../exp2 0 55000000 5 4 process division: 2528510053,361215707

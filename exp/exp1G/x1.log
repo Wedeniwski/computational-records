@@ -1,0 +1,33 @@
+Mon May  3 15:14:02 DFT 1999
+../exp2 1 55000000 0 16 process_m:0, from 0 to 3437500
+exp time [s] = 29073
+Mon May  3 23:23:06 DFT 1999
+../exp2 1 55000000 1 16 process_m:1, from 3437501 to 6875000
+exp time [s] = 30067
+Tue May  4 07:49:06 DFT 1999
+../exp2 1 55000000 2 16 process_m:2, from 6875001 to 10312500
+exp time [s] = 30249
+Tue May  4 16:18:20 DFT 1999
+../exp2 1 55000000 3 16 process_m:3, from 10312501 to 13750000
+exp time [s] = 30866
+Wed May  5 00:57:54 DFT 1999
+../exp2 1 55000000 4 16 process_m:4, from 13750001 to 17187500
+exp time [s] = 31146
+Wed May  5 09:42:11 DFT 1999
+Wed May  5 12:35:38 DFT 1999
+../exp2 1 55000000 5 16 process_m:5, from 17187501 to 20625000
+exp time [s] = 31795
+Wed May  5 21:30:45 DFT 1999
+../exp2 1 55000000 6 16 process_m:6, from 20625001 to 24062500
+exp time [s] = 32113
+Thu May  6 06:31:22 DFT 1999
+../exp2 1 55000000 7 16 process_m:7, from 24062501 to 27500000
+exp time [s] = 32510
+Thu May  6 15:38:37 DFT 1999
+../exp2 1 55000000 8 16 process_m:8, from 27500001 to 30937500
+exp time [s] = 32528
+Fri May  7 00:46:06 DFT 1999
+../exp2 1 55000000 9 16 process_m:9, from 30937501 to 34375000
+exp time [s] = 31813
+Fri May  7 09:41:42 DFT 1999
+../exp2 1 55000000 10 16 process_m:10, from 34375001 to 37812500

@@ -1,0 +1,4091 @@
+Mon May 17 09:38:54  1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Mon May 17 09:38:56  1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Mon May 17 09:38:57  1999
+Mon May 17 09:38:57  1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Mon May 17 09:38:58  1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Mon May 17 09:39:00  1999
+Mon May 17 09:39:00  1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Mon May 17 09:39:01  1999
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Mon May 17 09:39:03  1999
+Mon May 17 09:39:03  1999
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Mon May 17 09:39:04  1999
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Mon May 17 09:39:06  1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 2
+Mon May 17 09:39:08  1999
+Mon May 17 09:39:08  1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 2
+Mon May 17 09:39:11  1999
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 2
+Mon May 17 09:39:14  1999
+Mon May 17 09:39:14  1999
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 1
+Mon May 17 09:39:16  1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 3
+Mon May 17 09:39:21  1999
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 2
+Mon May 17 09:39:23  1999
+../exp2 3 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine3
+exp time [s] = 1
+Mon May 17 09:39:25  1999
+../exp2 4 ../0-7/ ../8-15/ ../0-7/exp-p1.tmp read......ok!
+exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine4
+exp time [s] = 1
+Mon May 17 09:39:27  1999
+../exp2 5 ../0-7/ ../8-15/ ../0-7/exp-p2.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine5
+exp time [s] = 1
+Mon May 17 09:39:28  1999
+../exp2 6 ../0-7/ ../8-15/ ../0-7/exp-p3.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine6
+exp time [s] = 1
+Mon May 17 09:39:30  1999
+../exp2 0 55000 4 4 decimals=539893
+process division: 1793536,112093
+exp time [s] = 5
+Mon May 17 09:39:35  1999
+../exp2 0 55000 5 4 combine: 1793536,112093
+exp time [s] = 2
+Mon May 17 09:39:38  1999
+../exp2 0 55000 5 4 process division: 1681443,112093
+exp time [s] = 4
+Mon May 17 09:39:44  1999
+../exp2 0 55000 5 4 combine: 1681443,112093
+exp time [s] = 2
+Mon May 17 09:39:46  1999
+../exp2 0 55000 5 4 process division: 1569350,112093
+exp time [s] = 5
+Mon May 17 09:39:52  1999
+../exp2 0 55000 5 4 combine: 1569350,112093
+exp time [s] = 2
+Mon May 17 09:39:55  1999
+../exp2 0 55000 5 4 process division: 1457257,112093
+exp time [s] = 5
+Mon May 17 09:40:00  1999
+../exp2 0 55000 5 4 combine: 1457257,112093
+exp time [s] = 2
+Mon May 17 09:40:03  1999
+../exp2 0 55000 5 4 process division: 1345164,112093
+exp time [s] = 5
+Mon May 17 09:40:08  1999
+../exp2 0 55000 5 4 combine: 1345164,112093
+exp time [s] = 2
+Mon May 17 09:40:11  1999
+../exp2 0 55000 5 4 process division: 1233071,112093
+exp time [s] = 4
+Mon May 17 09:40:17  1999
+../exp2 0 55000 5 4 combine: 1233071,112093
+exp time [s] = 2
+Mon May 17 09:40:19  1999
+../exp2 0 55000 5 4 process division: 1120978,112093
+exp time [s] = 5
+Mon May 17 09:40:25  1999
+../exp2 0 55000 5 4 combine: 1120978,112093
+exp time [s] = 2
+Mon May 17 09:40:28  1999
+../exp2 0 55000 5 4 process division: 1008885,112093
+exp time [s] = 5
+Mon May 17 09:40:33  1999
+../exp2 0 55000 5 4 combine: 1008885,112093
+exp time [s] = 2
+Mon May 17 09:40:36  1999
+../exp2 0 55000 5 4 process division: 896792,112093
+exp time [s] = 5
+Mon May 17 09:40:42  1999
+../exp2 0 55000 5 4 combine: 896792,112093
+exp time [s] = 3
+Mon May 17 09:40:45  1999
+../exp2 0 55000 5 4 process division: 784699,112093
+exp time [s] = 5
+Mon May 17 09:40:50  1999
+../exp2 0 55000 5 4 combine: 784699,112093
+exp time [s] = 2
+Mon May 17 09:40:53  1999
+../exp2 0 55000 5 4 process division: 672606,112093
+exp time [s] = 5
+Mon May 17 09:40:59  1999
+../exp2 0 55000 5 4 combine: 672606,112093
+exp time [s] = 2
+Mon May 17 09:41:02  1999
+../exp2 0 55000 5 4 process division: 560513,112093
+exp time [s] = 5
+Mon May 17 09:41:07  1999
+../exp2 0 55000 5 4 combine: 560513,112093
+exp time [s] = 2
+Mon May 17 09:41:10  1999
+../exp2 0 55000 5 4 process division: 448420,112093
+exp time [s] = 4
+Mon May 17 09:41:16  1999
+../exp2 0 55000 5 4 combine: 448420,112093
+exp time [s] = 2
+Mon May 17 09:41:19  1999
+../exp2 0 55000 5 4 process division: 336327,112093
+exp time [s] = 5
+Mon May 17 09:41:24  1999
+../exp2 0 55000 5 4 combine: 336327,112093
+exp time [s] = 2
+Mon May 17 09:41:28  1999
+../exp2 0 55000 5 4 process division: 224234,112093
+exp time [s] = 9
+Mon May 17 09:41:37  1999
+../exp2 0 55000 5 4 combine: 224234,112093
+exp time [s] = 3
+Mon May 17 09:41:41  1999
+../exp2 0 55000 5 4 process division: 112141,112093
+exp time [s] = 5
+Mon May 17 09:41:47  1999
+../exp2 0 55000 5 4 combine: 112141,112093
+exp time [s] = 2
+Mon May 17 09:41:51  1999
+../exp2 0 55000 5 4 process division: 48,112093
+exp time [s] = 0
+Mon May 17 09:41:52  1999
+../exp2 0 55000 5 4 READY!
+Mon May 17 09:41:52  1999
+../exp2 55000 exp time [s] = 73
+Mon May 17 09:43:06  1999
+Mon May 17 09:53:50  1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Mon May 17 09:53:50  1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Mon May 17 09:53:51  1999
+Mon May 17 09:53:51  1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Mon May 17 09:53:52  1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Mon May 17 09:53:53  1999
+Mon May 17 09:53:53  1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Mon May 17 09:53:53  1999
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Mon May 17 09:53:54  1999
+Mon May 17 09:53:54  1999
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Mon May 17 09:53:55  1999
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Mon May 17 09:53:55  1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Mon May 17 09:53:56  1999
+Mon May 17 09:53:56  1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Mon May 17 09:53:57  1999
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Mon May 17 09:53:58  1999
+Mon May 17 09:53:58  1999
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Mon May 17 09:53:58  1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Mon May 17 09:53:59  1999
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Mon May 17 09:54:00  1999
+../exp2 3 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine3
+exp time [s] = 0
+Mon May 17 09:54:00  1999
+../exp2 4 ../0-7/ ../8-15/ ../0-7/exp-p1.tmp read......ok!
+exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine4
+exp time [s] = 0
+Mon May 17 09:54:00  1999
+../exp2 5 ../0-7/ ../8-15/ ../0-7/exp-p2.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine5
+exp time [s] = 0
+Mon May 17 09:54:01  1999
+../exp2 6 ../0-7/ ../8-15/ ../0-7/exp-p3.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine6
+exp time [s] = 0
+Mon May 17 09:54:01  1999
+../exp2 0 5500 4 4 decimals=42989
+process division: 142848,4462
+exp time [s] = 0
+Mon May 17 09:54:02  1999
+../exp2 0 5500 5 4 combine: 142848,4462
+exp time [s] = 0
+Mon May 17 09:54:02  1999
+../exp2 0 5500 5 4 process division: 138386,4462
+exp time [s] = 1
+Mon May 17 09:54:03  1999
+../exp2 0 5500 5 4 combine: 138386,4462
+exp time [s] = 0
+Mon May 17 09:54:03  1999
+../exp2 0 5500 5 4 process division: 133924,4462
+exp time [s] = 0
+Mon May 17 09:54:03  1999
+../exp2 0 5500 5 4 combine: 133924,4462
+exp time [s] = 0
+Mon May 17 09:54:04  1999
+../exp2 0 5500 5 4 process division: 129462,4462
+exp time [s] = 0
+Mon May 17 09:54:04  1999
+../exp2 0 5500 5 4 combine: 129462,4462
+exp time [s] = 0
+Mon May 17 09:54:04  1999
+../exp2 0 5500 5 4 process division: 125000,4462
+exp time [s] = 0
+Mon May 17 09:54:05  1999
+../exp2 0 5500 5 4 combine: 125000,4462
+exp time [s] = 0
+Mon May 17 09:54:05  1999
+../exp2 0 5500 5 4 process division: 120538,4462
+exp time [s] = 0
+Mon May 17 09:54:06  1999
+../exp2 0 5500 5 4 combine: 120538,4462
+exp time [s] = 0
+Mon May 17 09:54:06  1999
+../exp2 0 5500 5 4 process division: 116076,4462
+exp time [s] = 0
+Mon May 17 09:54:06  1999
+../exp2 0 5500 5 4 combine: 116076,4462
+exp time [s] = 0
+Mon May 17 09:54:07  1999
+../exp2 0 5500 5 4 process division: 111614,4462
+exp time [s] = 0
+Mon May 17 09:54:07  1999
+../exp2 0 5500 5 4 combine: 111614,4462
+exp time [s] = 0
+Mon May 17 09:54:07  1999
+../exp2 0 5500 5 4 process division: 107152,4462
+exp time [s] = 0
+Mon May 17 09:54:08  1999
+../exp2 0 5500 5 4 combine: 107152,4462
+exp time [s] = 0
+Mon May 17 09:54:08  1999
+../exp2 0 5500 5 4 process division: 102690,4462
+exp time [s] = 0
+Mon May 17 09:54:09  1999
+../exp2 0 5500 5 4 combine: 102690,4462
+exp time [s] = 0
+Mon May 17 09:54:09  1999
+../exp2 0 5500 5 4 process division: 98228,4462
+exp time [s] = 0
+Mon May 17 09:54:09  1999
+../exp2 0 5500 5 4 combine: 98228,4462
+exp time [s] = 0
+Mon May 17 09:54:10  1999
+../exp2 0 5500 5 4 process division: 93766,4462
+exp time [s] = 0
+Mon May 17 09:54:10  1999
+../exp2 0 5500 5 4 combine: 93766,4462
+exp time [s] = 0
+Mon May 17 09:54:10  1999
+../exp2 0 5500 5 4 process division: 89304,4462
+exp time [s] = 0
+Mon May 17 09:54:11  1999
+../exp2 0 5500 5 4 combine: 89304,4462
+exp time [s] = 0
+Mon May 17 09:54:11  1999
+../exp2 0 5500 5 4 process division: 84842,4462
+exp time [s] = 1
+Mon May 17 09:54:12  1999
+../exp2 0 5500 5 4 combine: 84842,4462
+exp time [s] = 0
+Mon May 17 09:54:12  1999
+../exp2 0 5500 5 4 process division: 80380,4462
+exp time [s] = 0
+Mon May 17 09:54:12  1999
+../exp2 0 5500 5 4 combine: 80380,4462
+exp time [s] = 0
+Mon May 17 09:54:13  1999
+../exp2 0 5500 5 4 process division: 75918,4462
+exp time [s] = 0
+Mon May 17 09:54:13  1999
+../exp2 0 5500 5 4 combine: 75918,4462
+exp time [s] = 0
+Mon May 17 09:54:14  1999
+../exp2 0 5500 5 4 process division: 71456,4462
+exp time [s] = 0
+Mon May 17 09:54:14  1999
+../exp2 0 5500 5 4 combine: 71456,4462
+exp time [s] = 0
+Mon May 17 09:54:14  1999
+../exp2 0 5500 4 4 decimals=42989
+process division: 142848,4462
+exp time [s] = 1
+Mon May 17 09:54:15  1999
+../exp2 0 5500 5 4 combine: 142848,4462
+exp time [s] = 0
+Mon May 17 09:54:15  1999
+../exp2 0 5500 5 4 process division: 138386,4462
+exp time [s] = 0
+Mon May 17 09:54:15  1999
+../exp2 0 5500 5 4 combine: 138386,4462
+exp time [s] = 0
+Mon May 17 09:54:16  1999
+../exp2 0 5500 5 4 process division: 133924,4462
+exp time [s] = 0
+Mon May 17 09:54:16  1999
+../exp2 0 5500 5 4 combine: 133924,4462
+exp time [s] = 0
+Mon May 17 09:54:17  1999
+../exp2 0 5500 5 4 process division: 129462,4462
+exp time [s] = 0
+Mon May 17 09:54:17  1999
+../exp2 0 5500 5 4 combine: 129462,4462
+exp time [s] = 0
+Mon May 17 09:54:17  1999
+../exp2 0 5500 5 4 process division: 125000,4462
+exp time [s] = 0
+Mon May 17 09:54:18  1999
+../exp2 0 5500 5 4 combine: 125000,4462
+exp time [s] = 0
+Mon May 17 09:54:18  1999
+../exp2 0 5500 5 4 process division: 120538,4462
+exp time [s] = 0
+Mon May 17 09:54:18  1999
+../exp2 0 5500 5 4 combine: 120538,4462
+exp time [s] = 0
+Mon May 17 09:54:19  1999
+../exp2 0 5500 5 4 process division: 116076,4462
+exp time [s] = 0
+Mon May 17 09:54:19  1999
+../exp2 0 5500 5 4 combine: 116076,4462
+exp time [s] = 0
+Mon May 17 09:54:19  1999
+../exp2 0 5500 5 4 process division: 111614,4462
+exp time [s] = 0
+Mon May 17 09:54:20  1999
+../exp2 0 5500 5 4 combine: 111614,4462
+exp time [s] = 0
+Mon May 17 09:54:20  1999
+../exp2 0 5500 5 4 process division: 107152,4462
+exp time [s] = 0
+Mon May 17 09:54:21  1999
+../exp2 0 5500 5 4 combine: 107152,4462
+exp time [s] = 0
+Mon May 17 09:54:21  1999
+../exp2 0 5500 5 4 process division: 102690,4462
+exp time [s] = 0
+Mon May 17 09:54:21  1999
+../exp2 0 5500 5 4 combine: 102690,4462
+exp time [s] = 0
+Mon May 17 09:54:22  1999
+../exp2 0 5500 5 4 process division: 98228,4462
+exp time [s] = 0
+Mon May 17 09:54:22  1999
+../exp2 0 5500 5 4 combine: 98228,4462
+exp time [s] = 0
+Mon May 17 09:54:22  1999
+../exp2 0 5500 5 4 process division: 93766,4462
+exp time [s] = 0
+Mon May 17 09:54:23  1999
+../exp2 0 5500 5 4 combine: 93766,4462
+exp time [s] = 0
+Mon May 17 09:54:23  1999
+../exp2 0 5500 5 4 process division: 89304,4462
+exp time [s] = 0
+Mon May 17 09:54:24  1999
+../exp2 0 5500 5 4 combine: 89304,4462
+exp time [s] = 0
+Mon May 17 09:54:24  1999
+../exp2 0 5500 5 4 process division: 84842,4462
+exp time [s] = 0
+Mon May 17 09:54:24  1999
+../exp2 0 5500 5 4 combine: 84842,4462
+exp time [s] = 0
+Mon May 17 09:54:25  1999
+../exp2 0 5500 5 4 process division: 80380,4462
+exp time [s] = 0
+Mon May 17 09:54:25  1999
+../exp2 0 5500 5 4 combine: 80380,4462
+exp time [s] = 0
+Mon May 17 09:54:25  1999
+../exp2 0 5500 5 4 process division: 75918,4462
+exp time [s] = 0
+Mon May 17 09:54:26  1999
+../exp2 0 5500 5 4 combine: 75918,4462
+exp time [s] = 0
+Mon May 17 09:54:26  1999
+../exp2 0 5500 5 4 process division: 71456,4462
+exp time [s] = 0
+Mon May 17 09:54:27  1999
+../exp2 0 5500 5 4 combine: 71456,4462
+exp time [s] = 0
+Mon May 17 09:54:27  1999
+../exp2 5500 Note (different BETA)!
+Error!
+exp time [s] = 0
+Mon May 17 09:54:27  1999
+Tue Jun  1 22:43:05  1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Tue Jun  1 22:43:06  1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Tue Jun  1 22:43:08  1999
+Tue Jun  1 22:43:08  1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Tue Jun  1 22:43:09  1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Tue Jun  1 22:43:11  1999
+Tue Jun  1 22:43:11  1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Tue Jun  1 22:43:13  1999
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Tue Jun  1 22:43:14  1999
+Tue Jun  1 22:43:14  1999
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Tue Jun  1 22:43:16  1999
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Tue Jun  1 22:43:17  1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 2
+Tue Jun  1 22:43:20  1999
+Tue Jun  1 22:43:20  1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 2
+Tue Jun  1 22:43:23  1999
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 2
+Tue Jun  1 22:43:26  1999
+Tue Jun  1 22:43:26  1999
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 1
+Tue Jun  1 22:43:28  1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 2
+Tue Jun  1 22:43:33  1999
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 1
+Tue Jun  1 22:43:36  1999
+../exp2 3 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine3
+exp time [s] = 1
+Tue Jun  1 22:43:38  1999
+../exp2 4 ../0-7/ ../8-15/ ../0-7/exp-p1.tmp read......ok!
+exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine4
+exp time [s] = 1
+Tue Jun  1 22:43:41  1999
+../exp2 5 ../0-7/ ../8-15/ ../0-7/exp-p2.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine5
+exp time [s] = 1
+Tue Jun  1 22:43:43  1999
+../exp2 6 ../0-7/ ../8-15/ ../0-7/exp-p3.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine6
+exp time [s] = 1
+Tue Jun  1 22:43:45  1999
+../exp2 0 50000 4 4 decimals=486673
+process division: 1616736,50521
+exp time [s] = 2
+Tue Jun  1 22:43:49  1999
+../exp2 0 50000 5 4 combine: 1616736,50521
+exp time [s] = 1
+Tue Jun  1 22:43:52  1999
+../exp2 0 50000 5 4 process division: 1566215,50521
+exp time [s] = 2
+Tue Jun  1 22:43:56  1999
+../exp2 0 50000 5 4 combine: 1566215,50521
+exp time [s] = 1
+Tue Jun  1 22:43:59  1999
+../exp2 0 50000 5 4 process division: 1515694,50521
+exp time [s] = 2
+Tue Jun  1 22:44:02  1999
+../exp2 0 50000 5 4 combine: 1515694,50521
+exp time [s] = 1
+Tue Jun  1 22:44:05  1999
+../exp2 0 50000 5 4 process division: 1465173,50521
+exp time [s] = 2
+Tue Jun  1 22:44:09  1999
+../exp2 0 50000 5 4 combine: 1465173,50521
+exp time [s] = 1
+Tue Jun  1 22:44:12  1999
+../exp2 0 50000 5 4 process division: 1414652,50521
+exp time [s] = 2
+Tue Jun  1 22:44:16  1999
+../exp2 0 50000 5 4 combine: 1414652,50521
+exp time [s] = 1
+Tue Jun  1 22:44:19  1999
+../exp2 0 50000 5 4 process division: 1364131,50521
+exp time [s] = 2
+Tue Jun  1 22:44:23  1999
+../exp2 0 50000 5 4 combine: 1364131,50521
+exp time [s] = 1
+Tue Jun  1 22:44:26  1999
+../exp2 0 50000 5 4 process division: 1313610,50521
+exp time [s] = 2
+Tue Jun  1 22:44:30  1999
+../exp2 0 50000 5 4 combine: 1313610,50521
+exp time [s] = 1
+Tue Jun  1 22:44:33  1999
+../exp2 0 50000 5 4 process division: 1263089,50521
+exp time [s] = 2
+Tue Jun  1 22:44:37  1999
+../exp2 0 50000 5 4 combine: 1263089,50521
+exp time [s] = 1
+Tue Jun  1 22:44:40  1999
+../exp2 0 50000 5 4 process division: 1212568,50521
+exp time [s] = 2
+Tue Jun  1 22:44:44  1999
+../exp2 0 50000 5 4 combine: 1212568,50521
+exp time [s] = 1
+Tue Jun  1 22:44:47  1999
+../exp2 0 50000 5 4 process division: 1162047,50521
+exp time [s] = 3
+Tue Jun  1 22:44:51  1999
+../exp2 0 50000 5 4 combine: 1162047,50521
+exp time [s] = 1
+Tue Jun  1 22:44:54  1999
+../exp2 0 50000 5 4 process division: 1111526,50521
+exp time [s] = 2
+Tue Jun  1 22:44:58  1999
+../exp2 0 50000 5 4 combine: 1111526,50521
+exp time [s] = 1
+Tue Jun  1 22:45:01  1999
+../exp2 0 50000 5 4 process division: 1061005,50521
+exp time [s] = 2
+Tue Jun  1 22:45:05  1999
+../exp2 0 50000 5 4 combine: 1061005,50521
+exp time [s] = 1
+Tue Jun  1 22:45:08  1999
+../exp2 0 50000 5 4 process division: 1010484,50521
+exp time [s] = 2
+Tue Jun  1 22:45:12  1999
+../exp2 0 50000 5 4 combine: 1010484,50521
+exp time [s] = 1
+Tue Jun  1 22:45:16  1999
+../exp2 0 50000 5 4 process division: 959963,50521
+exp time [s] = 2
+Tue Jun  1 22:45:19  1999
+../exp2 0 50000 5 4 combine: 959963,50521
+exp time [s] = 1
+Tue Jun  1 22:45:23  1999
+../exp2 0 50000 5 4 process division: 909442,50521
+exp time [s] = 2
+Tue Jun  1 22:45:27  1999
+../exp2 0 50000 5 4 combine: 909442,50521
+exp time [s] = 1
+Tue Jun  1 22:45:30  1999
+../exp2 0 50000 5 4 process division: 858921,50521
+exp time [s] = 2
+Tue Jun  1 22:45:34  1999
+../exp2 0 50000 5 4 combine: 858921,50521
+exp time [s] = 1
+Tue Jun  1 22:45:38  1999
+../exp2 0 50000 5 4 process division: 808400,50521
+exp time [s] = 2
+Tue Jun  1 22:45:42  1999
+../exp2 0 50000 5 4 combine: 808400,50521
+exp time [s] = 1
+Tue Jun  1 22:45:45  1999
+../exp2 0 50000 5 4 process division: 757879,50521
+exp time [s] = 2
+Tue Jun  1 22:45:49  1999
+../exp2 0 50000 5 4 combine: 757879,50521
+exp time [s] = 1
+Tue Jun  1 22:45:53  1999
+../exp2 0 50000 5 4 process division: 707358,50521
+exp time [s] = 2
+Tue Jun  1 22:45:57  1999
+../exp2 0 50000 5 4 combine: 707358,50521
+exp time [s] = 1
+Tue Jun  1 22:46:00  1999
+../exp2 0 50000 5 4 process division: 656837,50521
+exp time [s] = 2
+Tue Jun  1 22:46:04  1999
+../exp2 0 50000 5 4 combine: 656837,50521
+exp time [s] = 1
+Tue Jun  1 22:46:08  1999
+../exp2 0 50000 5 4 process division: 606316,50521
+exp time [s] = 2
+Tue Jun  1 22:46:12  1999
+../exp2 0 50000 5 4 combine: 606316,50521
+exp time [s] = 1
+Tue Jun  1 22:46:16  1999
+../exp2 0 50000 5 4 process division: 555795,50521
+exp time [s] = 3
+Tue Jun  1 22:46:20  1999
+../exp2 0 50000 5 4 combine: 555795,50521
+exp time [s] = 1
+Tue Jun  1 22:46:24  1999
+../exp2 0 50000 5 4 process division: 505274,50521
+exp time [s] = 2
+Tue Jun  1 22:46:27  1999
+../exp2 0 50000 5 4 combine: 505274,50521
+exp time [s] = 1
+Tue Jun  1 22:46:31  1999
+../exp2 0 50000 5 4 process division: 454753,50521
+exp time [s] = 2
+Tue Jun  1 22:46:35  1999
+../exp2 0 50000 5 4 combine: 454753,50521
+exp time [s] = 1
+Tue Jun  1 22:46:39  1999
+../exp2 0 50000 5 4 process division: 404232,50521
+exp time [s] = 2
+Tue Jun  1 22:46:43  1999
+../exp2 0 50000 5 4 combine: 404232,50521
+exp time [s] = 1
+Tue Jun  1 22:46:47  1999
+../exp2 0 50000 5 4 process division: 353711,50521
+exp time [s] = 2
+Tue Jun  1 22:46:51  1999
+../exp2 0 50000 5 4 combine: 353711,50521
+exp time [s] = 1
+Tue Jun  1 22:46:55  1999
+../exp2 0 50000 5 4 process division: 303190,50521
+exp time [s] = 2
+Tue Jun  1 22:46:59  1999
+../exp2 0 50000 5 4 combine: 303190,50521
+exp time [s] = 1
+Tue Jun  1 22:47:03  1999
+../exp2 0 50000 5 4 process division: 252669,50521
+exp time [s] = 2
+Tue Jun  1 22:47:07  1999
+../exp2 0 50000 5 4 combine: 252669,50521
+exp time [s] = 1
+Tue Jun  1 22:47:12  1999
+../exp2 0 50000 5 4 process division: 202148,50521
+exp time [s] = 2
+Tue Jun  1 22:47:15  1999
+../exp2 0 50000 5 4 combine: 202148,50521
+exp time [s] = 1
+Tue Jun  1 22:47:20  1999
+../exp2 0 50000 5 4 process division: 151627,50521
+exp time [s] = 2
+Tue Jun  1 22:47:24  1999
+../exp2 0 50000 5 4 combine: 151627,50521
+exp time [s] = 1
+Tue Jun  1 22:47:28  1999
+../exp2 0 50000 5 4 process division: 101106,50521
+exp time [s] = 2
+Tue Jun  1 22:47:32  1999
+../exp2 0 50000 5 4 combine: 101106,50521
+exp time [s] = 1
+Tue Jun  1 22:47:36  1999
+../exp2 0 50000 5 4 process division: 50585,50521
+exp time [s] = 2
+Tue Jun  1 22:47:40  1999
+../exp2 0 50000 5 4 combine: 50585,50521
+exp time [s] = 1
+Tue Jun  1 22:47:45  1999
+../exp2 0 50000 5 4 process division: 64,50521
+exp time [s] = 0
+Tue Jun  1 22:47:48  1999
+../exp2 0 50000 5 4 READY!
+Tue Jun  1 22:47:48  1999
+../exp2 50000 exp time [s] = 53
+Tue Jun  1 22:48:43  1999
+Wed Jun  2 08:35:53  1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Wed Jun  2 08:35:55  1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Wed Jun  2 08:35:55  1999
+Wed Jun  2 08:35:56  1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Wed Jun  2 08:35:56  1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Wed Jun  2 08:35:57  1999
+Wed Jun  2 08:35:57  1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Wed Jun  2 08:35:58  1999
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Wed Jun  2 08:35:59  1999
+Wed Jun  2 08:35:59  1999
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Wed Jun  2 08:36:00  1999
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Wed Jun  2 08:36:01  1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Wed Jun  2 08:36:02  1999
+Wed Jun  2 08:36:02  1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Wed Jun  2 08:36:03  1999
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Wed Jun  2 08:36:04  1999
+Wed Jun  2 08:36:04  1999
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Wed Jun  2 08:36:05  1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Wed Jun  2 08:36:07  1999
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Wed Jun  2 08:36:08  1999
+../exp2 3 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine3
+exp time [s] = 0
+Wed Jun  2 08:36:09  1999
+../exp2 4 ../0-7/ ../8-15/ ../0-7/exp-p1.tmp read......ok!
+exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine4
+exp time [s] = 0
+Wed Jun  2 08:36:10  1999
+../exp2 5 ../0-7/ ../8-15/ ../0-7/exp-p2.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine5
+exp time [s] = 0
+Wed Jun  2 08:36:10  1999
+../exp2 6 ../0-7/ ../8-15/ ../0-7/exp-p3.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine6
+exp time [s] = 0
+Wed Jun  2 08:36:11  1999
+../exp2 0 10000 4 4 decimals=83355
+process division: 276960,8653
+exp time [s] = 0
+Wed Jun  2 08:36:12  1999
+../exp2 0 10000 5 4 combine: 276960,8653
+exp time [s] = 0
+Wed Jun  2 08:36:13  1999
+../exp2 0 10000 5 4 process division: 268307,8653
+exp time [s] = 1
+Wed Jun  2 08:36:13  1999
+../exp2 0 10000 5 4 combine: 268307,8653
+exp time [s] = 0
+Wed Jun  2 08:36:14  1999
+../exp2 0 10000 5 4 process division: 259654,8653
+exp time [s] = 0
+Wed Jun  2 08:36:15  1999
+../exp2 0 10000 5 4 combine: 259654,8653
+exp time [s] = 0
+Wed Jun  2 08:36:15  1999
+../exp2 0 10000 5 4 process division: 251001,8653
+exp time [s] = 0
+Wed Jun  2 08:36:16  1999
+../exp2 0 10000 5 4 combine: 251001,8653
+exp time [s] = 0
+Wed Jun  2 08:36:16  1999
+../exp2 0 10000 5 4 process division: 242348,8653
+exp time [s] = 0
+Wed Jun  2 08:36:17  1999
+../exp2 0 10000 5 4 combine: 242348,8653
+exp time [s] = 0
+Wed Jun  2 08:36:18  1999
+../exp2 0 10000 5 4 process division: 233695,8653
+exp time [s] = 1
+Wed Jun  2 08:36:18  1999
+../exp2 0 10000 5 4 combine: 233695,8653
+exp time [s] = 0
+Wed Jun  2 08:36:19  1999
+../exp2 0 10000 5 4 process division: 225042,8653
+exp time [s] = 0
+Wed Jun  2 08:36:20  1999
+../exp2 0 10000 5 4 combine: 225042,8653
+exp time [s] = 0
+Wed Jun  2 08:36:21  1999
+../exp2 0 10000 5 4 process division: 216389,8653
+exp time [s] = 1
+Wed Jun  2 08:36:21  1999
+../exp2 0 10000 5 4 combine: 216389,8653
+exp time [s] = 0
+Wed Jun  2 08:36:22  1999
+../exp2 0 10000 5 4 process division: 207736,8653
+exp time [s] = 0
+Wed Jun  2 08:36:23  1999
+../exp2 0 10000 5 4 combine: 207736,8653
+exp time [s] = 0
+Wed Jun  2 08:36:23  1999
+../exp2 0 10000 5 4 process division: 199083,8653
+exp time [s] = 0
+Wed Jun  2 08:36:24  1999
+../exp2 0 10000 5 4 combine: 199083,8653
+exp time [s] = 0
+Wed Jun  2 08:36:24  1999
+../exp2 0 10000 5 4 process division: 190430,8653
+exp time [s] = 0
+Wed Jun  2 08:36:25  1999
+../exp2 0 10000 5 4 combine: 190430,8653
+exp time [s] = 0
+Wed Jun  2 08:36:26  1999
+../exp2 0 10000 5 4 process division: 181777,8653
+exp time [s] = 0
+Wed Jun  2 08:36:26  1999
+../exp2 0 10000 5 4 combine: 181777,8653
+exp time [s] = 0
+Wed Jun  2 08:36:27  1999
+../exp2 0 10000 5 4 process division: 173124,8653
+exp time [s] = 0
+Wed Jun  2 08:36:28  1999
+../exp2 0 10000 5 4 combine: 173124,8653
+exp time [s] = 0
+Wed Jun  2 08:36:29  1999
+../exp2 0 10000 5 4 process division: 164471,8653
+exp time [s] = 1
+Wed Jun  2 08:36:29  1999
+../exp2 0 10000 5 4 combine: 164471,8653
+exp time [s] = 0
+Wed Jun  2 08:36:30  1999
+../exp2 0 10000 5 4 process division: 155818,8653
+exp time [s] = 0
+Wed Jun  2 08:36:31  1999
+../exp2 0 10000 5 4 combine: 155818,8653
+exp time [s] = 1
+Wed Jun  2 08:36:31  1999
+../exp2 0 10000 5 4 process division: 147165,8653
+exp time [s] = 1
+Wed Jun  2 08:36:32  1999
+../exp2 0 10000 5 4 combine: 147165,8653
+exp time [s] = 0
+Wed Jun  2 08:36:33  1999
+../exp2 0 10000 5 4 process division: 138512,8653
+exp time [s] = 0
+Wed Jun  2 08:36:34  1999
+../exp2 0 10000 5 4 combine: 138512,8653
+exp time [s] = 0
+Wed Jun  2 08:36:34  1999
+../exp2 0 10000 5 4 process division: 129859,8653
+exp time [s] = 0
+Wed Jun  2 08:36:35  1999
+../exp2 0 10000 5 4 combine: 129859,8653
+exp time [s] = 0
+Wed Jun  2 08:36:36  1999
+../exp2 0 10000 5 4 process division: 121206,8653
+exp time [s] = 0
+Wed Jun  2 08:36:36  1999
+../exp2 0 10000 5 4 combine: 121206,8653
+exp time [s] = 0
+Wed Jun  2 08:36:37  1999
+../exp2 0 10000 5 4 process division: 112553,8653
+exp time [s] = 0
+Wed Jun  2 08:36:38  1999
+../exp2 0 10000 5 4 combine: 112553,8653
+exp time [s] = 0
+Wed Jun  2 08:36:39  1999
+../exp2 0 10000 5 4 process division: 103900,8653
+exp time [s] = 1
+Wed Jun  2 08:36:39  1999
+../exp2 0 10000 5 4 combine: 103900,8653
+exp time [s] = 0
+Wed Jun  2 08:36:40  1999
+../exp2 0 10000 5 4 process division: 95247,8653
+exp time [s] = 0
+Wed Jun  2 08:36:41  1999
+../exp2 0 10000 5 4 combine: 95247,8653
+exp time [s] = 0
+Wed Jun  2 08:36:41  1999
+../exp2 0 10000 5 4 process division: 86594,8653
+exp time [s] = 0
+Wed Jun  2 08:36:42  1999
+../exp2 0 10000 5 4 combine: 86594,8653
+exp time [s] = 0
+Wed Jun  2 08:36:43  1999
+../exp2 0 10000 5 4 process division: 77941,8653
+exp time [s] = 0
+Wed Jun  2 08:36:44  1999
+../exp2 0 10000 5 4 combine: 77941,8653
+exp time [s] = 0
+Wed Jun  2 08:36:45  1999
+../exp2 0 10000 5 4 process division: 69288,8653
+exp time [s] = 1
+Wed Jun  2 08:36:45  1999
+../exp2 0 10000 5 4 combine: 69288,8653
+exp time [s] = 0
+Wed Jun  2 08:36:46  1999
+../exp2 0 10000 5 4 process division: 60635,8653
+exp time [s] = 0
+Wed Jun  2 08:36:47  1999
+../exp2 0 10000 5 4 combine: 60635,8653
+exp time [s] = 0
+Wed Jun  2 08:36:48  1999
+../exp2 0 10000 5 4 process division: 51982,8653
+exp time [s] = 1
+Wed Jun  2 08:36:48  1999
+../exp2 0 10000 5 4 combine: 51982,8653
+exp time [s] = 0
+Wed Jun  2 08:36:49  1999
+../exp2 0 10000 5 4 process division: 43329,8653
+exp time [s] = 0
+Wed Jun  2 08:36:50  1999
+../exp2 0 10000 5 4 combine: 43329,8653
+exp time [s] = 0
+Wed Jun  2 08:36:51  1999
+../exp2 0 10000 5 4 process division: 34676,8653
+exp time [s] = 1
+Wed Jun  2 08:36:51  1999
+../exp2 0 10000 5 4 combine: 34676,8653
+exp time [s] = 0
+Wed Jun  2 08:36:52  1999
+../exp2 0 10000 5 4 process division: 26023,8653
+exp time [s] = 0
+Wed Jun  2 08:36:53  1999
+../exp2 0 10000 5 4 combine: 26023,8653
+exp time [s] = 0
+Wed Jun  2 08:36:54  1999
+../exp2 0 10000 5 4 process division: 17370,8653
+exp time [s] = 0
+Wed Jun  2 08:36:54  1999
+../exp2 0 10000 5 4 combine: 17370,8653
+exp time [s] = 0
+Wed Jun  2 08:36:55  1999
+../exp2 0 10000 5 4 process division: 8717,8653
+exp time [s] = 0
+Wed Jun  2 08:36:56  1999
+../exp2 0 10000 5 4 combine: 8717,8653
+exp time [s] = 0
+Wed Jun  2 08:36:57  1999
+../exp2 0 10000 5 4 process division: 64,8653
+exp time [s] = 0
+Wed Jun  2 08:36:58  1999
+../exp2 0 10000 5 4 READY!
+Wed Jun  2 08:36:58  1999
+../exp2 10000 exp time [s] = 3
+Wed Jun  2 08:37:02  1999
+Thu Jun  3 16:34:09  1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Thu Jun  3 16:34:10  1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:34:11  1999
+Thu Jun  3 16:34:11  1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:34:11  1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:34:12  1999
+Thu Jun  3 16:34:12  1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:34:14  1999
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:34:14  1999
+Thu Jun  3 16:34:14  1999
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:34:15  1999
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 16:34:16  1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:34:17  1999
+Thu Jun  3 16:34:17  1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:34:18  1999
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:34:19  1999
+Thu Jun  3 16:34:19  1999
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 16:34:20  1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:34:21  1999
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 16:34:22  1999
+../exp2 3 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine3
+exp time [s] = 0
+Thu Jun  3 16:34:22  1999
+../exp2 4 ../0-7/ ../8-15/ ../0-7/exp-p1.tmp read......ok!
+exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine4
+exp time [s] = 0
+Thu Jun  3 16:34:23  1999
+../exp2 5 ../0-7/ ../8-15/ ../0-7/exp-p2.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine5
+exp time [s] = 0
+Thu Jun  3 16:34:24  1999
+../exp2 6 ../0-7/ ../8-15/ ../0-7/exp-p3.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine6
+exp time [s] = 0
+Thu Jun  3 16:34:24  1999
+../exp2 0 10000 4 4 decimals=83355
+process division: 276992,8653
+exp time [s] = 1
+Thu Jun  3 16:34:25  1999
+../exp2 0 10000 5 4 combine: 276992,8653
+exp time [s] = 0
+Thu Jun  3 16:34:26  1999
+../exp2 0 10000 5 4 process division: 268339,8653
+exp time [s] = 0
+Thu Jun  3 16:34:26  1999
+../exp2 0 10000 5 4 combine: 268339,8653
+exp time [s] = 1
+Thu Jun  3 16:34:27  1999
+../exp2 0 10000 5 4 process division: 259686,8653
+exp time [s] = 0
+Thu Jun  3 16:34:27  1999
+../exp2 0 10000 5 4 combine: 259686,8653
+exp time [s] = 0
+Thu Jun  3 16:34:28  1999
+../exp2 0 10000 5 4 process division: 251033,8653
+exp time [s] = 0
+Thu Jun  3 16:34:28  1999
+../exp2 0 10000 5 4 combine: 251033,8653
+exp time [s] = 0
+Thu Jun  3 16:34:29  1999
+../exp2 0 10000 5 4 process division: 242380,8653
+exp time [s] = 0
+Thu Jun  3 16:34:30  1999
+../exp2 0 10000 5 4 combine: 242380,8653
+exp time [s] = 0
+Thu Jun  3 16:34:30  1999
+../exp2 0 10000 5 4 process division: 233727,8653
+exp time [s] = 1
+Thu Jun  3 16:34:31  1999
+../exp2 0 10000 5 4 combine: 233727,8653
+exp time [s] = 0
+Thu Jun  3 16:34:31  1999
+../exp2 0 10000 5 4 process division: 225074,8653
+exp time [s] = 1
+Thu Jun  3 16:34:32  1999
+../exp2 0 10000 5 4 combine: 225074,8653
+exp time [s] = 0
+Thu Jun  3 16:34:32  1999
+../exp2 0 10000 5 4 process division: 216421,8653
+exp time [s] = 0
+Thu Jun  3 16:34:33  1999
+../exp2 0 10000 5 4 combine: 216421,8653
+exp time [s] = 0
+Thu Jun  3 16:34:33  1999
+../exp2 0 10000 5 4 process division: 207768,8653
+exp time [s] = 0
+Thu Jun  3 16:34:34  1999
+../exp2 0 10000 5 4 combine: 207768,8653
+exp time [s] = 0
+Thu Jun  3 16:34:35  1999
+../exp2 0 10000 5 4 process division: 199115,8653
+exp time [s] = 0
+Thu Jun  3 16:34:35  1999
+../exp2 0 10000 5 4 combine: 199115,8653
+exp time [s] = 0
+Thu Jun  3 16:34:36  1999
+../exp2 0 10000 5 4 process division: 190462,8653
+exp time [s] = 0
+Thu Jun  3 16:34:36  1999
+../exp2 0 10000 5 4 combine: 190462,8653
+exp time [s] = 0
+Thu Jun  3 16:34:37  1999
+../exp2 0 10000 5 4 process division: 181809,8653
+exp time [s] = 0
+Thu Jun  3 16:34:37  1999
+../exp2 0 10000 5 4 combine: 181809,8653
+exp time [s] = 0
+Thu Jun  3 16:34:38  1999
+../exp2 0 10000 5 4 process division: 173156,8653
+exp time [s] = 0
+Thu Jun  3 16:34:39  1999
+../exp2 0 10000 5 4 combine: 173156,8653
+exp time [s] = 0
+Thu Jun  3 16:34:39  1999
+../exp2 0 10000 5 4 process division: 164503,8653
+exp time [s] = 0
+Thu Jun  3 16:34:40  1999
+../exp2 0 10000 5 4 combine: 164503,8653
+exp time [s] = 0
+Thu Jun  3 16:34:40  1999
+../exp2 0 10000 5 4 process division: 155850,8653
+exp time [s] = 1
+Thu Jun  3 16:34:41  1999
+../exp2 0 10000 5 4 combine: 155850,8653
+exp time [s] = 0
+Thu Jun  3 16:34:41  1999
+../exp2 0 10000 5 4 process division: 147197,8653
+exp time [s] = 0
+Thu Jun  3 16:34:42  1999
+../exp2 0 10000 5 4 combine: 147197,8653
+exp time [s] = 0
+Thu Jun  3 16:34:42  1999
+../exp2 0 10000 5 4 process division: 138544,8653
+exp time [s] = 0
+Thu Jun  3 16:34:43  1999
+../exp2 0 10000 5 4 combine: 138544,8653
+exp time [s] = 0
+Thu Jun  3 16:34:44  1999
+../exp2 0 10000 5 4 process division: 129891,8653
+exp time [s] = 0
+Thu Jun  3 16:34:44  1999
+../exp2 0 10000 5 4 combine: 129891,8653
+exp time [s] = 1
+Thu Jun  3 16:34:45  1999
+../exp2 0 10000 5 4 process division: 121238,8653
+exp time [s] = 0
+Thu Jun  3 16:34:45  1999
+../exp2 0 10000 5 4 combine: 121238,8653
+exp time [s] = 0
+Thu Jun  3 16:34:46  1999
+../exp2 0 10000 5 4 process division: 112585,8653
+exp time [s] = 0
+Thu Jun  3 16:34:46  1999
+../exp2 0 10000 5 4 combine: 112585,8653
+exp time [s] = 0
+Thu Jun  3 16:34:47  1999
+../exp2 0 10000 5 4 process division: 103932,8653
+exp time [s] = 0
+Thu Jun  3 16:34:48  1999
+../exp2 0 10000 5 4 combine: 103932,8653
+exp time [s] = 0
+Thu Jun  3 16:34:48  1999
+../exp2 0 10000 5 4 process division: 95279,8653
+exp time [s] = 1
+Thu Jun  3 16:34:49  1999
+../exp2 0 10000 5 4 combine: 95279,8653
+exp time [s] = 0
+Thu Jun  3 16:34:49  1999
+../exp2 0 10000 5 4 process division: 86626,8653
+exp time [s] = 0
+Thu Jun  3 16:34:50  1999
+../exp2 0 10000 5 4 combine: 86626,8653
+exp time [s] = 0
+Thu Jun  3 16:34:50  1999
+../exp2 0 10000 5 4 process division: 77973,8653
+exp time [s] = 0
+Thu Jun  3 16:34:51  1999
+../exp2 0 10000 5 4 combine: 77973,8653
+exp time [s] = 0
+Thu Jun  3 16:34:52  1999
+../exp2 0 10000 5 4 process division: 69320,8653
+exp time [s] = 0
+Thu Jun  3 16:34:52  1999
+../exp2 0 10000 5 4 combine: 69320,8653
+exp time [s] = 0
+Thu Jun  3 16:34:53  1999
+../exp2 0 10000 5 4 process division: 60667,8653
+exp time [s] = 0
+Thu Jun  3 16:34:53  1999
+../exp2 0 10000 5 4 combine: 60667,8653
+exp time [s] = 0
+Thu Jun  3 16:34:54  1999
+../exp2 0 10000 5 4 process division: 52014,8653
+exp time [s] = 0
+Thu Jun  3 16:34:55  1999
+../exp2 0 10000 5 4 combine: 52014,8653
+exp time [s] = 0
+Thu Jun  3 16:34:55  1999
+../exp2 0 10000 5 4 process division: 43361,8653
+exp time [s] = 1
+Thu Jun  3 16:34:56  1999
+../exp2 0 10000 5 4 combine: 43361,8653
+exp time [s] = 0
+Thu Jun  3 16:34:56  1999
+../exp2 0 10000 5 4 process division: 34708,8653
+exp time [s] = 0
+Thu Jun  3 16:34:57  1999
+../exp2 0 10000 5 4 combine: 34708,8653
+exp time [s] = 0
+Thu Jun  3 16:34:57  1999
+../exp2 0 10000 5 4 process division: 26055,8653
+exp time [s] = 0
+Thu Jun  3 16:34:58  1999
+../exp2 0 10000 5 4 combine: 26055,8653
+exp time [s] = 0
+Thu Jun  3 16:34:59  1999
+../exp2 0 10000 5 4 process division: 17402,8653
+exp time [s] = 0
+Thu Jun  3 16:34:59  1999
+../exp2 0 10000 5 4 combine: 17402,8653
+exp time [s] = 0
+Thu Jun  3 16:35:00  1999
+../exp2 0 10000 5 4 process division: 8749,8653
+exp time [s] = 0
+Thu Jun  3 16:35:00  1999
+../exp2 0 10000 5 4 combine: 8749,8653
+exp time [s] = 0
+Thu Jun  3 16:35:01  1999
+../exp2 0 10000 5 4 process division: 96,8653
+exp time [s] = 0
+Thu Jun  3 16:35:02  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 16:35:02  1999
+../exp2 10000 exp time [s] = 4
+Thu Jun  3 16:35:06  1999
+Thu Jun  3 16:46:00  1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:46:01  1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:46:01  1999
+Thu Jun  3 16:46:01  1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:46:02  1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:46:03  1999
+Thu Jun  3 16:46:03  1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:46:03  1999
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:46:04  1999
+Thu Jun  3 16:46:04  1999
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:46:05  1999
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 16:46:05  1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:46:06  1999
+Thu Jun  3 16:46:06  1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:46:07  1999
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Thu Jun  3 16:46:08  1999
+Thu Jun  3 16:46:08  1999
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 16:46:08  1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:46:09  1999
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 16:46:10  1999
+../exp2 3 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine3
+exp time [s] = 1
+Thu Jun  3 16:46:11  1999
+../exp2 4 ../0-7/ ../8-15/ ../0-7/exp-p1.tmp read......ok!
+exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine4
+exp time [s] = 0
+Thu Jun  3 16:46:11  1999
+../exp2 5 ../0-7/ ../8-15/ ../0-7/exp-p2.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine5
+exp time [s] = 0
+Thu Jun  3 16:46:12  1999
+../exp2 6 ../0-7/ ../8-15/ ../0-7/exp-p3.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine6
+exp time [s] = 0
+Thu Jun  3 16:46:12  1999
+../exp2 0 10000 4 4 decimals=83355
+process division: 276960,8653
+exp time [s] = 1
+Thu Jun  3 16:46:13  1999
+../exp2 0 10000 5 4 combine: 276960,8653
+exp time [s] = 0
+Thu Jun  3 16:46:13  1999
+../exp2 0 10000 5 4 process division: 268307,8653
+exp time [s] = 1
+Thu Jun  3 16:46:14  1999
+../exp2 0 10000 5 4 combine: 268307,8653
+exp time [s] = 0
+Thu Jun  3 16:46:14  1999
+../exp2 0 10000 5 4 process division: 259654,8653
+exp time [s] = 1
+Thu Jun  3 16:46:15  1999
+../exp2 0 10000 5 4 combine: 259654,8653
+exp time [s] = 0
+Thu Jun  3 16:46:15  1999
+../exp2 0 10000 5 4 process division: 251001,8653
+exp time [s] = 1
+Thu Jun  3 16:46:16  1999
+../exp2 0 10000 5 4 combine: 251001,8653
+exp time [s] = 0
+Thu Jun  3 16:46:16  1999
+../exp2 0 10000 5 4 process division: 242348,8653
+exp time [s] = 1
+Thu Jun  3 16:46:17  1999
+../exp2 0 10000 5 4 combine: 242348,8653
+exp time [s] = 0
+Thu Jun  3 16:46:17  1999
+../exp2 0 10000 5 4 process division: 233695,8653
+exp time [s] = 1
+Thu Jun  3 16:46:18  1999
+../exp2 0 10000 5 4 combine: 233695,8653
+exp time [s] = 0
+Thu Jun  3 16:46:18  1999
+../exp2 0 10000 5 4 process division: 225042,8653
+exp time [s] = 1
+Thu Jun  3 16:46:19  1999
+../exp2 0 10000 5 4 combine: 225042,8653
+exp time [s] = 0
+Thu Jun  3 16:46:19  1999
+../exp2 0 10000 5 4 process division: 216389,8653
+exp time [s] = 1
+Thu Jun  3 16:46:20  1999
+../exp2 0 10000 5 4 combine: 216389,8653
+exp time [s] = 0
+Thu Jun  3 16:46:20  1999
+../exp2 0 10000 5 4 process division: 207736,8653
+exp time [s] = 1
+Thu Jun  3 16:46:21  1999
+../exp2 0 10000 5 4 combine: 207736,8653
+exp time [s] = 0
+Thu Jun  3 16:46:21  1999
+../exp2 0 10000 5 4 process division: 199083,8653
+exp time [s] = 1
+Thu Jun  3 16:46:22  1999
+../exp2 0 10000 5 4 combine: 199083,8653
+exp time [s] = 0
+Thu Jun  3 16:46:22  1999
+../exp2 0 10000 5 4 process division: 190430,8653
+exp time [s] = 1
+Thu Jun  3 16:46:23  1999
+../exp2 0 10000 5 4 combine: 190430,8653
+exp time [s] = 0
+Thu Jun  3 16:46:23  1999
+../exp2 0 10000 5 4 process division: 181777,8653
+exp time [s] = 1
+Thu Jun  3 16:46:24  1999
+../exp2 0 10000 5 4 combine: 181777,8653
+exp time [s] = 0
+Thu Jun  3 16:46:24  1999
+../exp2 0 10000 5 4 process division: 173124,8653
+exp time [s] = 1
+Thu Jun  3 16:46:25  1999
+../exp2 0 10000 5 4 combine: 173124,8653
+exp time [s] = 0
+Thu Jun  3 16:46:25  1999
+../exp2 0 10000 5 4 process division: 164471,8653
+exp time [s] = 1
+Thu Jun  3 16:46:26  1999
+../exp2 0 10000 5 4 combine: 164471,8653
+exp time [s] = 0
+Thu Jun  3 16:46:26  1999
+../exp2 0 10000 5 4 process division: 155818,8653
+exp time [s] = 1
+Thu Jun  3 16:46:27  1999
+../exp2 0 10000 5 4 combine: 155818,8653
+exp time [s] = 0
+Thu Jun  3 16:46:27  1999
+../exp2 0 10000 5 4 process division: 147165,8653
+exp time [s] = 1
+Thu Jun  3 16:46:28  1999
+../exp2 0 10000 5 4 combine: 147165,8653
+exp time [s] = 0
+Thu Jun  3 16:46:28  1999
+../exp2 0 10000 5 4 process division: 138512,8653
+exp time [s] = 0
+Thu Jun  3 16:46:29  1999
+../exp2 0 10000 5 4 combine: 138512,8653
+exp time [s] = 0
+Thu Jun  3 16:46:29  1999
+../exp2 0 10000 5 4 process division: 129859,8653
+exp time [s] = 1
+Thu Jun  3 16:46:30  1999
+../exp2 0 10000 5 4 combine: 129859,8653
+exp time [s] = 0
+Thu Jun  3 16:46:30  1999
+../exp2 0 10000 5 4 process division: 121206,8653
+exp time [s] = 1
+Thu Jun  3 16:46:31  1999
+../exp2 0 10000 5 4 combine: 121206,8653
+exp time [s] = 0
+Thu Jun  3 16:46:31  1999
+../exp2 0 10000 5 4 process division: 112553,8653
+exp time [s] = 1
+Thu Jun  3 16:46:32  1999
+../exp2 0 10000 5 4 combine: 112553,8653
+exp time [s] = 0
+Thu Jun  3 16:46:32  1999
+../exp2 0 10000 5 4 process division: 103900,8653
+exp time [s] = 1
+Thu Jun  3 16:46:33  1999
+../exp2 0 10000 5 4 combine: 103900,8653
+exp time [s] = 0
+Thu Jun  3 16:46:33  1999
+../exp2 0 10000 5 4 process division: 95247,8653
+exp time [s] = 0
+Thu Jun  3 16:46:34  1999
+../exp2 0 10000 5 4 combine: 95247,8653
+exp time [s] = 0
+Thu Jun  3 16:46:35  1999
+../exp2 0 10000 5 4 process division: 86594,8653
+exp time [s] = 0
+Thu Jun  3 16:46:35  1999
+../exp2 0 10000 5 4 combine: 86594,8653
+exp time [s] = 0
+Thu Jun  3 16:46:36  1999
+../exp2 0 10000 5 4 process division: 77941,8653
+exp time [s] = 0
+Thu Jun  3 16:46:36  1999
+../exp2 0 10000 5 4 combine: 77941,8653
+exp time [s] = 1
+Thu Jun  3 16:46:37  1999
+../exp2 0 10000 5 4 process division: 69288,8653
+exp time [s] = 0
+Thu Jun  3 16:46:37  1999
+../exp2 0 10000 5 4 combine: 69288,8653
+exp time [s] = 0
+Thu Jun  3 16:46:38  1999
+../exp2 0 10000 5 4 process division: 60635,8653
+exp time [s] = 0
+Thu Jun  3 16:46:38  1999
+../exp2 0 10000 5 4 combine: 60635,8653
+exp time [s] = 0
+Thu Jun  3 16:46:39  1999
+../exp2 0 10000 5 4 process division: 51982,8653
+exp time [s] = 0
+Thu Jun  3 16:46:40  1999
+../exp2 0 10000 5 4 combine: 51982,8653
+exp time [s] = 0
+Thu Jun  3 16:46:40  1999
+../exp2 0 10000 5 4 process division: 43329,8653
+exp time [s] = 1
+Thu Jun  3 16:46:41  1999
+../exp2 0 10000 5 4 combine: 43329,8653
+exp time [s] = 0
+Thu Jun  3 16:46:41  1999
+../exp2 0 10000 5 4 process division: 34676,8653
+exp time [s] = 0
+Thu Jun  3 16:46:42  1999
+../exp2 0 10000 5 4 combine: 34676,8653
+exp time [s] = 0
+Thu Jun  3 16:46:43  1999
+../exp2 0 10000 5 4 process division: 26023,8653
+exp time [s] = 0
+Thu Jun  3 16:46:43  1999
+../exp2 0 10000 5 4 combine: 26023,8653
+exp time [s] = 0
+Thu Jun  3 16:46:44  1999
+../exp2 0 10000 5 4 process division: 17370,8653
+exp time [s] = 0
+Thu Jun  3 16:46:44  1999
+../exp2 0 10000 5 4 combine: 17370,8653
+exp time [s] = 0
+Thu Jun  3 16:46:45  1999
+../exp2 0 10000 5 4 process division: 8717,8653
+exp time [s] = 0
+Thu Jun  3 16:46:45  1999
+../exp2 0 10000 5 4 combine: 8717,8653
+exp time [s] = 0
+Thu Jun  3 16:46:46  1999
+../exp2 0 10000 5 4 process division: 64,8653
+exp time [s] = 0
+Thu Jun  3 16:46:46  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 16:46:47  1999
+../exp2 10000 exp time [s] = 3
+Thu Jun  3 16:46:50  1999
+Thu Jun  3 16:51:30  1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:51:30  1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:51:31  1999
+Thu Jun  3 16:51:31  1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:51:32  1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:51:32  1999
+Thu Jun  3 16:51:32  1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:51:33  1999
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:51:33  1999
+Thu Jun  3 16:51:34  1999
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Thu Jun  3 16:51:34  1999
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 16:51:35  1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:51:35  1999
+Thu Jun  3 16:51:35  1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:51:36  1999
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:51:37  1999
+Thu Jun  3 16:51:37  1999
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 16:51:38  1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 16:51:39  1999
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 16:51:40  1999
+../exp2 3 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine3
+exp time [s] = 0
+Thu Jun  3 16:51:40  1999
+../exp2 4 ../0-7/ ../8-15/ ../0-7/exp-p1.tmp read......ok!
+exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine4
+exp time [s] = 0
+Thu Jun  3 16:51:41  1999
+../exp2 5 ../0-7/ ../8-15/ ../0-7/exp-p2.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine5
+exp time [s] = 0
+Thu Jun  3 16:51:41  1999
+../exp2 6 ../0-7/ ../8-15/ ../0-7/exp-p3.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine6
+exp time [s] = 0
+Thu Jun  3 16:51:42  1999
+../exp2 0 10000 4 4 decimals=83355
+process division: 276960,8653
+exp time [s] = 0
+Thu Jun  3 16:51:43  1999
+../exp2 0 10000 5 4 combine: 276960,8653
+exp time [s] = 1
+Thu Jun  3 16:51:43  1999
+../exp2 0 10000 5 4 process division: 268307,8653
+exp time [s] = 0
+Thu Jun  3 16:51:44  1999
+../exp2 0 10000 5 4 combine: 268307,8653
+exp time [s] = 0
+Thu Jun  3 16:51:44  1999
+../exp2 0 10000 5 4 process division: 259654,8653
+exp time [s] = 0
+Thu Jun  3 16:51:45  1999
+../exp2 0 10000 5 4 combine: 259654,8653
+exp time [s] = 0
+Thu Jun  3 16:51:46  1999
+../exp2 0 10000 5 4 process division: 251001,8653
+exp time [s] = 1
+Thu Jun  3 16:51:46  1999
+../exp2 0 10000 5 4 combine: 251001,8653
+exp time [s] = 0
+Thu Jun  3 16:51:47  1999
+../exp2 0 10000 5 4 process division: 242348,8653
+exp time [s] = 0
+Thu Jun  3 16:51:47  1999
+../exp2 0 10000 5 4 combine: 242348,8653
+exp time [s] = 0
+Thu Jun  3 16:51:48  1999
+../exp2 0 10000 5 4 process division: 233695,8653
+exp time [s] = 0
+Thu Jun  3 16:51:49  1999
+../exp2 0 10000 5 4 combine: 233695,8653
+exp time [s] = 0
+Thu Jun  3 16:51:49  1999
+../exp2 0 10000 5 4 process division: 225042,8653
+exp time [s] = 0
+Thu Jun  3 16:51:50  1999
+../exp2 0 10000 5 4 combine: 225042,8653
+exp time [s] = 0
+Thu Jun  3 16:51:51  1999
+../exp2 0 10000 5 4 process division: 216389,8653
+exp time [s] = 1
+Thu Jun  3 16:51:51  1999
+../exp2 0 10000 5 4 combine: 216389,8653
+exp time [s] = 0
+Thu Jun  3 16:51:52  1999
+../exp2 0 10000 5 4 process division: 207736,8653
+exp time [s] = 0
+Thu Jun  3 16:51:53  1999
+../exp2 0 10000 5 4 combine: 207736,8653
+exp time [s] = 1
+Thu Jun  3 16:51:53  1999
+../exp2 0 10000 5 4 process division: 199083,8653
+exp time [s] = 0
+Thu Jun  3 16:51:54  1999
+../exp2 0 10000 5 4 combine: 199083,8653
+exp time [s] = 0
+Thu Jun  3 16:51:55  1999
+../exp2 0 10000 5 4 process division: 190430,8653
+exp time [s] = 1
+Thu Jun  3 16:51:55  1999
+../exp2 0 10000 5 4 combine: 190430,8653
+exp time [s] = 0
+Thu Jun  3 16:51:56  1999
+../exp2 0 10000 5 4 process division: 181777,8653
+exp time [s] = 0
+Thu Jun  3 16:51:57  1999
+../exp2 0 10000 5 4 combine: 181777,8653
+exp time [s] = 0
+Thu Jun  3 16:51:57  1999
+../exp2 0 10000 5 4 process division: 173124,8653
+exp time [s] = 0
+Thu Jun  3 16:51:58  1999
+../exp2 0 10000 5 4 combine: 173124,8653
+exp time [s] = 0
+Thu Jun  3 16:51:59  1999
+../exp2 0 10000 5 4 process division: 164471,8653
+exp time [s] = 1
+Thu Jun  3 16:51:59  1999
+../exp2 0 10000 5 4 combine: 164471,8653
+exp time [s] = 0
+Thu Jun  3 16:52:00  1999
+../exp2 0 10000 5 4 process division: 155818,8653
+exp time [s] = 0
+Thu Jun  3 16:52:01  1999
+../exp2 0 10000 5 4 combine: 155818,8653
+exp time [s] = 0
+Thu Jun  3 16:52:01  1999
+../exp2 0 10000 5 4 process division: 147165,8653
+exp time [s] = 0
+Thu Jun  3 16:52:02  1999
+../exp2 0 10000 5 4 combine: 147165,8653
+exp time [s] = 0
+Thu Jun  3 16:52:03  1999
+../exp2 0 10000 5 4 process division: 138512,8653
+exp time [s] = 0
+Thu Jun  3 16:52:03  1999
+../exp2 0 10000 5 4 combine: 138512,8653
+exp time [s] = 1
+Thu Jun  3 16:52:04  1999
+../exp2 0 10000 5 4 process division: 129859,8653
+exp time [s] = 0
+Thu Jun  3 16:52:05  1999
+../exp2 0 10000 5 4 combine: 129859,8653
+exp time [s] = 0
+Thu Jun  3 16:52:06  1999
+../exp2 0 10000 5 4 process division: 121206,8653
+exp time [s] = 0
+Thu Jun  3 16:52:06  1999
+../exp2 0 10000 5 4 combine: 121206,8653
+exp time [s] = 0
+Thu Jun  3 16:52:07  1999
+../exp2 0 10000 5 4 process division: 112553,8653
+exp time [s] = 0
+Thu Jun  3 16:52:08  1999
+../exp2 0 10000 5 4 combine: 112553,8653
+exp time [s] = 0
+Thu Jun  3 16:52:09  1999
+../exp2 0 10000 5 4 process division: 103900,8653
+exp time [s] = 1
+Thu Jun  3 16:52:09  1999
+../exp2 0 10000 5 4 combine: 103900,8653
+exp time [s] = 0
+Thu Jun  3 16:52:10  1999
+../exp2 0 10000 5 4 process division: 95247,8653
+exp time [s] = 0
+Thu Jun  3 16:52:11  1999
+../exp2 0 10000 5 4 combine: 95247,8653
+exp time [s] = 0
+Thu Jun  3 16:52:11  1999
+../exp2 0 10000 5 4 process division: 86594,8653
+exp time [s] = 0
+Thu Jun  3 16:52:12  1999
+../exp2 0 10000 5 4 combine: 86594,8653
+exp time [s] = 0
+Thu Jun  3 16:52:13  1999
+../exp2 0 10000 5 4 process division: 77941,8653
+exp time [s] = 0
+Thu Jun  3 16:52:14  1999
+../exp2 0 10000 5 4 combine: 77941,8653
+exp time [s] = 0
+Thu Jun  3 16:52:14  1999
+../exp2 0 10000 5 4 process division: 69288,8653
+exp time [s] = 0
+Thu Jun  3 16:52:15  1999
+../exp2 0 10000 5 4 combine: 69288,8653
+exp time [s] = 0
+Thu Jun  3 16:52:16  1999
+../exp2 0 10000 5 4 process division: 60635,8653
+exp time [s] = 0
+Thu Jun  3 16:52:17  1999
+../exp2 0 10000 5 4 combine: 60635,8653
+exp time [s] = 0
+Thu Jun  3 16:52:17  1999
+../exp2 0 10000 5 4 process division: 51982,8653
+exp time [s] = 0
+Thu Jun  3 16:52:18  1999
+../exp2 0 10000 5 4 combine: 51982,8653
+exp time [s] = 0
+Thu Jun  3 16:52:19  1999
+../exp2 0 10000 5 4 process division: 43329,8653
+exp time [s] = 0
+Thu Jun  3 16:52:20  1999
+../exp2 0 10000 5 4 combine: 43329,8653
+exp time [s] = 0
+Thu Jun  3 16:52:21  1999
+../exp2 0 10000 5 4 process division: 34676,8653
+exp time [s] = 0
+Thu Jun  3 16:52:21  1999
+../exp2 0 10000 5 4 combine: 34676,8653
+exp time [s] = 1
+Thu Jun  3 16:52:22  1999
+../exp2 0 10000 5 4 process division: 26023,8653
+exp time [s] = 0
+Thu Jun  3 16:52:23  1999
+../exp2 0 10000 5 4 combine: 26023,8653
+exp time [s] = 0
+Thu Jun  3 16:52:24  1999
+../exp2 0 10000 5 4 process division: 17370,8653
+exp time [s] = 0
+Thu Jun  3 16:52:25  1999
+../exp2 0 10000 5 4 combine: 17370,8653
+exp time [s] = 0
+Thu Jun  3 16:52:25  1999
+../exp2 0 10000 5 4 process division: 8717,8653
+exp time [s] = 0
+Thu Jun  3 16:52:26  1999
+../exp2 0 10000 5 4 combine: 8717,8653
+exp time [s] = 0
+Thu Jun  3 16:52:27  1999
+../exp2 0 10000 5 4 process division: 64,8653
+exp time [s] = 0
+Thu Jun  3 16:52:28  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 16:52:28  1999
+../exp2 10000 exp time [s] = 3
+Thu Jun  3 16:52:32  1999
+Thu Jun  3 18:06:11  1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:06:11  1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:06:12  1999
+Thu Jun  3 18:06:12  1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:06:12  1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:06:13  1999
+Thu Jun  3 18:06:13  1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:06:14  1999
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:06:15  1999
+Thu Jun  3 18:06:15  1999
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:06:15  1999
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:06:16  1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:06:17  1999
+Thu Jun  3 18:06:17  1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:06:18  1999
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:06:19  1999
+Thu Jun  3 18:06:19  1999
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:06:20  1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:06:21  1999
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:06:22  1999
+../exp2 3 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine3
+exp time [s] = 0
+Thu Jun  3 18:06:22  1999
+../exp2 4 ../0-7/ ../8-15/ ../0-7/exp-p1.tmp read......ok!
+exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine4
+exp time [s] = 0
+Thu Jun  3 18:06:23  1999
+../exp2 5 ../0-7/ ../8-15/ ../0-7/exp-p2.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+combine5
+exp time [s] = 0
+Thu Jun  3 18:06:24  1999
+../exp2 6 ../0-7/ ../8-15/ ../0-7/exp-p3.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+exp-q.tmp read......ok!
+combine6
+exp time [s] = 1
+Thu Jun  3 18:06:24  1999
+../exp2 0 10000 4 4 decimals=83355
+process division: 276960,4326
+exp time [s] = 0
+Thu Jun  3 18:06:25  1999
+../exp2 0 10000 5 4 combine: 276960,4326
+exp time [s] = 0
+Thu Jun  3 18:06:26  1999
+../exp2 0 10000 5 4 process division: 272634,4326
+exp time [s] = 0
+Thu Jun  3 18:06:26  1999
+../exp2 0 10000 5 4 combine: 272634,4326
+exp time [s] = 0
+Thu Jun  3 18:06:27  1999
+../exp2 0 10000 5 4 process division: 268308,4326
+exp time [s] = 0
+Thu Jun  3 18:06:27  1999
+../exp2 0 10000 5 4 combine: 268308,4326
+exp time [s] = 0
+Thu Jun  3 18:06:28  1999
+../exp2 0 10000 5 4 process division: 263982,4326
+exp time [s] = 0
+Thu Jun  3 18:06:28  1999
+../exp2 0 10000 5 4 combine: 263982,4326
+exp time [s] = 0
+Thu Jun  3 18:06:29  1999
+../exp2 0 10000 5 4 process division: 259656,4326
+exp time [s] = 0
+Thu Jun  3 18:06:29  1999
+../exp2 0 10000 5 4 combine: 259656,4326
+exp time [s] = 0
+Thu Jun  3 18:06:30  1999
+../exp2 0 10000 5 4 process division: 255330,4326
+exp time [s] = 0
+Thu Jun  3 18:06:31  1999
+../exp2 0 10000 5 4 combine: 255330,4326
+exp time [s] = 0
+Thu Jun  3 18:06:31  1999
+../exp2 0 10000 5 4 process division: 251004,4326
+exp time [s] = 0
+Thu Jun  3 18:06:32  1999
+../exp2 0 10000 5 4 combine: 251004,4326
+exp time [s] = 0
+Thu Jun  3 18:06:32  1999
+../exp2 0 10000 5 4 process division: 246678,4326
+exp time [s] = 0
+Thu Jun  3 18:06:33  1999
+../exp2 0 10000 5 4 combine: 246678,4326
+exp time [s] = 0
+Thu Jun  3 18:06:34  1999
+../exp2 0 10000 5 4 process division: 242352,4326
+exp time [s] = 1
+Thu Jun  3 18:06:34  1999
+../exp2 0 10000 5 4 combine: 242352,4326
+exp time [s] = 0
+Thu Jun  3 18:06:35  1999
+../exp2 0 10000 5 4 process division: 238026,4326
+exp time [s] = 0
+Thu Jun  3 18:06:35  1999
+../exp2 0 10000 5 4 combine: 238026,4326
+exp time [s] = 0
+Thu Jun  3 18:06:36  1999
+../exp2 0 10000 5 4 process division: 233700,4326
+exp time [s] = 0
+Thu Jun  3 18:06:36  1999
+../exp2 0 10000 5 4 combine: 233700,4326
+exp time [s] = 0
+Thu Jun  3 18:06:37  1999
+../exp2 0 10000 5 4 process division: 229374,4326
+exp time [s] = 0
+Thu Jun  3 18:06:38  1999
+../exp2 0 10000 5 4 combine: 229374,4326
+exp time [s] = 0
+Thu Jun  3 18:06:38  1999
+../exp2 0 10000 5 4 process division: 225048,4326
+exp time [s] = 0
+Thu Jun  3 18:06:39  1999
+../exp2 0 10000 5 4 combine: 225048,4326
+exp time [s] = 0
+Thu Jun  3 18:06:39  1999
+../exp2 0 10000 5 4 process division: 220722,4326
+exp time [s] = 0
+Thu Jun  3 18:06:40  1999
+../exp2 0 10000 5 4 combine: 220722,4326
+exp time [s] = 0
+Thu Jun  3 18:06:41  1999
+../exp2 0 10000 5 4 process division: 216396,4326
+exp time [s] = 1
+Thu Jun  3 18:06:41  1999
+../exp2 0 10000 5 4 combine: 216396,4326
+exp time [s] = 0
+Thu Jun  3 18:06:42  1999
+../exp2 0 10000 5 4 process division: 212070,4326
+exp time [s] = 0
+Thu Jun  3 18:06:43  1999
+../exp2 0 10000 5 4 combine: 212070,4326
+exp time [s] = 0
+Thu Jun  3 18:06:43  1999
+../exp2 0 10000 5 4 process division: 207744,4326
+exp time [s] = 0
+Thu Jun  3 18:06:44  1999
+../exp2 0 10000 5 4 combine: 207744,4326
+exp time [s] = 0
+Thu Jun  3 18:06:44  1999
+../exp2 0 10000 5 4 process division: 203418,4326
+exp time [s] = 0
+Thu Jun  3 18:06:45  1999
+../exp2 0 10000 5 4 combine: 203418,4326
+exp time [s] = 0
+Thu Jun  3 18:06:45  1999
+../exp2 0 10000 5 4 process division: 199092,4326
+exp time [s] = 0
+Thu Jun  3 18:06:46  1999
+../exp2 0 10000 5 4 combine: 199092,4326
+exp time [s] = 0
+Thu Jun  3 18:06:47  1999
+../exp2 0 10000 5 4 process division: 194766,4326
+exp time [s] = 1
+Thu Jun  3 18:06:47  1999
+../exp2 0 10000 5 4 combine: 194766,4326
+exp time [s] = 0
+Thu Jun  3 18:06:48  1999
+../exp2 0 10000 5 4 process division: 190440,4326
+exp time [s] = 0
+Thu Jun  3 18:06:49  1999
+../exp2 0 10000 5 4 combine: 190440,4326
+exp time [s] = 0
+Thu Jun  3 18:06:49  1999
+../exp2 0 10000 5 4 process division: 186114,4326
+exp time [s] = 0
+Thu Jun  3 18:06:50  1999
+../exp2 0 10000 5 4 combine: 186114,4326
+exp time [s] = 0
+Thu Jun  3 18:06:50  1999
+../exp2 0 10000 5 4 process division: 181788,4326
+exp time [s] = 0
+Thu Jun  3 18:06:51  1999
+../exp2 0 10000 5 4 combine: 181788,4326
+exp time [s] = 0
+Thu Jun  3 18:06:52  1999
+../exp2 0 10000 5 4 process division: 177462,4326
+exp time [s] = 0
+Thu Jun  3 18:06:52  1999
+../exp2 0 10000 5 4 combine: 177462,4326
+exp time [s] = 0
+Thu Jun  3 18:06:53  1999
+../exp2 0 10000 5 4 process division: 173136,4326
+exp time [s] = 0
+Thu Jun  3 18:06:53  1999
+../exp2 0 10000 5 4 combine: 173136,4326
+exp time [s] = 0
+Thu Jun  3 18:06:54  1999
+../exp2 0 10000 5 4 process division: 168810,4326
+exp time [s] = 0
+Thu Jun  3 18:06:55  1999
+../exp2 0 10000 5 4 combine: 168810,4326
+exp time [s] = 0
+Thu Jun  3 18:06:55  1999
+../exp2 0 10000 5 4 process division: 164484,4326
+exp time [s] = 0
+Thu Jun  3 18:06:56  1999
+../exp2 0 10000 5 4 combine: 164484,4326
+exp time [s] = 0
+Thu Jun  3 18:06:57  1999
+../exp2 0 10000 5 4 process division: 160158,4326
+exp time [s] = 0
+Thu Jun  3 18:06:57  1999
+../exp2 0 10000 5 4 combine: 160158,4326
+exp time [s] = 0
+Thu Jun  3 18:06:58  1999
+../exp2 0 10000 5 4 process division: 155832,4326
+exp time [s] = 0
+Thu Jun  3 18:06:59  1999
+../exp2 0 10000 5 4 combine: 155832,4326
+exp time [s] = 0
+Thu Jun  3 18:06:59  1999
+../exp2 0 10000 5 4 process division: 151506,4326
+exp time [s] = 0
+Thu Jun  3 18:07:00  1999
+../exp2 0 10000 5 4 combine: 151506,4326
+exp time [s] = 0
+Thu Jun  3 18:07:00  1999
+../exp2 0 10000 5 4 process division: 147180,4326
+exp time [s] = 0
+Thu Jun  3 18:07:01  1999
+../exp2 0 10000 5 4 combine: 147180,4326
+exp time [s] = 0
+Thu Jun  3 18:07:02  1999
+../exp2 0 10000 5 4 process division: 142854,4326
+exp time [s] = 0
+Thu Jun  3 18:07:02  1999
+../exp2 0 10000 5 4 combine: 142854,4326
+exp time [s] = 0
+Thu Jun  3 18:07:03  1999
+../exp2 0 10000 5 4 process division: 138528,4326
+exp time [s] = 0
+Thu Jun  3 18:07:04  1999
+../exp2 0 10000 5 4 combine: 138528,4326
+exp time [s] = 0
+Thu Jun  3 18:07:04  1999
+../exp2 10000 Thu Jun  3 18:08:30  1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:08:30  1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:08:31  1999
+Thu Jun  3 18:08:31  1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:08:31  1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:08:32  1999
+Thu Jun  3 18:08:32  1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:08:32  1999
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:08:33  1999
+Thu Jun  3 18:08:33  1999
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:08:34  1999
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:08:34  1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:08:35  1999
+Thu Jun  3 18:08:35  1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:08:36  1999
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:08:36  1999
+Thu Jun  3 18:08:36  1999
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:08:37  1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:08:38  1999
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:08:39  1999
+../exp2 2 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../0-7/exp-p1.tmp read......ok!
+../0-7/exp-p2.tmp read......ok!
+../0-7/exp-p3.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:08:40  1999
+Thu Jun  3 18:15:57  1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:15:57  1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:15:58  1999
+Thu Jun  3 18:15:58  1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:15:58  1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:15:59  1999
+Thu Jun  3 18:15:59  1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:16:00  1999
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Thu Jun  3 18:16:00  1999
+Thu Jun  3 18:16:00  1999
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:16:01  1999
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:16:01  1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:16:02  1999
+Thu Jun  3 18:16:02  1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:16:02  1999
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:16:03  1999
+Thu Jun  3 18:16:03  1999
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:16:04  1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:16:05  1999
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:16:06  1999
+../exp2 2 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../0-7/exp-p1.tmp read......ok!
+../0-7/exp-p2.tmp read......ok!
+../0-7/exp-p3.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:16:07  1999
+Thu Jun  3 18:19:14  1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:19:14  1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:19:15  1999
+Thu Jun  3 18:19:15  1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:19:15  1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:19:16  1999
+Thu Jun  3 18:19:16  1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:19:16  1999
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:19:17  1999
+Thu Jun  3 18:19:17  1999
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:19:18  1999
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:19:18  1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:19:19  1999
+Thu Jun  3 18:19:19  1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:19:19  1999
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:19:20  1999
+Thu Jun  3 18:19:20  1999
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:19:21  1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:19:22  1999
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:19:22  1999
+../exp2 2 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../0-7/exp-p1.tmp read......ok!
+../0-7/exp-p2.tmp read......ok!
+../0-7/exp-p3.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 1
+Thu Jun  3 18:19:24  1999
+Thu Jun  3 18:21:17  1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:21:17  1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:21:18  1999
+Thu Jun  3 18:21:18  1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:21:18  1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:21:19  1999
+Thu Jun  3 18:21:19  1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:21:20  1999
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:21:20  1999
+Thu Jun  3 18:21:20  1999
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:21:21  1999
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:21:21  1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:21:22  1999
+Thu Jun  3 18:21:22  1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:21:22  1999
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:21:23  1999
+Thu Jun  3 18:21:23  1999
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:21:24  1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:21:25  1999
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:21:26  1999
+../exp2 2 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../0-7/exp-p1.tmp read......ok!
+../0-7/exp-p2.tmp read......ok!
+../0-7/exp-p3.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:21:27  1999
+Thu Jun  3 18:28:43  1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:28:44  1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:28:44  1999
+Thu Jun  3 18:28:44  1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+Thu Jun  3 18:28:54  1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:28:54  1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:28:54  1999
+Thu Jun  3 18:28:54  1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:28:55  1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:28:55  1999
+Thu Jun  3 18:28:55  1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:28:56  1999
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:28:56  1999
+Thu Jun  3 18:28:56  1999
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:28:57  1999
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:28:57  1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:28:58  1999
+Thu Jun  3 18:28:58  1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Thu Jun  3 18:28:58  1999
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:28:59  1999
+Thu Jun  3 18:28:59  1999
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:28:59  1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:29:00  1999
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:29:01  1999
+../exp2 2 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../0-7/exp-p1.tmp read......ok!
+../0-7/exp-p2.tmp read......ok!
+../0-7/exp-p3.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:29:02  1999
+Thu Jun  3 18:38:05  1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:38:06  1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:38:06  1999
+Thu Jun  3 18:38:06  1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:38:07  1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:38:08  1999
+Thu Jun  3 18:38:08  1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:38:08  1999
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:38:09  1999
+Thu Jun  3 18:38:09  1999
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:38:09  1999
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:38:10  1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:38:10  1999
+Thu Jun  3 18:38:10  1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:38:11  1999
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Thu Jun  3 18:38:12  1999
+Thu Jun  3 18:38:12  1999
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:38:12  1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Thu Jun  3 18:38:13  1999
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Thu Jun  3 18:38:14  1999
+../exp2 2 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../0-7/exp-p1.tmp read......ok!
+../0-7/exp-p2.tmp read......ok!
+../0-7/exp-p3.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 1
+Thu Jun  3 18:38:15  1999
+Fri Jun  4 09:04:02  1999
+../exp2 1 ../0/ ../1/ ../0/exp-p0.tmp read......ok!
+../0/exp-p1.tmp read......ok!
+../0/exp-p2.tmp read......ok!
+../0/exp-p3.tmp read......ok!
+../1/exp-p0.tmp read......ok!
+../1/exp-p1.tmp read......ok!
+../1/exp-p2.tmp read......ok!
+../1/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Fri Jun  4 09:04:03  1999
+../exp2 1 ../2/ ../3/ ../2/exp-p0.tmp read......ok!
+../2/exp-p1.tmp read......ok!
+../2/exp-p2.tmp read......ok!
+../2/exp-p3.tmp read......ok!
+../3/exp-p0.tmp read......ok!
+../3/exp-p1.tmp read......ok!
+../3/exp-p2.tmp read......ok!
+../3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Fri Jun  4 09:04:04  1999
+Fri Jun  4 09:04:04  1999
+../exp2 1 ../4/ ../5/ ../4/exp-p0.tmp read......ok!
+../4/exp-p1.tmp read......ok!
+../4/exp-p2.tmp read......ok!
+../4/exp-p3.tmp read......ok!
+../5/exp-p0.tmp read......ok!
+../5/exp-p1.tmp read......ok!
+../5/exp-p2.tmp read......ok!
+../5/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Fri Jun  4 09:04:05  1999
+../exp2 1 ../6/ ../7/ ../6/exp-p0.tmp read......ok!
+../6/exp-p1.tmp read......ok!
+../6/exp-p2.tmp read......ok!
+../6/exp-p3.tmp read......ok!
+../7/exp-p0.tmp read......ok!
+../7/exp-p1.tmp read......ok!
+../7/exp-p2.tmp read......ok!
+../7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Fri Jun  4 09:04:06  1999
+Fri Jun  4 09:04:06  1999
+../exp2 1 ../8/ ../9/ ../8/exp-p0.tmp read......ok!
+../8/exp-p1.tmp read......ok!
+../8/exp-p2.tmp read......ok!
+../8/exp-p3.tmp read......ok!
+../9/exp-p0.tmp read......ok!
+../9/exp-p1.tmp read......ok!
+../9/exp-p2.tmp read......ok!
+../9/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Fri Jun  4 09:04:07  1999
+../exp2 1 ../10/ ../11/ ../10/exp-p0.tmp read......ok!
+../10/exp-p1.tmp read......ok!
+../10/exp-p2.tmp read......ok!
+../10/exp-p3.tmp read......ok!
+../11/exp-p0.tmp read......ok!
+../11/exp-p1.tmp read......ok!
+../11/exp-p2.tmp read......ok!
+../11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Fri Jun  4 09:04:07  1999
+Fri Jun  4 09:04:07  1999
+../exp2 1 ../12/ ../13/ ../12/exp-p0.tmp read......ok!
+../12/exp-p1.tmp read......ok!
+../12/exp-p2.tmp read......ok!
+../12/exp-p3.tmp read......ok!
+../13/exp-p0.tmp read......ok!
+../13/exp-p1.tmp read......ok!
+../13/exp-p2.tmp read......ok!
+../13/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Fri Jun  4 09:04:08  1999
+../exp2 2 ../14/ ../15/ ../14/exp-p0.tmp read......ok!
+../14/exp-p1.tmp read......ok!
+../14/exp-p2.tmp read......ok!
+../14/exp-p3.tmp read......ok!
+../15/exp-p.tmp read......ok!
+../15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Fri Jun  4 09:04:09  1999
+../exp2 1 ../0-1/ ../2-3/ ../0-1/exp-p0.tmp read......ok!
+../0-1/exp-p1.tmp read......ok!
+../0-1/exp-p2.tmp read......ok!
+../0-1/exp-p3.tmp read......ok!
+../2-3/exp-p0.tmp read......ok!
+../2-3/exp-p1.tmp read......ok!
+../2-3/exp-p2.tmp read......ok!
+../2-3/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Fri Jun  4 09:04:10  1999
+Fri Jun  4 09:04:10  1999
+../exp2 1 ../4-5/ ../6-7/ ../4-5/exp-p0.tmp read......ok!
+../4-5/exp-p1.tmp read......ok!
+../4-5/exp-p2.tmp read......ok!
+../4-5/exp-p3.tmp read......ok!
+../6-7/exp-p0.tmp read......ok!
+../6-7/exp-p1.tmp read......ok!
+../6-7/exp-p2.tmp read......ok!
+../6-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Fri Jun  4 09:04:11  1999
+../exp2 1 ../8-9/ ../10-11/ ../8-9/exp-p0.tmp read......ok!
+../8-9/exp-p1.tmp read......ok!
+../8-9/exp-p2.tmp read......ok!
+../8-9/exp-p3.tmp read......ok!
+../10-11/exp-p0.tmp read......ok!
+../10-11/exp-p1.tmp read......ok!
+../10-11/exp-p2.tmp read......ok!
+../10-11/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 0
+Fri Jun  4 09:04:11  1999
+Fri Jun  4 09:04:11  1999
+../exp2 2 ../12-13/ ../14-15/ ../12-13/exp-p0.tmp read......ok!
+../12-13/exp-p1.tmp read......ok!
+../12-13/exp-p2.tmp read......ok!
+../12-13/exp-p3.tmp read......ok!
+../14-15/exp-p.tmp read......ok!
+../14-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Fri Jun  4 09:04:12  1999
+../exp2 1 ../0-3/ ../4-7/ ../0-3/exp-p0.tmp read......ok!
+../0-3/exp-p1.tmp read......ok!
+../0-3/exp-p2.tmp read......ok!
+../0-3/exp-p3.tmp read......ok!
+../4-7/exp-p0.tmp read......ok!
+../4-7/exp-p1.tmp read......ok!
+../4-7/exp-p2.tmp read......ok!
+../4-7/exp-p3.tmp read......ok!
+combine1
+exp time [s] = 1
+Fri Jun  4 09:04:13  1999
+../exp2 2 ../8-11/ ../12-15/ ../8-11/exp-p0.tmp read......ok!
+../8-11/exp-p1.tmp read......ok!
+../8-11/exp-p2.tmp read......ok!
+../8-11/exp-p3.tmp read......ok!
+../12-15/exp-p.tmp read......ok!
+../12-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Fri Jun  4 09:04:15  1999
+../exp2 2 ../0-7/ ../8-15/ ../0-7/exp-p0.tmp read......ok!
+../0-7/exp-p1.tmp read......ok!
+../0-7/exp-p2.tmp read......ok!
+../0-7/exp-p3.tmp read......ok!
+../8-15/exp-p.tmp read......ok!
+../8-15/exp-q.tmp read......ok!
+combine2
+exp time [s] = 0
+Fri Jun  4 09:04:16  1999

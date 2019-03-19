@@ -1,0 +1,2666 @@
+Thu Jun  3 18:08:40  1999
+../exp2 0 10000 4 4 decimals=83355
+process division: 276960,4326
+exp time [s] = 0
+Thu Jun  3 18:08:41  1999
+../exp2 0 10000 5 4 combine: 276960,4326
+exp time [s] = 0
+Thu Jun  3 18:08:41  1999
+../exp2 0 10000 5 4 process division: 272634,4326
+exp time [s] = 0
+Thu Jun  3 18:08:42  1999
+../exp2 0 10000 5 4 combine: 272634,4326
+exp time [s] = 0
+Thu Jun  3 18:08:42  1999
+../exp2 0 10000 5 4 process division: 268308,4326
+exp time [s] = 0
+Thu Jun  3 18:08:43  1999
+../exp2 0 10000 5 4 combine: 268308,4326
+exp time [s] = 0
+Thu Jun  3 18:08:43  1999
+../exp2 0 10000 5 4 process division: 263982,4326
+exp time [s] = 0
+Thu Jun  3 18:08:44  1999
+../exp2 0 10000 5 4 combine: 263982,4326
+exp time [s] = 0
+Thu Jun  3 18:08:45  1999
+../exp2 0 10000 5 4 process division: 259656,4326
+exp time [s] = 0
+Thu Jun  3 18:08:45  1999
+../exp2 0 10000 5 4 combine: 259656,4326
+exp time [s] = 0
+Thu Jun  3 18:08:46  1999
+../exp2 0 10000 5 4 process division: 255330,4326
+exp time [s] = 0
+Thu Jun  3 18:08:47  1999
+../exp2 0 10000 5 4 combine: 255330,4326
+exp time [s] = 0
+Thu Jun  3 18:08:47  1999
+../exp2 0 10000 5 4 process division: 251004,4326
+exp time [s] = 0
+Thu Jun  3 18:08:48  1999
+../exp2 0 10000 5 4 combine: 251004,4326
+exp time [s] = 0
+Thu Jun  3 18:08:48  1999
+../exp2 0 10000 5 4 process division: 246678,4326
+exp time [s] = 0
+Thu Jun  3 18:08:49  1999
+../exp2 0 10000 5 4 combine: 246678,4326
+exp time [s] = 0
+Thu Jun  3 18:08:50  1999
+../exp2 0 10000 5 4 process division: 242352,4326
+exp time [s] = 1
+Thu Jun  3 18:08:50  1999
+../exp2 0 10000 5 4 combine: 242352,4326
+exp time [s] = 0
+Thu Jun  3 18:08:51  1999
+../exp2 0 10000 5 4 process division: 238026,4326
+exp time [s] = 0
+Thu Jun  3 18:08:51  1999
+../exp2 0 10000 5 4 combine: 238026,4326
+exp time [s] = 0
+Thu Jun  3 18:08:52  1999
+../exp2 0 10000 5 4 process division: 233700,4326
+exp time [s] = 0
+Thu Jun  3 18:08:52  1999
+../exp2 0 10000 5 4 combine: 233700,4326
+exp time [s] = 0
+Thu Jun  3 18:08:53  1999
+../exp2 0 10000 5 4 process division: 229374,4326
+exp time [s] = 0
+Thu Jun  3 18:08:54  1999
+../exp2 0 10000 5 4 combine: 229374,4326
+exp time [s] = 0
+Thu Jun  3 18:08:54  1999
+../exp2 0 10000 5 4 process division: 225048,4326
+exp time [s] = 0
+Thu Jun  3 18:08:55  1999
+../exp2 0 10000 5 4 combine: 225048,4326
+exp time [s] = 0
+Thu Jun  3 18:08:55  1999
+../exp2 0 10000 5 4 process division: 220722,4326
+exp time [s] = 0
+Thu Jun  3 18:08:56  1999
+../exp2 0 10000 5 4 combine: 220722,4326
+exp time [s] = 0
+Thu Jun  3 18:08:57  1999
+../exp2 0 10000 5 4 process division: 216396,4326
+exp time [s] = 0
+Thu Jun  3 18:08:57  1999
+../exp2 0 10000 5 4 combine: 216396,4326
+exp time [s] = 0
+Thu Jun  3 18:08:58  1999
+../exp2 0 10000 5 4 process division: 212070,4326
+exp time [s] = 1
+Thu Jun  3 18:08:58  1999
+../exp2 0 10000 5 4 combine: 212070,4326
+exp time [s] = 0
+Thu Jun  3 18:08:59  1999
+../exp2 0 10000 5 4 process division: 207744,4326
+exp time [s] = 0
+Thu Jun  3 18:08:59  1999
+../exp2 0 10000 5 4 combine: 207744,4326
+exp time [s] = 0
+Thu Jun  3 18:09:00  1999
+../exp2 0 10000 5 4 process division: 203418,4326
+exp time [s] = 0
+Thu Jun  3 18:09:01  1999
+../exp2 0 10000 5 4 combine: 203418,4326
+exp time [s] = 0
+Thu Jun  3 18:09:01  1999
+../exp2 0 10000 5 4 process division: 199092,4326
+exp time [s] = 0
+Thu Jun  3 18:09:02  1999
+../exp2 0 10000 5 4 combine: 199092,4326
+exp time [s] = 0
+Thu Jun  3 18:09:02  1999
+../exp2 0 10000 5 4 process division: 194766,4326
+exp time [s] = 0
+Thu Jun  3 18:09:03  1999
+../exp2 0 10000 5 4 combine: 194766,4326
+exp time [s] = 0
+Thu Jun  3 18:09:04  1999
+../exp2 0 10000 5 4 process division: 190440,4326
+exp time [s] = 0
+Thu Jun  3 18:09:04  1999
+../exp2 0 10000 5 4 combine: 190440,4326
+exp time [s] = 0
+Thu Jun  3 18:09:05  1999
+../exp2 0 10000 5 4 process division: 186114,4326
+exp time [s] = 0
+Thu Jun  3 18:09:05  1999
+../exp2 0 10000 5 4 combine: 186114,4326
+exp time [s] = 0
+Thu Jun  3 18:09:06  1999
+../exp2 0 10000 5 4 process division: 181788,4326
+exp time [s] = 0
+Thu Jun  3 18:09:07  1999
+../exp2 0 10000 5 4 combine: 181788,4326
+exp time [s] = 0
+Thu Jun  3 18:09:07  1999
+../exp2 0 10000 5 4 process division: 177462,4326
+exp time [s] = 0
+Thu Jun  3 18:09:08  1999
+../exp2 0 10000 5 4 combine: 177462,4326
+exp time [s] = 0
+Thu Jun  3 18:09:08  1999
+../exp2 0 10000 5 4 process division: 173136,4326
+exp time [s] = 0
+Thu Jun  3 18:09:09  1999
+../exp2 0 10000 5 4 combine: 173136,4326
+exp time [s] = 0
+Thu Jun  3 18:09:10  1999
+../exp2 0 10000 5 4 process division: 168810,4326
+exp time [s] = 0
+Thu Jun  3 18:09:10  1999
+../exp2 0 10000 5 4 combine: 168810,4326
+exp time [s] = 0
+Thu Jun  3 18:09:11  1999
+../exp2 0 10000 5 4 process division: 164484,4326
+exp time [s] = 0
+Thu Jun  3 18:09:12  1999
+../exp2 0 10000 5 4 combine: 164484,4326
+exp time [s] = 1
+Thu Jun  3 18:09:12  1999
+../exp2 0 10000 5 4 process division: 160158,4326
+exp time [s] = 0
+Thu Jun  3 18:09:13  1999
+../exp2 0 10000 5 4 combine: 160158,4326
+exp time [s] = 0
+Thu Jun  3 18:09:13  1999
+../exp2 0 10000 5 4 process division: 155832,4326
+exp time [s] = 0
+Thu Jun  3 18:09:14  1999
+../exp2 0 10000 5 4 combine: 155832,4326
+exp time [s] = 0
+Thu Jun  3 18:09:15  1999
+../exp2 0 10000 5 4 process division: 151506,4326
+exp time [s] = 0
+Thu Jun  3 18:09:15  1999
+../exp2 0 10000 5 4 combine: 151506,4326
+exp time [s] = 0
+Thu Jun  3 18:09:16  1999
+../exp2 0 10000 5 4 process division: 147180,4326
+exp time [s] = 0
+Thu Jun  3 18:09:16  1999
+../exp2 0 10000 5 4 combine: 147180,4326
+exp time [s] = 0
+Thu Jun  3 18:09:17  1999
+../exp2 0 10000 5 4 process division: 142854,4326
+exp time [s] = 0
+Thu Jun  3 18:09:18  1999
+../exp2 0 10000 5 4 combine: 142854,4326
+exp time [s] = 0
+Thu Jun  3 18:09:19  1999
+../exp2 0 10000 5 4 process division: 138528,4326
+exp time [s] = 1
+Thu Jun  3 18:09:19  1999
+../exp2 0 10000 5 4 combine: 138528,4326
+exp time [s] = 0
+Thu Jun  3 18:09:20  1999
+../exp2 0 10000 5 4 process division: 134202,4326
+exp time [s] = 0
+Thu Jun  3 18:09:20  1999
+../exp2 0 10000 5 4 combine: 134202,4326
+exp time [s] = 0
+Thu Jun  3 18:09:21  1999
+../exp2 0 10000 5 4 process division: 129876,4326
+exp time [s] = 0
+Thu Jun  3 18:09:22  1999
+../exp2 0 10000 5 4 combine: 129876,4326
+exp time [s] = 0
+Thu Jun  3 18:09:22  1999
+../exp2 0 10000 5 4 process division: 125550,4326
+exp time [s] = 0
+Thu Jun  3 18:09:23  1999
+../exp2 0 10000 5 4 combine: 125550,4326
+exp time [s] = 0
+Thu Jun  3 18:09:24  1999
+../exp2 0 10000 5 4 process division: 121224,4326
+exp time [s] = 1
+Thu Jun  3 18:09:24  1999
+../exp2 0 10000 5 4 combine: 121224,4326
+exp time [s] = 0
+Thu Jun  3 18:09:25  1999
+../exp2 0 10000 5 4 process division: 116898,4326
+exp time [s] = 0
+Thu Jun  3 18:09:25  1999
+../exp2 0 10000 5 4 combine: 116898,4326
+exp time [s] = 0
+Thu Jun  3 18:09:26  1999
+../exp2 0 10000 5 4 process division: 112572,4326
+exp time [s] = 0
+Thu Jun  3 18:09:27  1999
+../exp2 0 10000 5 4 combine: 112572,4326
+exp time [s] = 0
+Thu Jun  3 18:09:27  1999
+../exp2 0 10000 5 4 process division: 108246,4326
+exp time [s] = 0
+Thu Jun  3 18:09:28  1999
+../exp2 0 10000 5 4 combine: 108246,4326
+exp time [s] = 0
+Thu Jun  3 18:09:29  1999
+../exp2 0 10000 5 4 process division: 103920,4326
+exp time [s] = 0
+Thu Jun  3 18:09:29  1999
+../exp2 0 10000 5 4 combine: 103920,4326
+exp time [s] = 0
+Thu Jun  3 18:09:30  1999
+../exp2 0 10000 5 4 process division: 99594,4326
+exp time [s] = 0
+Thu Jun  3 18:09:31  1999
+../exp2 0 10000 5 4 combine: 99594,4326
+exp time [s] = 0
+Thu Jun  3 18:09:31  1999
+../exp2 0 10000 5 4 process division: 95268,4326
+exp time [s] = 0
+Thu Jun  3 18:09:32  1999
+../exp2 0 10000 5 4 combine: 95268,4326
+exp time [s] = 0
+Thu Jun  3 18:09:33  1999
+../exp2 0 10000 5 4 process division: 90942,4326
+exp time [s] = 1
+Thu Jun  3 18:09:33  1999
+../exp2 0 10000 5 4 combine: 90942,4326
+exp time [s] = 0
+Thu Jun  3 18:09:34  1999
+../exp2 0 10000 5 4 process division: 86616,4326
+exp time [s] = 0
+Thu Jun  3 18:09:34  1999
+../exp2 0 10000 5 4 combine: 86616,4326
+exp time [s] = 0
+Thu Jun  3 18:09:35  1999
+../exp2 0 10000 5 4 process division: 82290,4326
+exp time [s] = 0
+Thu Jun  3 18:09:36  1999
+../exp2 0 10000 5 4 combine: 82290,4326
+exp time [s] = 0
+Thu Jun  3 18:09:37  1999
+../exp2 0 10000 5 4 process division: 77964,4326
+exp time [s] = 0
+Thu Jun  3 18:09:37  1999
+../exp2 0 10000 5 4 combine: 77964,4326
+exp time [s] = 0
+Thu Jun  3 18:09:38  1999
+../exp2 0 10000 5 4 process division: 73638,4326
+exp time [s] = 0
+Thu Jun  3 18:09:38  1999
+../exp2 0 10000 5 4 combine: 73638,4326
+exp time [s] = 0
+Thu Jun  3 18:09:39  1999
+../exp2 0 10000 5 4 process division: 69312,4326
+exp time [s] = 0
+Thu Jun  3 18:09:40  1999
+../exp2 0 10000 5 4 combine: 69312,4326
+exp time [s] = 0
+Thu Jun  3 18:09:40  1999
+../exp2 0 10000 5 4 process division: 64986,4326
+exp time [s] = 0
+Thu Jun  3 18:09:41  1999
+../exp2 0 10000 5 4 combine: 64986,4326
+exp time [s] = 0
+Thu Jun  3 18:09:42  1999
+../exp2 0 10000 5 4 process division: 60660,4326
+exp time [s] = 0
+Thu Jun  3 18:09:43  1999
+../exp2 0 10000 5 4 combine: 60660,4326
+exp time [s] = 0
+Thu Jun  3 18:09:43  1999
+../exp2 0 10000 5 4 process division: 56334,4326
+exp time [s] = 0
+Thu Jun  3 18:09:44  1999
+../exp2 0 10000 5 4 combine: 56334,4326
+exp time [s] = 0
+Thu Jun  3 18:09:45  1999
+../exp2 0 10000 5 4 process division: 52008,4326
+exp time [s] = 0
+Thu Jun  3 18:09:45  1999
+../exp2 0 10000 5 4 combine: 52008,4326
+exp time [s] = 0
+Thu Jun  3 18:09:46  1999
+../exp2 0 10000 5 4 process division: 47682,4326
+exp time [s] = 0
+Thu Jun  3 18:09:47  1999
+../exp2 0 10000 5 4 combine: 47682,4326
+exp time [s] = 0
+Thu Jun  3 18:09:47  1999
+../exp2 0 10000 5 4 process division: 43356,4326
+exp time [s] = 0
+Thu Jun  3 18:09:48  1999
+../exp2 0 10000 5 4 combine: 43356,4326
+exp time [s] = 0
+Thu Jun  3 18:09:49  1999
+../exp2 0 10000 5 4 process division: 39030,4326
+exp time [s] = 0
+Thu Jun  3 18:09:49  1999
+../exp2 0 10000 5 4 combine: 39030,4326
+exp time [s] = 0
+Thu Jun  3 18:09:50  1999
+../exp2 0 10000 5 4 process division: 34704,4326
+exp time [s] = 0
+Thu Jun  3 18:09:51  1999
+../exp2 0 10000 5 4 combine: 34704,4326
+exp time [s] = 0
+Thu Jun  3 18:09:51  1999
+../exp2 0 10000 5 4 process division: 30378,4326
+exp time [s] = 0
+Thu Jun  3 18:09:52  1999
+../exp2 0 10000 5 4 combine: 30378,4326
+exp time [s] = 0
+Thu Jun  3 18:09:53  1999
+../exp2 0 10000 5 4 process division: 26052,4326
+exp time [s] = 0
+Thu Jun  3 18:09:53  1999
+../exp2 0 10000 5 4 combine: 26052,4326
+exp time [s] = 0
+Thu Jun  3 18:09:54  1999
+../exp2 0 10000 5 4 process division: 21726,4326
+exp time [s] = 0
+Thu Jun  3 18:09:55  1999
+../exp2 0 10000 5 4 combine: 21726,4326
+exp time [s] = 0
+Thu Jun  3 18:09:56  1999
+../exp2 0 10000 5 4 process division: 17400,4326
+exp time [s] = 0
+Thu Jun  3 18:09:56  1999
+../exp2 0 10000 5 4 combine: 17400,4326
+exp time [s] = 0
+Thu Jun  3 18:09:57  1999
+../exp2 0 10000 5 4 process division: 13074,4326
+exp time [s] = 0
+Thu Jun  3 18:09:57  1999
+../exp2 0 10000 5 4 combine: 13074,4326
+exp time [s] = 0
+Thu Jun  3 18:09:58  1999
+../exp2 0 10000 5 4 process division: 8748,4326
+exp time [s] = 0
+Thu Jun  3 18:09:59  1999
+../exp2 0 10000 5 4 combine: 8748,4326
+exp time [s] = 0
+Thu Jun  3 18:10:00  1999
+../exp2 0 10000 5 4 process division: 4422,4326
+exp time [s] = 1
+Thu Jun  3 18:10:00  1999
+../exp2 0 10000 5 4 combine: 4422,4326
+exp time [s] = 0
+Thu Jun  3 18:10:01  1999
+../exp2 0 10000 5 4 process division: 96,4326
+exp time [s] = 0
+Thu Jun  3 18:10:02  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:10:02  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:10:02  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:10:02  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:10:02  1999
+../exp2 10000 exp time [s] = 3
+Thu Jun  3 18:10:06  1999
+Thu Jun  3 18:16:07  1999
+../exp2 0 10000 4 4 decimals=83355
+process division: 276960,8653
+exp time [s] = 0
+Thu Jun  3 18:16:08  1999
+../exp2 0 10000 5 4 combine: 276960,8653
+exp time [s] = 0
+Thu Jun  3 18:16:08  1999
+../exp2 0 10000 5 4 process division: 268307,8653
+exp time [s] = 0
+Thu Jun  3 18:16:09  1999
+../exp2 0 10000 5 4 combine: 268307,8653
+exp time [s] = 0
+Thu Jun  3 18:16:10  1999
+../exp2 0 10000 5 4 process division: 259654,8653
+exp time [s] = 1
+Thu Jun  3 18:16:10  1999
+../exp2 0 10000 5 4 combine: 259654,8653
+exp time [s] = 0
+Thu Jun  3 18:16:11  1999
+../exp2 0 10000 5 4 process division: 251001,8653
+exp time [s] = 0
+Thu Jun  3 18:16:11  1999
+../exp2 0 10000 5 4 combine: 251001,8653
+exp time [s] = 0
+Thu Jun  3 18:16:12  1999
+../exp2 0 10000 5 4 process division: 242348,8653
+exp time [s] = 0
+Thu Jun  3 18:16:13  1999
+../exp2 0 10000 5 4 combine: 242348,8653
+exp time [s] = 1
+Thu Jun  3 18:16:13  1999
+../exp2 0 10000 5 4 process division: 233695,8653
+exp time [s] = 0
+Thu Jun  3 18:16:14  1999
+../exp2 0 10000 5 4 combine: 233695,8653
+exp time [s] = 0
+Thu Jun  3 18:16:14  1999
+../exp2 0 10000 5 4 process division: 225042,8653
+exp time [s] = 0
+Thu Jun  3 18:16:15  1999
+../exp2 0 10000 5 4 combine: 225042,8653
+exp time [s] = 0
+Thu Jun  3 18:16:16  1999
+../exp2 0 10000 5 4 process division: 216389,8653
+exp time [s] = 1
+Thu Jun  3 18:16:16  1999
+../exp2 0 10000 5 4 combine: 216389,8653
+exp time [s] = 0
+Thu Jun  3 18:16:17  1999
+../exp2 0 10000 5 4 process division: 207736,8653
+exp time [s] = 0
+Thu Jun  3 18:16:18  1999
+../exp2 0 10000 5 4 combine: 207736,8653
+exp time [s] = 0
+Thu Jun  3 18:16:18  1999
+../exp2 0 10000 5 4 process division: 199083,8653
+exp time [s] = 0
+Thu Jun  3 18:16:19  1999
+../exp2 0 10000 5 4 combine: 199083,8653
+exp time [s] = 0
+Thu Jun  3 18:16:19  1999
+../exp2 0 10000 5 4 process division: 190430,8653
+exp time [s] = 0
+Thu Jun  3 18:16:20  1999
+../exp2 0 10000 5 4 combine: 190430,8653
+exp time [s] = 0
+Thu Jun  3 18:16:21  1999
+../exp2 0 10000 5 4 process division: 181777,8653
+exp time [s] = 0
+Thu Jun  3 18:16:22  1999
+../exp2 0 10000 5 4 combine: 181777,8653
+exp time [s] = 0
+Thu Jun  3 18:16:22  1999
+../exp2 0 10000 5 4 process division: 173124,8653
+exp time [s] = 0
+Thu Jun  3 18:16:23  1999
+../exp2 0 10000 5 4 combine: 173124,8653
+exp time [s] = 0
+Thu Jun  3 18:16:24  1999
+../exp2 0 10000 5 4 process division: 164471,8653
+exp time [s] = 1
+Thu Jun  3 18:16:24  1999
+../exp2 0 10000 5 4 combine: 164471,8653
+exp time [s] = 0
+Thu Jun  3 18:16:25  1999
+../exp2 0 10000 5 4 process division: 155818,8653
+exp time [s] = 0
+Thu Jun  3 18:16:26  1999
+../exp2 0 10000 5 4 combine: 155818,8653
+exp time [s] = 1
+Thu Jun  3 18:16:26  1999
+../exp2 0 10000 5 4 process division: 147165,8653
+exp time [s] = 0
+Thu Jun  3 18:16:27  1999
+../exp2 0 10000 5 4 combine: 147165,8653
+exp time [s] = 0
+Thu Jun  3 18:16:28  1999
+../exp2 0 10000 5 4 process division: 138512,8653
+exp time [s] = 1
+Thu Jun  3 18:16:28  1999
+../exp2 0 10000 5 4 combine: 138512,8653
+exp time [s] = 0
+Thu Jun  3 18:16:29  1999
+../exp2 0 10000 5 4 process division: 129859,8653
+exp time [s] = 0
+Thu Jun  3 18:16:30  1999
+../exp2 0 10000 5 4 combine: 129859,8653
+exp time [s] = 1
+Thu Jun  3 18:16:30  1999
+../exp2 0 10000 5 4 process division: 121206,8653
+exp time [s] = 0
+Thu Jun  3 18:16:31  1999
+../exp2 0 10000 5 4 combine: 121206,8653
+exp time [s] = 0
+Thu Jun  3 18:16:32  1999
+../exp2 0 10000 5 4 process division: 112553,8653
+exp time [s] = 1
+Thu Jun  3 18:16:32  1999
+../exp2 0 10000 5 4 combine: 112553,8653
+exp time [s] = 0
+Thu Jun  3 18:16:33  1999
+../exp2 0 10000 5 4 process division: 103900,8653
+exp time [s] = 0
+Thu Jun  3 18:16:34  1999
+../exp2 0 10000 5 4 combine: 103900,8653
+exp time [s] = 0
+Thu Jun  3 18:16:34  1999
+../exp2 0 10000 5 4 process division: 95247,8653
+exp time [s] = 0
+Thu Jun  3 18:16:35  1999
+../exp2 0 10000 5 4 combine: 95247,8653
+exp time [s] = 0
+Thu Jun  3 18:16:36  1999
+../exp2 0 10000 5 4 process division: 86594,8653
+exp time [s] = 0
+Thu Jun  3 18:16:36  1999
+../exp2 0 10000 5 4 combine: 86594,8653
+exp time [s] = 0
+Thu Jun  3 18:16:37  1999
+../exp2 0 10000 5 4 process division: 77941,8653
+exp time [s] = 0
+Thu Jun  3 18:16:38  1999
+../exp2 0 10000 5 4 combine: 77941,8653
+exp time [s] = 0
+Thu Jun  3 18:16:39  1999
+../exp2 0 10000 5 4 process division: 69288,8653
+exp time [s] = 1
+Thu Jun  3 18:16:39  1999
+../exp2 0 10000 5 4 combine: 69288,8653
+exp time [s] = 0
+Thu Jun  3 18:16:40  1999
+../exp2 0 10000 5 4 process division: 60635,8653
+exp time [s] = 0
+Thu Jun  3 18:16:41  1999
+../exp2 0 10000 5 4 combine: 60635,8653
+exp time [s] = 0
+Thu Jun  3 18:16:41  1999
+../exp2 0 10000 5 4 process division: 51982,8653
+exp time [s] = 0
+Thu Jun  3 18:16:42  1999
+../exp2 0 10000 5 4 combine: 51982,8653
+exp time [s] = 0
+Thu Jun  3 18:16:43  1999
+../exp2 0 10000 5 4 process division: 43329,8653
+exp time [s] = 0
+Thu Jun  3 18:16:43  1999
+../exp2 0 10000 5 4 combine: 43329,8653
+exp time [s] = 1
+Thu Jun  3 18:16:44  1999
+../exp2 0 10000 5 4 process division: 34676,8653
+exp time [s] = 0
+Thu Jun  3 18:16:45  1999
+../exp2 0 10000 5 4 combine: 34676,8653
+exp time [s] = 0
+Thu Jun  3 18:16:46  1999
+../exp2 0 10000 5 4 process division: 26023,8653
+exp time [s] = 0
+Thu Jun  3 18:16:46  1999
+../exp2 0 10000 5 4 combine: 26023,8653
+exp time [s] = 0
+Thu Jun  3 18:16:47  1999
+../exp2 0 10000 5 4 process division: 17370,8653
+exp time [s] = 0
+Thu Jun  3 18:16:48  1999
+../exp2 0 10000 5 4 combine: 17370,8653
+exp time [s] = 0
+Thu Jun  3 18:16:49  1999
+../exp2 0 10000 5 4 process division: 8717,8653
+exp time [s] = 0
+Thu Jun  3 18:16:49  1999
+../exp2 0 10000 5 4 combine: 8717,8653
+exp time [s] = 0
+Thu Jun  3 18:16:50  1999
+../exp2 0 10000 5 4 process division: 64,8653
+exp time [s] = 0
+Thu Jun  3 18:16:51  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:51  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:51  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:51  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:52  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:52  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:52  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:52  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:52  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:52  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:53  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:53  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:53  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:53  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:53  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:53  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:54  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:54  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:54  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:54  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:54  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:54  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:54  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:55  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:55  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:55  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:55  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:55  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:55  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:56  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:56  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:56  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:56  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:56  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:56  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:56  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:57  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:57  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:57  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:57  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:57  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:57  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:58  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:58  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:58  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:58  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:58  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:58  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:59  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:59  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:59  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:59  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:59  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:16:59  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:17:00  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:17:00  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:17:00  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:17:00  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:17:00  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:17:00  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:17:00  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:17:01  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:17:01  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:17:01  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:17:01  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:17:01  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:17:01  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:17:02  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:17:02  1999
+../exp2 10000 exp time [s] = 3
+Thu Jun  3 18:17:05  1999
+Thu Jun  3 18:19:24  1999
+../exp2 0 10000 4 4 decimals=83355
+process division: 276960,8653
+exp time [s] = 0
+Thu Jun  3 18:19:25  1999
+../exp2 0 10000 5 4 combine: 276960,8653
+exp time [s] = 0
+Thu Jun  3 18:19:25  1999
+../exp2 0 10000 5 4 process division: 268307,8653
+exp time [s] = 0
+Thu Jun  3 18:19:26  1999
+../exp2 0 10000 5 4 combine: 268307,8653
+exp time [s] = 0
+Thu Jun  3 18:19:26  1999
+../exp2 0 10000 5 4 process division: 259654,8653
+exp time [s] = 0
+Thu Jun  3 18:19:27  1999
+../exp2 0 10000 5 4 combine: 259654,8653
+exp time [s] = 0
+Thu Jun  3 18:19:27  1999
+../exp2 0 10000 5 4 process division: 251001,8653
+exp time [s] = 0
+Thu Jun  3 18:19:28  1999
+../exp2 0 10000 5 4 combine: 251001,8653
+exp time [s] = 0
+Thu Jun  3 18:19:29  1999
+../exp2 0 10000 5 4 process division: 242348,8653
+exp time [s] = 0
+Thu Jun  3 18:19:29  1999
+../exp2 0 10000 5 4 combine: 242348,8653
+exp time [s] = 0
+Thu Jun  3 18:19:30  1999
+../exp2 0 10000 5 4 process division: 233695,8653
+exp time [s] = 0
+Thu Jun  3 18:19:31  1999
+../exp2 0 10000 5 4 combine: 233695,8653
+exp time [s] = 0
+Thu Jun  3 18:19:31  1999
+../exp2 0 10000 5 4 process division: 225042,8653
+exp time [s] = 0
+Thu Jun  3 18:19:32  1999
+../exp2 0 10000 5 4 combine: 225042,8653
+exp time [s] = 0
+Thu Jun  3 18:19:32  1999
+../exp2 0 10000 5 4 process division: 216389,8653
+exp time [s] = 0
+Thu Jun  3 18:19:33  1999
+../exp2 0 10000 5 4 combine: 216389,8653
+exp time [s] = 0
+Thu Jun  3 18:19:34  1999
+../exp2 0 10000 5 4 process division: 207736,8653
+exp time [s] = 1
+Thu Jun  3 18:19:34  1999
+../exp2 0 10000 5 4 combine: 207736,8653
+exp time [s] = 0
+Thu Jun  3 18:19:35  1999
+../exp2 0 10000 5 4 process division: 199083,8653
+exp time [s] = 0
+Thu Jun  3 18:19:36  1999
+../exp2 0 10000 5 4 combine: 199083,8653
+exp time [s] = 0
+Thu Jun  3 18:19:36  1999
+../exp2 0 10000 5 4 process division: 190430,8653
+exp time [s] = 0
+Thu Jun  3 18:19:37  1999
+../exp2 0 10000 5 4 combine: 190430,8653
+exp time [s] = 0
+Thu Jun  3 18:19:37  1999
+../exp2 0 10000 5 4 process division: 181777,8653
+exp time [s] = 0
+Thu Jun  3 18:19:38  1999
+../exp2 0 10000 5 4 combine: 181777,8653
+exp time [s] = 0
+Thu Jun  3 18:19:39  1999
+../exp2 0 10000 5 4 process division: 173124,8653
+exp time [s] = 0
+Thu Jun  3 18:19:40  1999
+../exp2 0 10000 5 4 combine: 173124,8653
+exp time [s] = 0
+Thu Jun  3 18:19:40  1999
+../exp2 0 10000 5 4 process division: 164471,8653
+exp time [s] = 0
+Thu Jun  3 18:19:41  1999
+../exp2 0 10000 5 4 combine: 164471,8653
+exp time [s] = 0
+Thu Jun  3 18:19:41  1999
+../exp2 0 10000 5 4 process division: 155818,8653
+exp time [s] = 0
+Thu Jun  3 18:19:42  1999
+../exp2 0 10000 5 4 combine: 155818,8653
+exp time [s] = 0
+Thu Jun  3 18:19:43  1999
+../exp2 0 10000 5 4 process division: 147165,8653
+exp time [s] = 0
+Thu Jun  3 18:19:43  1999
+../exp2 0 10000 5 4 combine: 147165,8653
+exp time [s] = 0
+Thu Jun  3 18:19:44  1999
+../exp2 0 10000 5 4 process division: 138512,8653
+exp time [s] = 0
+Thu Jun  3 18:19:45  1999
+../exp2 0 10000 5 4 combine: 138512,8653
+exp time [s] = 0
+Thu Jun  3 18:19:45  1999
+../exp2 0 10000 5 4 process division: 129859,8653
+exp time [s] = 0
+Thu Jun  3 18:19:46  1999
+../exp2 0 10000 5 4 combine: 129859,8653
+exp time [s] = 0
+Thu Jun  3 18:19:47  1999
+../exp2 0 10000 5 4 process division: 121206,8653
+exp time [s] = 0
+Thu Jun  3 18:19:47  1999
+../exp2 0 10000 5 4 combine: 121206,8653
+exp time [s] = 0
+Thu Jun  3 18:19:48  1999
+../exp2 0 10000 5 4 process division: 112553,8653
+exp time [s] = 0
+Thu Jun  3 18:19:49  1999
+../exp2 0 10000 5 4 combine: 112553,8653
+exp time [s] = 0
+Thu Jun  3 18:19:50  1999
+../exp2 0 10000 5 4 process division: 103900,8653
+exp time [s] = 1
+Thu Jun  3 18:19:50  1999
+../exp2 0 10000 5 4 combine: 103900,8653
+exp time [s] = 0
+Thu Jun  3 18:19:51  1999
+../exp2 0 10000 5 4 process division: 95247,8653
+exp time [s] = 0
+Thu Jun  3 18:19:52  1999
+../exp2 0 10000 5 4 combine: 95247,8653
+exp time [s] = 0
+Thu Jun  3 18:19:52  1999
+../exp2 0 10000 5 4 process division: 86594,8653
+exp time [s] = 0
+Thu Jun  3 18:19:53  1999
+../exp2 0 10000 5 4 combine: 86594,8653
+exp time [s] = 0
+Thu Jun  3 18:19:54  1999
+../exp2 0 10000 5 4 process division: 77941,8653
+exp time [s] = 0
+Thu Jun  3 18:19:55  1999
+../exp2 0 10000 5 4 combine: 77941,8653
+exp time [s] = 1
+Thu Jun  3 18:19:55  1999
+../exp2 0 10000 5 4 process division: 69288,8653
+exp time [s] = 0
+Thu Jun  3 18:19:56  1999
+../exp2 0 10000 5 4 combine: 69288,8653
+exp time [s] = 0
+Thu Jun  3 18:19:57  1999
+../exp2 0 10000 5 4 process division: 60635,8653
+exp time [s] = 1
+Thu Jun  3 18:19:57  1999
+../exp2 0 10000 5 4 combine: 60635,8653
+exp time [s] = 0
+Thu Jun  3 18:19:58  1999
+../exp2 0 10000 5 4 process division: 51982,8653
+exp time [s] = 0
+Thu Jun  3 18:19:59  1999
+../exp2 0 10000 5 4 combine: 51982,8653
+exp time [s] = 0
+Thu Jun  3 18:20:00  1999
+../exp2 0 10000 5 4 process division: 43329,8653
+exp time [s] = 1
+Thu Jun  3 18:20:00  1999
+../exp2 0 10000 5 4 combine: 43329,8653
+exp time [s] = 0
+Thu Jun  3 18:20:01  1999
+../exp2 0 10000 5 4 process division: 34676,8653
+exp time [s] = 0
+Thu Jun  3 18:20:02  1999
+../exp2 0 10000 5 4 combine: 34676,8653
+exp time [s] = 0
+Thu Jun  3 18:20:02  1999
+../exp2 0 10000 5 4 process division: 26023,8653
+exp time [s] = 0
+Thu Jun  3 18:20:03  1999
+../exp2 0 10000 5 4 combine: 26023,8653
+exp time [s] = 0
+Thu Jun  3 18:20:04  1999
+../exp2 0 10000 5 4 process division: 17370,8653
+exp time [s] = 0
+Thu Jun  3 18:20:05  1999
+../exp2 0 10000 5 4 combine: 17370,8653
+exp time [s] = 0
+Thu Jun  3 18:20:05  1999
+../exp2 0 10000 5 4 process division: 8717,8653
+exp time [s] = 0
+Thu Jun  3 18:20:06  1999
+../exp2 0 10000 5 4 combine: 8717,8653
+exp time [s] = 0
+Thu Jun  3 18:20:07  1999
+../exp2 0 10000 5 4 process division: 64,8653
+exp time [s] = 0
+Thu Jun  3 18:20:08  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:08  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:08  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:08  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:08  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:08  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:09  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:09  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:09  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:09  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:09  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:09  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:10  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:10  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:10  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:10  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:10  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:11  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:11  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:11  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:11  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:11  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:11  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:12  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:12  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:12  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:12  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:12  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:12  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:13  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:13  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:13  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:13  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:13  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:13  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:13  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:14  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:14  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:14  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:14  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:14  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:14  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:15  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:15  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:15  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:15  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:15  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:15  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:16  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:16  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:16  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:16  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:16  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:16  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:16  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:17  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:17  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:17  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:17  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:17  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:17  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:18  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:18  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:18  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:18  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:18  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:18  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:18  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:20:19  1999
+../exp2 10000 exp time [s] = 4
+Thu Jun  3 18:20:22  1999
+Thu Jun  3 18:21:27  1999
+../exp2 0 10000 4 4 decimals=83355
+process division: 276960,4326
+exp time [s] = 0
+Thu Jun  3 18:21:28  1999
+../exp2 0 10000 5 4 combine: 276960,4326
+exp time [s] = 0
+Thu Jun  3 18:21:28  1999
+../exp2 0 10000 5 4 process division: 272634,4326
+exp time [s] = 0
+Thu Jun  3 18:21:29  1999
+../exp2 0 10000 5 4 combine: 272634,4326
+exp time [s] = 0
+Thu Jun  3 18:21:29  1999
+../exp2 0 10000 5 4 process division: 268308,4326
+exp time [s] = 0
+Thu Jun  3 18:21:30  1999
+../exp2 0 10000 5 4 combine: 268308,4326
+exp time [s] = 0
+Thu Jun  3 18:21:30  1999
+../exp2 0 10000 5 4 process division: 263982,4326
+exp time [s] = 0
+Thu Jun  3 18:21:31  1999
+../exp2 0 10000 5 4 combine: 263982,4326
+exp time [s] = 0
+Thu Jun  3 18:21:31  1999
+../exp2 0 10000 5 4 process division: 259656,4326
+exp time [s] = 0
+Thu Jun  3 18:21:32  1999
+../exp2 0 10000 5 4 combine: 259656,4326
+exp time [s] = 0
+Thu Jun  3 18:21:33  1999
+../exp2 0 10000 5 4 process division: 255330,4326
+exp time [s] = 0
+Thu Jun  3 18:21:33  1999
+../exp2 0 10000 5 4 combine: 255330,4326
+exp time [s] = 0
+Thu Jun  3 18:21:34  1999
+../exp2 0 10000 5 4 process division: 251004,4326
+exp time [s] = 0
+Thu Jun  3 18:21:34  1999
+../exp2 0 10000 5 4 combine: 251004,4326
+exp time [s] = 0
+Thu Jun  3 18:21:35  1999
+../exp2 0 10000 5 4 process division: 246678,4326
+exp time [s] = 0
+Thu Jun  3 18:21:35  1999
+../exp2 0 10000 5 4 combine: 246678,4326
+exp time [s] = 0
+Thu Jun  3 18:21:36  1999
+../exp2 0 10000 5 4 process division: 242352,4326
+exp time [s] = 0
+Thu Jun  3 18:21:36  1999
+../exp2 0 10000 5 4 combine: 242352,4326
+exp time [s] = 0
+Thu Jun  3 18:21:37  1999
+../exp2 0 10000 5 4 process division: 238026,4326
+exp time [s] = 0
+Thu Jun  3 18:21:37  1999
+../exp2 0 10000 5 4 combine: 238026,4326
+exp time [s] = 0
+Thu Jun  3 18:21:38  1999
+../exp2 0 10000 5 4 process division: 233700,4326
+exp time [s] = 0
+Thu Jun  3 18:21:39  1999
+../exp2 0 10000 5 4 combine: 233700,4326
+exp time [s] = 0
+Thu Jun  3 18:21:39  1999
+../exp2 0 10000 5 4 process division: 229374,4326
+exp time [s] = 0
+Thu Jun  3 18:21:40  1999
+../exp2 0 10000 5 4 combine: 229374,4326
+exp time [s] = 1
+Thu Jun  3 18:21:40  1999
+../exp2 0 10000 5 4 process division: 225048,4326
+exp time [s] = 0
+Thu Jun  3 18:21:41  1999
+../exp2 0 10000 5 4 combine: 225048,4326
+exp time [s] = 0
+Thu Jun  3 18:21:41  1999
+../exp2 0 10000 5 4 process division: 220722,4326
+exp time [s] = 0
+Thu Jun  3 18:21:42  1999
+../exp2 0 10000 5 4 combine: 220722,4326
+exp time [s] = 0
+Thu Jun  3 18:21:43  1999
+../exp2 0 10000 5 4 process division: 216396,4326
+exp time [s] = 0
+Thu Jun  3 18:21:43  1999
+../exp2 0 10000 5 4 combine: 216396,4326
+exp time [s] = 0
+Thu Jun  3 18:21:44  1999
+../exp2 0 10000 5 4 process division: 212070,4326
+exp time [s] = 0
+Thu Jun  3 18:21:44  1999
+../exp2 0 10000 5 4 combine: 212070,4326
+exp time [s] = 0
+Thu Jun  3 18:21:45  1999
+../exp2 0 10000 5 4 process division: 207744,4326
+exp time [s] = 0
+Thu Jun  3 18:21:45  1999
+../exp2 0 10000 5 4 combine: 207744,4326
+exp time [s] = 0
+Thu Jun  3 18:21:46  1999
+../exp2 0 10000 5 4 process division: 203418,4326
+exp time [s] = 0
+Thu Jun  3 18:21:47  1999
+../exp2 0 10000 5 4 combine: 203418,4326
+exp time [s] = 0
+Thu Jun  3 18:21:47  1999
+../exp2 0 10000 5 4 process division: 199092,4326
+exp time [s] = 0
+Thu Jun  3 18:21:48  1999
+../exp2 0 10000 5 4 combine: 199092,4326
+exp time [s] = 0
+Thu Jun  3 18:21:48  1999
+../exp2 0 10000 5 4 process division: 194766,4326
+exp time [s] = 0
+Thu Jun  3 18:21:49  1999
+../exp2 0 10000 5 4 combine: 194766,4326
+exp time [s] = 0
+Thu Jun  3 18:21:49  1999
+../exp2 0 10000 5 4 process division: 190440,4326
+exp time [s] = 0
+Thu Jun  3 18:21:50  1999
+../exp2 0 10000 5 4 combine: 190440,4326
+exp time [s] = 0
+Thu Jun  3 18:21:51  1999
+../exp2 0 10000 5 4 process division: 186114,4326
+exp time [s] = 1
+Thu Jun  3 18:21:51  1999
+../exp2 0 10000 5 4 combine: 186114,4326
+exp time [s] = 0
+Thu Jun  3 18:21:52  1999
+../exp2 0 10000 5 4 process division: 181788,4326
+exp time [s] = 0
+Thu Jun  3 18:21:52  1999
+../exp2 0 10000 5 4 combine: 181788,4326
+exp time [s] = 0
+Thu Jun  3 18:21:53  1999
+../exp2 0 10000 5 4 process division: 177462,4326
+exp time [s] = 0
+Thu Jun  3 18:21:54  1999
+../exp2 0 10000 5 4 combine: 177462,4326
+exp time [s] = 0
+Thu Jun  3 18:21:54  1999
+../exp2 0 10000 5 4 process division: 173136,4326
+exp time [s] = 0
+Thu Jun  3 18:21:55  1999
+../exp2 0 10000 5 4 combine: 173136,4326
+exp time [s] = 0
+Thu Jun  3 18:21:56  1999
+../exp2 0 10000 5 4 process division: 168810,4326
+exp time [s] = 0
+Thu Jun  3 18:21:56  1999
+../exp2 0 10000 5 4 combine: 168810,4326
+exp time [s] = 0
+Thu Jun  3 18:21:57  1999
+../exp2 0 10000 5 4 process division: 164484,4326
+exp time [s] = 0
+Thu Jun  3 18:21:57  1999
+../exp2 0 10000 5 4 combine: 164484,4326
+exp time [s] = 0
+Thu Jun  3 18:21:58  1999
+../exp2 0 10000 5 4 process division: 160158,4326
+exp time [s] = 0
+Thu Jun  3 18:21:58  1999
+../exp2 0 10000 5 4 combine: 160158,4326
+exp time [s] = 0
+Thu Jun  3 18:21:59  1999
+../exp2 0 10000 5 4 process division: 155832,4326
+exp time [s] = 0
+Thu Jun  3 18:22:00  1999
+../exp2 0 10000 5 4 combine: 155832,4326
+exp time [s] = 0
+Thu Jun  3 18:22:00  1999
+../exp2 0 10000 5 4 process division: 151506,4326
+exp time [s] = 0
+Thu Jun  3 18:22:01  1999
+../exp2 0 10000 5 4 combine: 151506,4326
+exp time [s] = 0
+Thu Jun  3 18:22:01  1999
+../exp2 0 10000 5 4 process division: 147180,4326
+exp time [s] = 0
+Thu Jun  3 18:22:02  1999
+../exp2 0 10000 5 4 combine: 147180,4326
+exp time [s] = 0
+Thu Jun  3 18:22:03  1999
+../exp2 0 10000 5 4 process division: 142854,4326
+exp time [s] = 0
+Thu Jun  3 18:22:03  1999
+../exp2 0 10000 5 4 combine: 142854,4326
+exp time [s] = 0
+Thu Jun  3 18:22:04  1999
+../exp2 0 10000 5 4 process division: 138528,4326
+exp time [s] = 0
+Thu Jun  3 18:22:05  1999
+../exp2 0 10000 5 4 combine: 138528,4326
+exp time [s] = 0
+Thu Jun  3 18:22:05  1999
+../exp2 0 10000 5 4 process division: 134202,4326
+exp time [s] = 0
+Thu Jun  3 18:22:06  1999
+../exp2 0 10000 5 4 combine: 134202,4326
+exp time [s] = 0
+Thu Jun  3 18:22:06  1999
+../exp2 0 10000 5 4 process division: 129876,4326
+exp time [s] = 0
+Thu Jun  3 18:22:07  1999
+../exp2 0 10000 5 4 combine: 129876,4326
+exp time [s] = 0
+Thu Jun  3 18:22:08  1999
+../exp2 0 10000 5 4 process division: 125550,4326
+exp time [s] = 0
+Thu Jun  3 18:22:08  1999
+../exp2 0 10000 5 4 combine: 125550,4326
+exp time [s] = 0
+Thu Jun  3 18:22:09  1999
+../exp2 0 10000 5 4 process division: 121224,4326
+exp time [s] = 0
+Thu Jun  3 18:22:10  1999
+../exp2 0 10000 5 4 combine: 121224,4326
+exp time [s] = 0
+Thu Jun  3 18:22:10  1999
+../exp2 0 10000 5 4 process division: 116898,4326
+exp time [s] = 0
+Thu Jun  3 18:22:11  1999
+../exp2 0 10000 5 4 combine: 116898,4326
+exp time [s] = 0
+Thu Jun  3 18:22:12  1999
+../exp2 0 10000 5 4 process division: 112572,4326
+exp time [s] = 0
+Thu Jun  3 18:22:12  1999
+../exp2 0 10000 5 4 combine: 112572,4326
+exp time [s] = 0
+Thu Jun  3 18:22:13  1999
+../exp2 0 10000 5 4 process division: 108246,4326
+exp time [s] = 0
+Thu Jun  3 18:22:13  1999
+../exp2 0 10000 5 4 combine: 108246,4326
+exp time [s] = 0
+Thu Jun  3 18:22:14  1999
+../exp2 0 10000 5 4 process division: 103920,4326
+exp time [s] = 0
+Thu Jun  3 18:22:15  1999
+../exp2 0 10000 5 4 combine: 103920,4326
+exp time [s] = 0
+Thu Jun  3 18:22:15  1999
+../exp2 0 10000 5 4 process division: 99594,4326
+exp time [s] = 0
+Thu Jun  3 18:22:16  1999
+../exp2 0 10000 5 4 combine: 99594,4326
+exp time [s] = 0
+Thu Jun  3 18:22:17  1999
+../exp2 0 10000 5 4 process division: 95268,4326
+exp time [s] = 0
+Thu Jun  3 18:22:17  1999
+../exp2 0 10000 5 4 combine: 95268,4326
+exp time [s] = 0
+Thu Jun  3 18:22:18  1999
+../exp2 0 10000 5 4 process division: 90942,4326
+exp time [s] = 0
+Thu Jun  3 18:22:18  1999
+../exp2 0 10000 5 4 combine: 90942,4326
+exp time [s] = 0
+Thu Jun  3 18:22:19  1999
+../exp2 0 10000 5 4 process division: 86616,4326
+exp time [s] = 0
+Thu Jun  3 18:22:20  1999
+../exp2 0 10000 5 4 combine: 86616,4326
+exp time [s] = 0
+Thu Jun  3 18:22:21  1999
+../exp2 0 10000 5 4 process division: 82290,4326
+exp time [s] = 0
+Thu Jun  3 18:22:21  1999
+../exp2 0 10000 5 4 combine: 82290,4326
+exp time [s] = 0
+Thu Jun  3 18:22:22  1999
+../exp2 0 10000 5 4 process division: 77964,4326
+exp time [s] = 0
+Thu Jun  3 18:22:22  1999
+../exp2 0 10000 5 4 combine: 77964,4326
+exp time [s] = 0
+Thu Jun  3 18:22:23  1999
+../exp2 0 10000 5 4 process division: 73638,4326
+exp time [s] = 0
+Thu Jun  3 18:22:24  1999
+../exp2 0 10000 5 4 combine: 73638,4326
+exp time [s] = 0
+Thu Jun  3 18:22:24  1999
+../exp2 0 10000 5 4 process division: 69312,4326
+exp time [s] = 0
+Thu Jun  3 18:22:25  1999
+../exp2 0 10000 5 4 combine: 69312,4326
+exp time [s] = 0
+Thu Jun  3 18:22:26  1999
+../exp2 0 10000 5 4 process division: 64986,4326
+exp time [s] = 0
+Thu Jun  3 18:22:26  1999
+../exp2 0 10000 5 4 combine: 64986,4326
+exp time [s] = 0
+Thu Jun  3 18:22:27  1999
+../exp2 0 10000 5 4 process division: 60660,4326
+exp time [s] = 0
+Thu Jun  3 18:22:28  1999
+../exp2 0 10000 5 4 combine: 60660,4326
+exp time [s] = 0
+Thu Jun  3 18:22:28  1999
+../exp2 0 10000 5 4 process division: 56334,4326
+exp time [s] = 0
+Thu Jun  3 18:22:29  1999
+../exp2 0 10000 5 4 combine: 56334,4326
+exp time [s] = 0
+Thu Jun  3 18:22:30  1999
+../exp2 0 10000 5 4 process division: 52008,4326
+exp time [s] = 0
+Thu Jun  3 18:22:30  1999
+../exp2 0 10000 5 4 combine: 52008,4326
+exp time [s] = 0
+Thu Jun  3 18:22:31  1999
+../exp2 0 10000 5 4 process division: 47682,4326
+exp time [s] = 0
+Thu Jun  3 18:22:32  1999
+../exp2 0 10000 5 4 combine: 47682,4326
+exp time [s] = 0
+Thu Jun  3 18:22:33  1999
+../exp2 0 10000 5 4 process division: 43356,4326
+exp time [s] = 1
+Thu Jun  3 18:22:33  1999
+../exp2 0 10000 5 4 combine: 43356,4326
+exp time [s] = 0
+Thu Jun  3 18:22:34  1999
+../exp2 0 10000 5 4 process division: 39030,4326
+exp time [s] = 0
+Thu Jun  3 18:22:34  1999
+../exp2 0 10000 5 4 combine: 39030,4326
+exp time [s] = 0
+Thu Jun  3 18:22:35  1999
+../exp2 0 10000 5 4 process division: 34704,4326
+exp time [s] = 0
+Thu Jun  3 18:22:36  1999
+../exp2 0 10000 5 4 combine: 34704,4326
+exp time [s] = 0
+Thu Jun  3 18:22:37  1999
+../exp2 0 10000 5 4 process division: 30378,4326
+exp time [s] = 1
+Thu Jun  3 18:22:37  1999
+../exp2 0 10000 5 4 combine: 30378,4326
+exp time [s] = 0
+Thu Jun  3 18:22:38  1999
+../exp2 0 10000 5 4 process division: 26052,4326
+exp time [s] = 0
+Thu Jun  3 18:22:39  1999
+../exp2 0 10000 5 4 combine: 26052,4326
+exp time [s] = 0
+Thu Jun  3 18:22:39  1999
+../exp2 0 10000 5 4 process division: 21726,4326
+exp time [s] = 0
+Thu Jun  3 18:22:40  1999
+../exp2 0 10000 5 4 combine: 21726,4326
+exp time [s] = 0
+Thu Jun  3 18:22:41  1999
+../exp2 0 10000 5 4 process division: 17400,4326
+exp time [s] = 0
+Thu Jun  3 18:22:41  1999
+../exp2 0 10000 5 4 combine: 17400,4326
+exp time [s] = 0
+Thu Jun  3 18:22:42  1999
+../exp2 0 10000 5 4 process division: 13074,4326
+exp time [s] = 0
+Thu Jun  3 18:22:43  1999
+../exp2 0 10000 5 4 combine: 13074,4326
+exp time [s] = 0
+Thu Jun  3 18:22:44  1999
+../exp2 0 10000 5 4 process division: 8748,4326
+exp time [s] = 0
+Thu Jun  3 18:22:44  1999
+../exp2 0 10000 5 4 combine: 8748,4326
+exp time [s] = 0
+Thu Jun  3 18:22:45  1999
+../exp2 0 10000 5 4 process division: 4422,4326
+exp time [s] = 0
+Thu Jun  3 18:22:46  1999
+../exp2 0 10000 5 4 combine: 4422,4326
+exp time [s] = 0
+Thu Jun  3 18:22:46  1999
+../exp2 0 10000 5 4 process division: 96,4326
+exp time [s] = 1
+Thu Jun  3 18:22:47  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:22:47  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:22:48  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:22:48  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:22:48  1999
+../exp2 10000 exp time [s] = 3
+Thu Jun  3 18:22:51  1999
+Thu Jun  3 18:28:45  1999
+Thu Jun  3 18:29:02  1999
+../exp2 0 10000 4 4 decimals=83355
+process division: 276960,4326
+exp time [s] = 0
+Thu Jun  3 18:29:03  1999
+../exp2 0 10000 5 4 combine: 276960,4326
+exp time [s] = 0
+Thu Jun  3 18:29:03  1999
+../exp2 0 10000 5 4 process division: 272634,4326
+exp time [s] = 0
+Thu Jun  3 18:29:04  1999
+../exp2 0 10000 5 4 combine: 272634,4326
+exp time [s] = 0
+Thu Jun  3 18:29:04  1999
+../exp2 0 10000 5 4 process division: 268308,4326
+exp time [s] = 0
+Thu Jun  3 18:29:05  1999
+../exp2 0 10000 5 4 combine: 268308,4326
+exp time [s] = 1
+Thu Jun  3 18:29:05  1999
+../exp2 0 10000 5 4 process division: 263982,4326
+exp time [s] = 0
+Thu Jun  3 18:29:06  1999
+../exp2 0 10000 5 4 combine: 263982,4326
+exp time [s] = 0
+Thu Jun  3 18:29:06  1999
+../exp2 0 10000 5 4 process division: 259656,4326
+exp time [s] = 0
+Thu Jun  3 18:29:07  1999
+../exp2 0 10000 5 4 combine: 259656,4326
+exp time [s] = 0
+Thu Jun  3 18:29:07  1999
+../exp2 0 10000 5 4 process division: 255330,4326
+exp time [s] = 0
+Thu Jun  3 18:29:08  1999
+../exp2 0 10000 5 4 combine: 255330,4326
+exp time [s] = 0
+Thu Jun  3 18:29:08  1999
+../exp2 0 10000 5 4 process division: 251004,4326
+exp time [s] = 0
+Thu Jun  3 18:29:09  1999
+../exp2 0 10000 5 4 combine: 251004,4326
+exp time [s] = 0
+Thu Jun  3 18:29:09  1999
+../exp2 0 10000 5 4 process division: 246678,4326
+exp time [s] = 0
+Thu Jun  3 18:29:10  1999
+../exp2 0 10000 5 4 combine: 246678,4326
+exp time [s] = 0
+Thu Jun  3 18:29:10  1999
+../exp2 0 10000 5 4 process division: 242352,4326
+exp time [s] = 0
+Thu Jun  3 18:29:11  1999
+../exp2 0 10000 5 4 combine: 242352,4326
+exp time [s] = 0
+Thu Jun  3 18:29:12  1999
+../exp2 0 10000 5 4 process division: 238026,4326
+exp time [s] = 0
+Thu Jun  3 18:29:12  1999
+../exp2 0 10000 5 4 combine: 238026,4326
+exp time [s] = 0
+Thu Jun  3 18:29:13  1999
+../exp2 0 10000 5 4 process division: 233700,4326
+exp time [s] = 0
+Thu Jun  3 18:29:13  1999
+../exp2 0 10000 5 4 combine: 233700,4326
+exp time [s] = 0
+Thu Jun  3 18:29:14  1999
+../exp2 0 10000 5 4 process division: 229374,4326
+exp time [s] = 1
+Thu Jun  3 18:29:14  1999
+../exp2 0 10000 5 4 combine: 229374,4326
+exp time [s] = 0
+Thu Jun  3 18:29:15  1999
+../exp2 0 10000 5 4 process division: 225048,4326
+exp time [s] = 0
+Thu Jun  3 18:29:15  1999
+../exp2 0 10000 5 4 combine: 225048,4326
+exp time [s] = 0
+Thu Jun  3 18:29:16  1999
+../exp2 0 10000 5 4 process division: 220722,4326
+exp time [s] = 0
+Thu Jun  3 18:29:16  1999
+../exp2 0 10000 5 4 combine: 220722,4326
+exp time [s] = 0
+Thu Jun  3 18:29:17  1999
+../exp2 0 10000 5 4 process division: 216396,4326
+exp time [s] = 0
+Thu Jun  3 18:29:18  1999
+../exp2 0 10000 5 4 combine: 216396,4326
+exp time [s] = 0
+Thu Jun  3 18:29:18  1999
+../exp2 0 10000 5 4 process division: 212070,4326
+exp time [s] = 0
+Thu Jun  3 18:29:19  1999
+../exp2 0 10000 5 4 combine: 212070,4326
+exp time [s] = 0
+Thu Jun  3 18:29:19  1999
+../exp2 0 10000 5 4 process division: 207744,4326
+exp time [s] = 0
+Thu Jun  3 18:29:20  1999
+../exp2 0 10000 5 4 combine: 207744,4326
+exp time [s] = 0
+Thu Jun  3 18:29:20  1999
+../exp2 0 10000 5 4 process division: 203418,4326
+exp time [s] = 0
+Thu Jun  3 18:29:21  1999
+../exp2 0 10000 5 4 combine: 203418,4326
+exp time [s] = 0
+Thu Jun  3 18:29:22  1999
+../exp2 0 10000 5 4 process division: 199092,4326
+exp time [s] = 0
+Thu Jun  3 18:29:22  1999
+../exp2 0 10000 5 4 combine: 199092,4326
+exp time [s] = 0
+Thu Jun  3 18:29:23  1999
+../exp2 0 10000 5 4 process division: 194766,4326
+exp time [s] = 0
+Thu Jun  3 18:29:23  1999
+../exp2 0 10000 5 4 combine: 194766,4326
+exp time [s] = 0
+Thu Jun  3 18:29:24  1999
+../exp2 0 10000 5 4 process division: 190440,4326
+exp time [s] = 0
+Thu Jun  3 18:29:24  1999
+../exp2 0 10000 5 4 combine: 190440,4326
+exp time [s] = 0
+Thu Jun  3 18:29:25  1999
+../exp2 0 10000 5 4 process division: 186114,4326
+exp time [s] = 0
+Thu Jun  3 18:29:25  1999
+../exp2 0 10000 5 4 combine: 186114,4326
+exp time [s] = 0
+Thu Jun  3 18:29:26  1999
+../exp2 0 10000 5 4 process division: 181788,4326
+exp time [s] = 0
+Thu Jun  3 18:29:27  1999
+../exp2 0 10000 5 4 combine: 181788,4326
+exp time [s] = 0
+Thu Jun  3 18:29:27  1999
+../exp2 0 10000 5 4 process division: 177462,4326
+exp time [s] = 0
+Thu Jun  3 18:29:28  1999
+../exp2 0 10000 5 4 combine: 177462,4326
+exp time [s] = 0
+Thu Jun  3 18:29:28  1999
+../exp2 0 10000 5 4 process division: 173136,4326
+exp time [s] = 0
+Thu Jun  3 18:29:29  1999
+../exp2 0 10000 5 4 combine: 173136,4326
+exp time [s] = 0
+Thu Jun  3 18:29:29  1999
+../exp2 0 10000 5 4 process division: 168810,4326
+exp time [s] = 0
+Thu Jun  3 18:29:30  1999
+../exp2 0 10000 5 4 combine: 168810,4326
+exp time [s] = 0
+Thu Jun  3 18:29:31  1999
+../exp2 0 10000 5 4 process division: 164484,4326
+exp time [s] = 1
+Thu Jun  3 18:29:31  1999
+../exp2 0 10000 5 4 combine: 164484,4326
+exp time [s] = 0
+Thu Jun  3 18:29:32  1999
+../exp2 0 10000 5 4 process division: 160158,4326
+exp time [s] = 0
+Thu Jun  3 18:29:32  1999
+../exp2 0 10000 5 4 combine: 160158,4326
+exp time [s] = 0
+Thu Jun  3 18:29:33  1999
+../exp2 0 10000 5 4 process division: 155832,4326
+exp time [s] = 0
+Thu Jun  3 18:29:34  1999
+../exp2 0 10000 5 4 combine: 155832,4326
+exp time [s] = 0
+Thu Jun  3 18:29:34  1999
+../exp2 0 10000 5 4 process division: 151506,4326
+exp time [s] = 0
+Thu Jun  3 18:29:35  1999
+../exp2 0 10000 5 4 combine: 151506,4326
+exp time [s] = 0
+Thu Jun  3 18:29:36  1999
+../exp2 0 10000 5 4 process division: 147180,4326
+exp time [s] = 0
+Thu Jun  3 18:29:36  1999
+../exp2 0 10000 5 4 combine: 147180,4326
+exp time [s] = 0
+Thu Jun  3 18:29:37  1999
+../exp2 0 10000 5 4 process division: 142854,4326
+exp time [s] = 0
+Thu Jun  3 18:29:37  1999
+../exp2 0 10000 5 4 combine: 142854,4326
+exp time [s] = 0
+Thu Jun  3 18:29:38  1999
+../exp2 0 10000 5 4 process division: 138528,4326
+exp time [s] = 0
+Thu Jun  3 18:29:39  1999
+../exp2 0 10000 5 4 combine: 138528,4326
+exp time [s] = 0
+Thu Jun  3 18:29:39  1999
+../exp2 0 10000 5 4 process division: 134202,4326
+exp time [s] = 0
+Thu Jun  3 18:29:40  1999
+../exp2 0 10000 5 4 combine: 134202,4326
+exp time [s] = 0
+Thu Jun  3 18:29:40  1999
+../exp2 0 10000 5 4 process division: 129876,4326
+exp time [s] = 0
+Thu Jun  3 18:29:41  1999
+../exp2 0 10000 5 4 combine: 129876,4326
+exp time [s] = 0
+Thu Jun  3 18:29:42  1999
+../exp2 0 10000 5 4 process division: 125550,4326
+exp time [s] = 1
+Thu Jun  3 18:29:42  1999
+../exp2 0 10000 5 4 combine: 125550,4326
+exp time [s] = 0
+Thu Jun  3 18:29:43  1999
+../exp2 0 10000 5 4 process division: 121224,4326
+exp time [s] = 0
+Thu Jun  3 18:29:44  1999
+../exp2 0 10000 5 4 combine: 121224,4326
+exp time [s] = 0
+Thu Jun  3 18:29:44  1999
+../exp2 0 10000 5 4 process division: 116898,4326
+exp time [s] = 0
+Thu Jun  3 18:29:45  1999
+../exp2 0 10000 5 4 combine: 116898,4326
+exp time [s] = 0
+Thu Jun  3 18:29:46  1999
+../exp2 0 10000 5 4 process division: 112572,4326
+exp time [s] = 0
+Thu Jun  3 18:29:46  1999
+../exp2 0 10000 5 4 combine: 112572,4326
+exp time [s] = 0
+Thu Jun  3 18:29:47  1999
+../exp2 0 10000 5 4 process division: 108246,4326
+exp time [s] = 0
+Thu Jun  3 18:29:47  1999
+../exp2 0 10000 5 4 combine: 108246,4326
+exp time [s] = 0
+Thu Jun  3 18:29:48  1999
+../exp2 0 10000 5 4 process division: 103920,4326
+exp time [s] = 0
+Thu Jun  3 18:29:49  1999
+../exp2 0 10000 5 4 combine: 103920,4326
+exp time [s] = 0
+Thu Jun  3 18:29:49  1999
+../exp2 0 10000 5 4 process division: 99594,4326
+exp time [s] = 0
+Thu Jun  3 18:29:50  1999
+../exp2 0 10000 5 4 combine: 99594,4326
+exp time [s] = 0
+Thu Jun  3 18:29:51  1999
+../exp2 0 10000 5 4 process division: 95268,4326
+exp time [s] = 0
+Thu Jun  3 18:29:51  1999
+../exp2 0 10000 5 4 combine: 95268,4326
+exp time [s] = 0
+Thu Jun  3 18:29:52  1999
+../exp2 0 10000 5 4 process division: 90942,4326
+exp time [s] = 0
+Thu Jun  3 18:29:52  1999
+../exp2 0 10000 5 4 combine: 90942,4326
+exp time [s] = 0
+Thu Jun  3 18:29:53  1999
+../exp2 0 10000 5 4 process division: 86616,4326
+exp time [s] = 0
+Thu Jun  3 18:29:54  1999
+../exp2 0 10000 5 4 combine: 86616,4326
+exp time [s] = 1
+Thu Jun  3 18:29:54  1999
+../exp2 0 10000 5 4 process division: 82290,4326
+exp time [s] = 0
+Thu Jun  3 18:29:55  1999
+../exp2 0 10000 5 4 combine: 82290,4326
+exp time [s] = 0
+Thu Jun  3 18:29:56  1999
+../exp2 0 10000 5 4 process division: 77964,4326
+exp time [s] = 0
+Thu Jun  3 18:29:56  1999
+../exp2 0 10000 5 4 combine: 77964,4326
+exp time [s] = 0
+Thu Jun  3 18:29:57  1999
+../exp2 0 10000 5 4 process division: 73638,4326
+exp time [s] = 0
+Thu Jun  3 18:29:57  1999
+../exp2 0 10000 5 4 combine: 73638,4326
+exp time [s] = 0
+Thu Jun  3 18:29:58  1999
+../exp2 0 10000 5 4 process division: 69312,4326
+exp time [s] = 0
+Thu Jun  3 18:29:59  1999
+../exp2 0 10000 5 4 combine: 69312,4326
+exp time [s] = 0
+Thu Jun  3 18:30:00  1999
+../exp2 0 10000 5 4 process division: 64986,4326
+exp time [s] = 0
+Thu Jun  3 18:30:00  1999
+../exp2 0 10000 5 4 combine: 64986,4326
+exp time [s] = 0
+Thu Jun  3 18:30:01  1999
+../exp2 0 10000 5 4 process division: 60660,4326
+exp time [s] = 0
+Thu Jun  3 18:30:01  1999
+../exp2 0 10000 5 4 combine: 60660,4326
+exp time [s] = 0
+Thu Jun  3 18:30:02  1999
+../exp2 0 10000 5 4 process division: 56334,4326
+exp time [s] = 0
+Thu Jun  3 18:30:03  1999
+../exp2 0 10000 5 4 combine: 56334,4326
+exp time [s] = 0
+Thu Jun  3 18:30:04  1999
+../exp2 0 10000 5 4 process division: 52008,4326
+exp time [s] = 0
+Thu Jun  3 18:30:04  1999
+../exp2 0 10000 5 4 combine: 52008,4326
+exp time [s] = 0
+Thu Jun  3 18:30:05  1999
+../exp2 0 10000 5 4 process division: 47682,4326
+exp time [s] = 0
+Thu Jun  3 18:30:05  1999
+../exp2 0 10000 5 4 combine: 47682,4326
+exp time [s] = 0
+Thu Jun  3 18:30:06  1999
+../exp2 0 10000 5 4 process division: 43356,4326
+exp time [s] = 0
+Thu Jun  3 18:30:07  1999
+../exp2 0 10000 5 4 combine: 43356,4326
+exp time [s] = 0
+Thu Jun  3 18:30:08  1999
+../exp2 0 10000 5 4 process division: 39030,4326
+exp time [s] = 1
+Thu Jun  3 18:30:08  1999
+../exp2 0 10000 5 4 combine: 39030,4326
+exp time [s] = 0
+Thu Jun  3 18:30:09  1999
+../exp2 0 10000 5 4 process division: 34704,4326
+exp time [s] = 0
+Thu Jun  3 18:30:10  1999
+../exp2 0 10000 5 4 combine: 34704,4326
+exp time [s] = 1
+Thu Jun  3 18:30:10  1999
+../exp2 0 10000 5 4 process division: 30378,4326
+exp time [s] = 0
+Thu Jun  3 18:30:11  1999
+../exp2 0 10000 5 4 combine: 30378,4326
+exp time [s] = 0
+Thu Jun  3 18:30:12  1999
+../exp2 0 10000 5 4 process division: 26052,4326
+exp time [s] = 1
+Thu Jun  3 18:30:12  1999
+../exp2 0 10000 5 4 combine: 26052,4326
+exp time [s] = 0
+Thu Jun  3 18:30:13  1999
+../exp2 0 10000 5 4 process division: 21726,4326
+exp time [s] = 0
+Thu Jun  3 18:30:14  1999
+../exp2 0 10000 5 4 combine: 21726,4326
+exp time [s] = 0
+Thu Jun  3 18:30:14  1999
+../exp2 0 10000 5 4 process division: 17400,4326
+exp time [s] = 0
+Thu Jun  3 18:30:15  1999
+../exp2 0 10000 5 4 combine: 17400,4326
+exp time [s] = 0
+Thu Jun  3 18:30:16  1999
+../exp2 0 10000 5 4 process division: 13074,4326
+exp time [s] = 0
+Thu Jun  3 18:30:16  1999
+../exp2 0 10000 5 4 combine: 13074,4326
+exp time [s] = 0
+Thu Jun  3 18:30:17  1999
+../exp2 0 10000 5 4 process division: 8748,4326
+exp time [s] = 0
+Thu Jun  3 18:30:18  1999
+../exp2 0 10000 5 4 combine: 8748,4326
+exp time [s] = 0
+Thu Jun  3 18:30:18  1999
+../exp2 0 10000 5 4 process division: 4422,4326
+exp time [s] = 0
+Thu Jun  3 18:30:19  1999
+../exp2 0 10000 5 4 combine: 4422,4326
+exp time [s] = 0
+Thu Jun  3 18:30:20  1999
+../exp2 0 10000 5 4 process division: 96,4326
+exp time [s] = 0
+Thu Jun  3 18:30:21  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:30:21  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:30:21  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:30:21  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:30:21  1999
+../exp2 10000 exp time [s] = 3
+Thu Jun  3 18:30:25  1999
+Thu Jun  3 18:38:16  1999
+../exp2 0 10000 4 4 decimals=83355
+process division: 276960,4326
+exp time [s] = 0
+Thu Jun  3 18:38:16  1999
+../exp2 0 10000 5 4 combine: 276960,4326
+exp time [s] = 0
+Thu Jun  3 18:38:17  1999
+../exp2 0 10000 5 4 process division: 272634,4326
+exp time [s] = 0
+Thu Jun  3 18:38:17  1999
+../exp2 0 10000 5 4 combine: 272634,4326
+exp time [s] = 0
+Thu Jun  3 18:38:18  1999
+../exp2 0 10000 5 4 process division: 268308,4326
+exp time [s] = 1
+Thu Jun  3 18:38:18  1999
+../exp2 0 10000 5 4 combine: 268308,4326
+exp time [s] = 0
+Thu Jun  3 18:38:19  1999
+../exp2 0 10000 5 4 process division: 263982,4326
+exp time [s] = 0
+Thu Jun  3 18:38:19  1999
+../exp2 0 10000 5 4 combine: 263982,4326
+exp time [s] = 0
+Thu Jun  3 18:38:20  1999
+../exp2 0 10000 5 4 process division: 259656,4326
+exp time [s] = 0
+Thu Jun  3 18:38:20  1999
+../exp2 0 10000 5 4 combine: 259656,4326
+exp time [s] = 0
+Thu Jun  3 18:38:21  1999
+../exp2 0 10000 5 4 process division: 255330,4326
+exp time [s] = 0
+Thu Jun  3 18:38:21  1999
+../exp2 0 10000 5 4 combine: 255330,4326
+exp time [s] = 0
+Thu Jun  3 18:38:22  1999
+../exp2 0 10000 5 4 process division: 251004,4326
+exp time [s] = 0
+Thu Jun  3 18:38:22  1999
+../exp2 0 10000 5 4 combine: 251004,4326
+exp time [s] = 0
+Thu Jun  3 18:38:23  1999
+../exp2 0 10000 5 4 process division: 246678,4326
+exp time [s] = 0
+Thu Jun  3 18:38:24  1999
+../exp2 0 10000 5 4 combine: 246678,4326
+exp time [s] = 0
+Thu Jun  3 18:38:24  1999
+../exp2 0 10000 5 4 process division: 242352,4326
+exp time [s] = 0
+Thu Jun  3 18:38:25  1999
+../exp2 0 10000 5 4 combine: 242352,4326
+exp time [s] = 0
+Thu Jun  3 18:38:25  1999
+../exp2 0 10000 5 4 process division: 238026,4326
+exp time [s] = 0
+Thu Jun  3 18:38:26  1999
+../exp2 0 10000 5 4 combine: 238026,4326
+exp time [s] = 0
+Thu Jun  3 18:38:26  1999
+../exp2 0 10000 5 4 process division: 233700,4326
+exp time [s] = 0
+Thu Jun  3 18:38:27  1999
+../exp2 0 10000 5 4 combine: 233700,4326
+exp time [s] = 0
+Thu Jun  3 18:38:27  1999
+../exp2 0 10000 5 4 process division: 229374,4326
+exp time [s] = 0
+Thu Jun  3 18:38:28  1999
+../exp2 0 10000 5 4 combine: 229374,4326
+exp time [s] = 0
+Thu Jun  3 18:38:29  1999
+../exp2 0 10000 5 4 process division: 225048,4326
+exp time [s] = 0
+Thu Jun  3 18:38:29  1999
+../exp2 0 10000 5 4 combine: 225048,4326
+exp time [s] = 0
+Thu Jun  3 18:38:30  1999
+../exp2 0 10000 5 4 process division: 220722,4326
+exp time [s] = 1
+Thu Jun  3 18:38:30  1999
+../exp2 0 10000 5 4 combine: 220722,4326
+exp time [s] = 0
+Thu Jun  3 18:38:31  1999
+../exp2 0 10000 5 4 process division: 216396,4326
+exp time [s] = 0
+Thu Jun  3 18:38:31  1999
+../exp2 0 10000 5 4 combine: 216396,4326
+exp time [s] = 0
+Thu Jun  3 18:38:32  1999
+../exp2 0 10000 5 4 process division: 212070,4326
+exp time [s] = 0
+Thu Jun  3 18:38:32  1999
+../exp2 0 10000 5 4 combine: 212070,4326
+exp time [s] = 0
+Thu Jun  3 18:38:33  1999
+../exp2 0 10000 5 4 process division: 207744,4326
+exp time [s] = 0
+Thu Jun  3 18:38:34  1999
+../exp2 0 10000 5 4 combine: 207744,4326
+exp time [s] = 0
+Thu Jun  3 18:38:34  1999
+../exp2 0 10000 5 4 process division: 203418,4326
+exp time [s] = 0
+Thu Jun  3 18:38:35  1999
+../exp2 0 10000 5 4 combine: 203418,4326
+exp time [s] = 0
+Thu Jun  3 18:38:35  1999
+../exp2 0 10000 5 4 process division: 199092,4326
+exp time [s] = 0
+Thu Jun  3 18:38:36  1999
+../exp2 0 10000 5 4 combine: 199092,4326
+exp time [s] = 0
+Thu Jun  3 18:38:36  1999
+../exp2 0 10000 5 4 process division: 194766,4326
+exp time [s] = 0
+Thu Jun  3 18:38:37  1999
+../exp2 0 10000 5 4 combine: 194766,4326
+exp time [s] = 0
+Thu Jun  3 18:38:38  1999
+../exp2 0 10000 5 4 process division: 190440,4326
+exp time [s] = 0
+Thu Jun  3 18:38:38  1999
+../exp2 0 10000 5 4 combine: 190440,4326
+exp time [s] = 0
+Thu Jun  3 18:38:39  1999
+../exp2 0 10000 5 4 process division: 186114,4326
+exp time [s] = 1
+Thu Jun  3 18:38:39  1999
+../exp2 0 10000 5 4 combine: 186114,4326
+exp time [s] = 0
+Thu Jun  3 18:38:40  1999
+../exp2 0 10000 5 4 process division: 181788,4326
+exp time [s] = 0
+Thu Jun  3 18:38:40  1999
+../exp2 0 10000 5 4 combine: 181788,4326
+exp time [s] = 0
+Thu Jun  3 18:38:41  1999
+../exp2 0 10000 5 4 process division: 177462,4326
+exp time [s] = 0
+Thu Jun  3 18:38:42  1999
+../exp2 0 10000 5 4 combine: 177462,4326
+exp time [s] = 0
+Thu Jun  3 18:38:42  1999
+../exp2 0 10000 5 4 process division: 173136,4326
+exp time [s] = 0
+Thu Jun  3 18:38:43  1999
+../exp2 0 10000 5 4 combine: 173136,4326
+exp time [s] = 0
+Thu Jun  3 18:38:43  1999
+../exp2 0 10000 5 4 process division: 168810,4326
+exp time [s] = 0
+Thu Jun  3 18:38:44  1999
+../exp2 0 10000 5 4 combine: 168810,4326
+exp time [s] = 0
+Thu Jun  3 18:38:44  1999
+../exp2 0 10000 5 4 process division: 164484,4326
+exp time [s] = 0
+Thu Jun  3 18:38:45  1999
+../exp2 0 10000 5 4 combine: 164484,4326
+exp time [s] = 0
+Thu Jun  3 18:38:46  1999
+../exp2 0 10000 5 4 process division: 160158,4326
+exp time [s] = 1
+Thu Jun  3 18:38:46  1999
+../exp2 0 10000 5 4 combine: 160158,4326
+exp time [s] = 0
+Thu Jun  3 18:38:47  1999
+../exp2 0 10000 5 4 process division: 155832,4326
+exp time [s] = 0
+Thu Jun  3 18:38:47  1999
+../exp2 0 10000 5 4 combine: 155832,4326
+exp time [s] = 0
+Thu Jun  3 18:38:48  1999
+../exp2 0 10000 5 4 process division: 151506,4326
+exp time [s] = 0
+Thu Jun  3 18:38:49  1999
+../exp2 0 10000 5 4 combine: 151506,4326
+exp time [s] = 0
+Thu Jun  3 18:38:49  1999
+../exp2 0 10000 5 4 process division: 147180,4326
+exp time [s] = 0
+Thu Jun  3 18:38:50  1999
+../exp2 0 10000 5 4 combine: 147180,4326
+exp time [s] = 0
+Thu Jun  3 18:38:50  1999
+../exp2 0 10000 5 4 process division: 142854,4326
+exp time [s] = 0
+Thu Jun  3 18:38:51  1999
+../exp2 0 10000 5 4 combine: 142854,4326
+exp time [s] = 0
+Thu Jun  3 18:38:52  1999
+../exp2 0 10000 5 4 process division: 138528,4326
+exp time [s] = 0
+Thu Jun  3 18:38:52  1999
+../exp2 0 10000 5 4 combine: 138528,4326
+exp time [s] = 0
+Thu Jun  3 18:38:53  1999
+../exp2 0 10000 5 4 process division: 134202,4326
+exp time [s] = 0
+Thu Jun  3 18:38:53  1999
+../exp2 0 10000 5 4 combine: 134202,4326
+exp time [s] = 0
+Thu Jun  3 18:38:54  1999
+../exp2 0 10000 5 4 process division: 129876,4326
+exp time [s] = 0
+Thu Jun  3 18:38:55  1999
+../exp2 0 10000 5 4 combine: 129876,4326
+exp time [s] = 1
+Thu Jun  3 18:38:55  1999
+../exp2 0 10000 5 4 process division: 125550,4326
+exp time [s] = 0
+Thu Jun  3 18:38:56  1999
+../exp2 0 10000 5 4 combine: 125550,4326
+exp time [s] = 0
+Thu Jun  3 18:38:56  1999
+../exp2 0 10000 5 4 process division: 121224,4326
+exp time [s] = 0
+Thu Jun  3 18:38:57  1999
+../exp2 0 10000 5 4 combine: 121224,4326
+exp time [s] = 0
+Thu Jun  3 18:38:58  1999
+../exp2 0 10000 5 4 process division: 116898,4326
+exp time [s] = 1
+Thu Jun  3 18:38:58  1999
+../exp2 0 10000 5 4 combine: 116898,4326
+exp time [s] = 0
+Thu Jun  3 18:38:59  1999
+../exp2 0 10000 5 4 process division: 112572,4326
+exp time [s] = 0
+Thu Jun  3 18:38:59  1999
+../exp2 0 10000 5 4 combine: 112572,4326
+exp time [s] = 0
+Thu Jun  3 18:39:00  1999
+../exp2 0 10000 5 4 process division: 108246,4326
+exp time [s] = 0
+Thu Jun  3 18:39:01  1999
+../exp2 0 10000 5 4 combine: 108246,4326
+exp time [s] = 0
+Thu Jun  3 18:39:01  1999
+../exp2 0 10000 5 4 process division: 103920,4326
+exp time [s] = 0
+Thu Jun  3 18:39:02  1999
+../exp2 0 10000 5 4 combine: 103920,4326
+exp time [s] = 0
+Thu Jun  3 18:39:03  1999
+../exp2 0 10000 5 4 process division: 99594,4326
+exp time [s] = 0
+Thu Jun  3 18:39:03  1999
+../exp2 0 10000 5 4 combine: 99594,4326
+exp time [s] = 0
+Thu Jun  3 18:39:04  1999
+../exp2 0 10000 5 4 process division: 95268,4326
+exp time [s] = 0
+Thu Jun  3 18:39:04  1999
+../exp2 0 10000 5 4 combine: 95268,4326
+exp time [s] = 0
+Thu Jun  3 18:39:05  1999
+../exp2 0 10000 5 4 process division: 90942,4326
+exp time [s] = 0
+Thu Jun  3 18:39:06  1999
+../exp2 0 10000 5 4 combine: 90942,4326
+exp time [s] = 0
+Thu Jun  3 18:39:06  1999
+../exp2 0 10000 5 4 process division: 86616,4326
+exp time [s] = 0
+Thu Jun  3 18:39:07  1999
+../exp2 0 10000 5 4 combine: 86616,4326
+exp time [s] = 0
+Thu Jun  3 18:39:08  1999
+../exp2 0 10000 5 4 process division: 82290,4326
+exp time [s] = 1
+Thu Jun  3 18:39:08  1999
+../exp2 0 10000 5 4 combine: 82290,4326
+exp time [s] = 0
+Thu Jun  3 18:39:09  1999
+../exp2 0 10000 5 4 process division: 77964,4326
+exp time [s] = 0
+Thu Jun  3 18:39:09  1999
+../exp2 0 10000 5 4 combine: 77964,4326
+exp time [s] = 0
+Thu Jun  3 18:39:10  1999
+../exp2 0 10000 5 4 process division: 73638,4326
+exp time [s] = 0
+Thu Jun  3 18:39:11  1999
+../exp2 0 10000 5 4 combine: 73638,4326
+exp time [s] = 0
+Thu Jun  3 18:39:12  1999
+../exp2 0 10000 5 4 process division: 69312,4326
+exp time [s] = 0
+Thu Jun  3 18:39:12  1999
+../exp2 0 10000 5 4 combine: 69312,4326
+exp time [s] = 0
+Thu Jun  3 18:39:13  1999
+../exp2 0 10000 5 4 process division: 64986,4326
+exp time [s] = 0
+Thu Jun  3 18:39:13  1999
+../exp2 0 10000 5 4 combine: 64986,4326
+exp time [s] = 0
+Thu Jun  3 18:39:14  1999
+../exp2 0 10000 5 4 process division: 60660,4326
+exp time [s] = 0
+Thu Jun  3 18:39:15  1999
+../exp2 0 10000 5 4 combine: 60660,4326
+exp time [s] = 0
+Thu Jun  3 18:39:15  1999
+../exp2 0 10000 5 4 process division: 56334,4326
+exp time [s] = 0
+Thu Jun  3 18:39:16  1999
+../exp2 0 10000 5 4 combine: 56334,4326
+exp time [s] = 0
+Thu Jun  3 18:39:17  1999
+../exp2 0 10000 5 4 process division: 52008,4326
+exp time [s] = 0
+Thu Jun  3 18:39:17  1999
+../exp2 0 10000 5 4 combine: 52008,4326
+exp time [s] = 0
+Thu Jun  3 18:39:18  1999
+../exp2 0 10000 5 4 process division: 47682,4326
+exp time [s] = 0
+Thu Jun  3 18:39:19  1999
+../exp2 0 10000 5 4 combine: 47682,4326
+exp time [s] = 0
+Thu Jun  3 18:39:19  1999
+../exp2 0 10000 5 4 process division: 43356,4326
+exp time [s] = 0
+Thu Jun  3 18:39:20  1999
+../exp2 0 10000 5 4 combine: 43356,4326
+exp time [s] = 0
+Thu Jun  3 18:39:21  1999
+../exp2 0 10000 5 4 process division: 39030,4326
+exp time [s] = 1
+Thu Jun  3 18:39:21  1999
+../exp2 0 10000 5 4 combine: 39030,4326
+exp time [s] = 0
+Thu Jun  3 18:39:22  1999
+../exp2 0 10000 5 4 process division: 34704,4326
+exp time [s] = 0
+Thu Jun  3 18:39:23  1999
+../exp2 0 10000 5 4 combine: 34704,4326
+exp time [s] = 0
+Thu Jun  3 18:39:23  1999
+../exp2 0 10000 5 4 process division: 30378,4326
+exp time [s] = 0
+Thu Jun  3 18:39:24  1999
+../exp2 0 10000 5 4 combine: 30378,4326
+exp time [s] = 0
+Thu Jun  3 18:39:25  1999
+../exp2 0 10000 5 4 process division: 26052,4326
+exp time [s] = 1
+Thu Jun  3 18:39:25  1999
+../exp2 0 10000 5 4 combine: 26052,4326
+exp time [s] = 0
+Thu Jun  3 18:39:26  1999
+../exp2 0 10000 5 4 process division: 21726,4326
+exp time [s] = 0
+Thu Jun  3 18:39:27  1999
+../exp2 0 10000 5 4 combine: 21726,4326
+exp time [s] = 1
+Thu Jun  3 18:39:27  1999
+../exp2 0 10000 5 4 process division: 17400,4326
+exp time [s] = 0
+Thu Jun  3 18:39:28  1999
+../exp2 0 10000 5 4 combine: 17400,4326
+exp time [s] = 0
+Thu Jun  3 18:39:29  1999
+../exp2 0 10000 5 4 process division: 13074,4326
+exp time [s] = 0
+Thu Jun  3 18:39:29  1999
+../exp2 0 10000 5 4 combine: 13074,4326
+exp time [s] = 0
+Thu Jun  3 18:39:30  1999
+../exp2 0 10000 5 4 process division: 8748,4326
+exp time [s] = 0
+Thu Jun  3 18:39:31  1999
+../exp2 0 10000 5 4 combine: 8748,4326
+exp time [s] = 0
+Thu Jun  3 18:39:31  1999
+../exp2 0 10000 5 4 process division: 4422,4326
+exp time [s] = 0
+Thu Jun  3 18:39:32  1999
+../exp2 0 10000 5 4 combine: 4422,4326
+exp time [s] = 0
+Thu Jun  3 18:39:33  1999
+../exp2 0 10000 5 4 process division: 96,4326
+exp time [s] = 0
+Thu Jun  3 18:39:34  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:39:34  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:39:34  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:39:34  1999
+../exp2 0 10000 5 4 READY!
+Thu Jun  3 18:39:34  1999
+../exp2 10000 exp time [s] = 3
+Thu Jun  3 18:39:38  1999
+Fri Jun  4 09:04:16  1999
+../exp2 0 10000 4 4 decimals=83355
+process division: 276960,4326
+exp time [s] = 0
+Fri Jun  4 09:04:17  1999
+../exp2 0 10000 5 4 combine: 276960,4326
+exp time [s] = 0
+Fri Jun  4 09:04:18  1999
+../exp2 0 10000 5 4 process division: 272634,4326
+exp time [s] = 1
+Fri Jun  4 09:04:18  1999
+../exp2 0 10000 5 4 combine: 272634,4326
+exp time [s] = 0
+Fri Jun  4 09:04:19  1999
+../exp2 0 10000 5 4 process division: 268308,4326
+exp time [s] = 0
+Fri Jun  4 09:04:19  1999
+../exp2 0 10000 5 4 combine: 268308,4326
+exp time [s] = 0
+Fri Jun  4 09:04:20  1999
+../exp2 0 10000 5 4 process division: 263982,4326
+exp time [s] = 0
+Fri Jun  4 09:04:20  1999
+../exp2 0 10000 5 4 combine: 263982,4326
+exp time [s] = 0
+Fri Jun  4 09:04:21  1999
+../exp2 0 10000 5 4 process division: 259656,4326
+exp time [s] = 0
+Fri Jun  4 09:04:22  1999
+../exp2 0 10000 5 4 combine: 259656,4326
+exp time [s] = 0
+Fri Jun  4 09:04:22  1999
+../exp2 0 10000 5 4 process division: 255330,4326
+exp time [s] = 0
+Fri Jun  4 09:04:23  1999
+../exp2 0 10000 5 4 combine: 255330,4326
+exp time [s] = 0
+Fri Jun  4 09:04:23  1999
+../exp2 0 10000 5 4 process division: 251004,4326
+exp time [s] = 0
+Fri Jun  4 09:04:24  1999
+../exp2 0 10000 5 4 combine: 251004,4326
+exp time [s] = 0
+Fri Jun  4 09:04:24  1999
+../exp2 0 10000 5 4 process division: 246678,4326
+exp time [s] = 0
+Fri Jun  4 09:04:25  1999
+../exp2 0 10000 5 4 combine: 246678,4326
+exp time [s] = 0
+Fri Jun  4 09:04:26  1999
+../exp2 0 10000 5 4 process division: 242352,4326
+exp time [s] = 1
+Fri Jun  4 09:04:27  1999
+../exp2 0 10000 5 4 combine: 242352,4326
+exp time [s] = 0
+Fri Jun  4 09:04:27  1999
+../exp2 0 10000 5 4 process division: 238026,4326
+exp time [s] = 0
+Fri Jun  4 09:04:28  1999
+../exp2 0 10000 5 4 combine: 238026,4326
+exp time [s] = 0
+Fri Jun  4 09:04:28  1999
+../exp2 0 10000 5 4 process division: 233700,4326
+exp time [s] = 0
+Fri Jun  4 09:04:29  1999
+../exp2 0 10000 5 4 combine: 233700,4326
+exp time [s] = 0
+Fri Jun  4 09:04:30  1999
+../exp2 0 10000 5 4 process division: 229374,4326
+exp time [s] = 1
+Fri Jun  4 09:04:30  1999
+../exp2 0 10000 5 4 combine: 229374,4326
+exp time [s] = 0
+Fri Jun  4 09:04:31  1999
+../exp2 0 10000 5 4 process division: 225048,4326
+exp time [s] = 0
+Fri Jun  4 09:04:31  1999
+../exp2 0 10000 5 4 combine: 225048,4326
+exp time [s] = 0
+Fri Jun  4 09:04:32  1999
+../exp2 0 10000 5 4 process division: 220722,4326
+exp time [s] = 0
+Fri Jun  4 09:04:33  1999
+../exp2 0 10000 5 4 combine: 220722,4326
+exp time [s] = 0
+Fri Jun  4 09:04:33  1999
+../exp2 0 10000 5 4 process division: 216396,4326
+exp time [s] = 0
+Fri Jun  4 09:04:34  1999
+../exp2 0 10000 5 4 combine: 216396,4326
+exp time [s] = 0
+Fri Jun  4 09:04:34  1999
+../exp2 0 10000 5 4 process division: 212070,4326
+exp time [s] = 0
+Fri Jun  4 09:04:35  1999
+../exp2 0 10000 5 4 combine: 212070,4326
+exp time [s] = 0
+Fri Jun  4 09:04:36  1999
+../exp2 0 10000 5 4 process division: 207744,4326
+exp time [s] = 0
+Fri Jun  4 09:04:36  1999
+../exp2 0 10000 5 4 combine: 207744,4326
+exp time [s] = 0
+Fri Jun  4 09:04:37  1999
+../exp2 0 10000 5 4 process division: 203418,4326
+exp time [s] = 0
+Fri Jun  4 09:04:37  1999
+../exp2 0 10000 5 4 combine: 203418,4326
+exp time [s] = 0
+Fri Jun  4 09:04:38  1999
+../exp2 0 10000 5 4 process division: 199092,4326
+exp time [s] = 0
+Fri Jun  4 09:04:39  1999
+../exp2 0 10000 5 4 combine: 199092,4326
+exp time [s] = 0
+Fri Jun  4 09:04:39  1999
+../exp2 0 10000 5 4 process division: 194766,4326
+exp time [s] = 0
+Fri Jun  4 09:04:40  1999
+../exp2 0 10000 5 4 combine: 194766,4326
+exp time [s] = 0
+Fri Jun  4 09:04:40  1999
+../exp2 0 10000 5 4 process division: 190440,4326
+exp time [s] = 0
+Fri Jun  4 09:04:41  1999
+../exp2 0 10000 5 4 combine: 190440,4326
+exp time [s] = 0
+Fri Jun  4 09:04:42  1999
+../exp2 0 10000 5 4 process division: 186114,4326
+exp time [s] = 1
+Fri Jun  4 09:04:42  1999
+../exp2 0 10000 5 4 combine: 186114,4326
+exp time [s] = 0
+Fri Jun  4 09:04:43  1999
+../exp2 0 10000 5 4 process division: 181788,4326
+exp time [s] = 0
+Fri Jun  4 09:04:44  1999
+../exp2 0 10000 5 4 combine: 181788,4326
+exp time [s] = 0
+Fri Jun  4 09:04:44  1999
+../exp2 0 10000 5 4 process division: 177462,4326
+exp time [s] = 1
+Fri Jun  4 09:04:45  1999
+../exp2 0 10000 5 4 combine: 177462,4326
+exp time [s] = 0
+Fri Jun  4 09:04:46  1999
+../exp2 0 10000 5 4 process division: 173136,4326
+exp time [s] = 0
+Fri Jun  4 09:04:46  1999
+../exp2 0 10000 5 4 combine: 173136,4326
+exp time [s] = 1
+Fri Jun  4 09:04:47  1999
+../exp2 0 10000 5 4 process division: 168810,4326
+exp time [s] = 0
+Fri Jun  4 09:04:48  1999
+../exp2 0 10000 5 4 combine: 168810,4326
+exp time [s] = 0
+Fri Jun  4 09:04:48  1999
+../exp2 0 10000 5 4 process division: 164484,4326
+exp time [s] = 0
+Fri Jun  4 09:04:49  1999
+../exp2 0 10000 5 4 combine: 164484,4326
+exp time [s] = 0
+Fri Jun  4 09:04:50  1999
+../exp2 0 10000 5 4 process division: 160158,4326
+exp time [s] = 0
+Fri Jun  4 09:04:50  1999
+../exp2 0 10000 5 4 combine: 160158,4326
+exp time [s] = 0
+Fri Jun  4 09:04:51  1999
+../exp2 0 10000 5 4 process division: 155832,4326
+exp time [s] = 0
+Fri Jun  4 09:04:52  1999
+../exp2 0 10000 5 4 combine: 155832,4326
+exp time [s] = 0
+Fri Jun  4 09:04:52  1999
+../exp2 0 10000 5 4 process division: 151506,4326
+exp time [s] = 0
+Fri Jun  4 09:04:53  1999
+../exp2 0 10000 5 4 combine: 151506,4326
+exp time [s] = 0
+Fri Jun  4 09:04:54  1999
+../exp2 0 10000 5 4 process division: 147180,4326
+exp time [s] = 0
+Fri Jun  4 09:04:54  1999
+../exp2 0 10000 5 4 combine: 147180,4326
+exp time [s] = 0
+Fri Jun  4 09:04:55  1999
+../exp2 0 10000 5 4 process division: 142854,4326
+exp time [s] = 0
+Fri Jun  4 09:04:55  1999
+../exp2 0 10000 5 4 combine: 142854,4326
+exp time [s] = 0
+Fri Jun  4 09:04:56  1999
+../exp2 0 10000 5 4 process division: 138528,4326
+exp time [s] = 0
+Fri Jun  4 09:04:57  1999
+../exp2 0 10000 5 4 combine: 138528,4326
+exp time [s] = 0
+Fri Jun  4 09:04:57  1999
+../exp2 0 10000 5 4 process division: 134202,4326
+exp time [s] = 0
+Fri Jun  4 09:04:58  1999
+../exp2 0 10000 5 4 combine: 134202,4326
+exp time [s] = 0
+Fri Jun  4 09:04:59  1999
+../exp2 0 10000 5 4 process division: 129876,4326
+exp time [s] = 0
+Fri Jun  4 09:04:59  1999
+../exp2 0 10000 5 4 combine: 129876,4326
+exp time [s] = 0
+Fri Jun  4 09:05:00  1999
+../exp2 0 10000 5 4 process division: 125550,4326
+exp time [s] = 0
+Fri Jun  4 09:05:00  1999
+../exp2 0 10000 5 4 combine: 125550,4326
+exp time [s] = 0
+Fri Jun  4 09:05:01  1999
+../exp2 0 10000 5 4 process division: 121224,4326
+exp time [s] = 0
+Fri Jun  4 09:05:01  1999
+../exp2 0 10000 5 4 combine: 121224,4326
+exp time [s] = 1
+Fri Jun  4 09:05:02  1999
+../exp2 0 10000 5 4 process division: 116898,4326
+exp time [s] = 0
+Fri Jun  4 09:05:03  1999
+../exp2 0 10000 5 4 combine: 116898,4326
+exp time [s] = 0
+Fri Jun  4 09:05:04  1999
+../exp2 0 10000 5 4 process division: 112572,4326
+exp time [s] = 1
+Fri Jun  4 09:05:04  1999
+../exp2 0 10000 5 4 combine: 112572,4326
+exp time [s] = 0
+Fri Jun  4 09:05:05  1999
+../exp2 0 10000 5 4 process division: 108246,4326
+exp time [s] = 0
+Fri Jun  4 09:05:06  1999
+../exp2 0 10000 5 4 combine: 108246,4326
+exp time [s] = 0
+Fri Jun  4 09:05:07  1999
+../exp2 0 10000 5 4 process division: 103920,4326
+exp time [s] = 0
+Fri Jun  4 09:05:07  1999
+../exp2 0 10000 5 4 combine: 103920,4326
+exp time [s] = 0
+Fri Jun  4 09:05:08  1999
+../exp2 0 10000 5 4 process division: 99594,4326
+exp time [s] = 0
+Fri Jun  4 09:05:08  1999
+../exp2 0 10000 5 4 combine: 99594,4326
+exp time [s] = 0
+Fri Jun  4 09:05:09  1999
+../exp2 0 10000 5 4 process division: 95268,4326
+exp time [s] = 0
+Fri Jun  4 09:05:10  1999
+../exp2 0 10000 5 4 combine: 95268,4326
+exp time [s] = 0
+Fri Jun  4 09:05:10  1999
+../exp2 0 10000 5 4 process division: 90942,4326
+exp time [s] = 0
+Fri Jun  4 09:05:11  1999
+../exp2 0 10000 5 4 combine: 90942,4326
+exp time [s] = 0
+Fri Jun  4 09:05:12  1999
+../exp2 0 10000 5 4 process division: 86616,4326
+exp time [s] = 0
+Fri Jun  4 09:05:12  1999
+../exp2 0 10000 5 4 combine: 86616,4326
+exp time [s] = 0
+Fri Jun  4 09:05:13  1999
+../exp2 0 10000 5 4 process division: 82290,4326
+exp time [s] = 0
+Fri Jun  4 09:05:13  1999
+../exp2 0 10000 5 4 combine: 82290,4326
+exp time [s] = 0
+Fri Jun  4 09:05:14  1999
+../exp2 0 10000 5 4 process division: 77964,4326
+exp time [s] = 0
+Fri Jun  4 09:05:15  1999
+../exp2 0 10000 5 4 combine: 77964,4326
+exp time [s] = 0
+Fri Jun  4 09:05:16  1999
+../exp2 0 10000 5 4 process division: 73638,4326
+exp time [s] = 0
+Fri Jun  4 09:05:16  1999
+../exp2 0 10000 5 4 combine: 73638,4326
+exp time [s] = 0
+Fri Jun  4 09:05:17  1999
+../exp2 0 10000 5 4 process division: 69312,4326
+exp time [s] = 0
+Fri Jun  4 09:05:18  1999
+../exp2 0 10000 5 4 combine: 69312,4326
+exp time [s] = 0
+Fri Jun  4 09:05:19  1999
+../exp2 0 10000 5 4 process division: 64986,4326
+exp time [s] = 0
+Fri Jun  4 09:05:19  1999
+../exp2 0 10000 5 4 combine: 64986,4326
+exp time [s] = 0
+Fri Jun  4 09:05:20  1999
+../exp2 0 10000 5 4 process division: 60660,4326
+exp time [s] = 0
+Fri Jun  4 09:05:21  1999
+../exp2 0 10000 5 4 combine: 60660,4326
+exp time [s] = 0
+Fri Jun  4 09:05:21  1999
+../exp2 0 10000 5 4 process division: 56334,4326
+exp time [s] = 0
+Fri Jun  4 09:05:22  1999
+../exp2 0 10000 5 4 combine: 56334,4326
+exp time [s] = 0
+Fri Jun  4 09:05:23  1999
+../exp2 0 10000 5 4 process division: 52008,4326
+exp time [s] = 0
+Fri Jun  4 09:05:23  1999
+../exp2 0 10000 5 4 combine: 52008,4326
+exp time [s] = 0
+Fri Jun  4 09:05:24  1999
+../exp2 0 10000 5 4 process division: 47682,4326
+exp time [s] = 0
+Fri Jun  4 09:05:25  1999
+../exp2 0 10000 5 4 combine: 47682,4326
+exp time [s] = 0
+Fri Jun  4 09:05:25  1999
+../exp2 0 10000 5 4 process division: 43356,4326
+exp time [s] = 0
+Fri Jun  4 09:05:26  1999
+../exp2 0 10000 5 4 combine: 43356,4326
+exp time [s] = 0
+Fri Jun  4 09:05:27  1999
+../exp2 0 10000 5 4 process division: 39030,4326
+exp time [s] = 0
+Fri Jun  4 09:05:27  1999
+../exp2 0 10000 5 4 combine: 39030,4326
+exp time [s] = 0
+Fri Jun  4 09:05:28  1999
+../exp2 0 10000 5 4 process division: 34704,4326
+exp time [s] = 0
+Fri Jun  4 09:05:29  1999
+../exp2 0 10000 5 4 combine: 34704,4326
+exp time [s] = 0
+Fri Jun  4 09:05:30  1999
+../exp2 0 10000 5 4 process division: 30378,4326
+exp time [s] = 1
+Fri Jun  4 09:05:30  1999
+../exp2 0 10000 5 4 combine: 30378,4326
+exp time [s] = 0
+Fri Jun  4 09:05:31  1999
+../exp2 0 10000 5 4 process division: 26052,4326
+exp time [s] = 0
+Fri Jun  4 09:05:32  1999
+../exp2 0 10000 5 4 combine: 26052,4326
+exp time [s] = 0
+Fri Jun  4 09:05:33  1999
+../exp2 0 10000 5 4 process division: 21726,4326
+exp time [s] = 0
+Fri Jun  4 09:05:33  1999
+../exp2 0 10000 5 4 combine: 21726,4326
+exp time [s] = 0
+Fri Jun  4 09:05:35  1999
+../exp2 0 10000 5 4 process division: 17400,4326
+exp time [s] = 0
+Fri Jun  4 09:05:35  1999
+../exp2 0 10000 5 4 combine: 17400,4326
+exp time [s] = 0
+Fri Jun  4 09:05:36  1999
+../exp2 0 10000 5 4 process division: 13074,4326
+exp time [s] = 0
+Fri Jun  4 09:05:37  1999
+../exp2 0 10000 5 4 combine: 13074,4326
+exp time [s] = 0
+Fri Jun  4 09:05:38  1999
+../exp2 0 10000 5 4 process division: 8748,4326
+exp time [s] = 0
+Fri Jun  4 09:05:39  1999
+../exp2 0 10000 5 4 combine: 8748,4326
+exp time [s] = 0
+Fri Jun  4 09:05:39  1999
+../exp2 0 10000 5 4 process division: 4422,4326
+exp time [s] = 0
+Fri Jun  4 09:05:40  1999
+../exp2 0 10000 5 4 combine: 4422,4326
+exp time [s] = 0
+Fri Jun  4 09:05:41  1999
+../exp2 0 10000 5 4 process division: 96,4326
+exp time [s] = 0
+Fri Jun  4 09:05:42  1999
+../exp2 0 10000 5 4 READY!
+Fri Jun  4 09:05:42  1999
+../exp2 0 10000 5 4 READY!
+Fri Jun  4 09:05:42  1999
+../exp2 0 10000 5 4 READY!
+Fri Jun  4 09:05:42  1999
+../exp2 0 10000 5 4 READY!
+Fri Jun  4 09:05:42  1999
+../exp2 10000 exp time [s] = 3
+Fri Jun  4 09:05:46  1999

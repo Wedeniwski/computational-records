@@ -1,0 +1,242 @@
+Dear Simon Plouffe,
+
+I send you the number e = exp(1) to 869,894,101 decimal digits.
+
+A world record again, but why?
+My main reason for doing this was to collect some experience with the
+two-dimensional special linear group over integers. More about this group will
+appear soon in my dissertation ("Powerful Tests for Primality").
+
+Moreover, this calculation shows that there exists a method to compute exp(1)
+faster than the direct formula
+
+               infty
+               -----
+               \       1
+     exp(1) =   )     ---
+               /       k!
+               -----
+                k=0
+
+by using the binary splitting method which was described in [4].
+
+I have used the formula
+
+                                     n/2
+     [ a_n   b_n ]     [ 3   1 ]   -------  [ (4k-1)(16k+4)+1   4k-1 ]
+     [           ]  =  [       ]    |   |   [                        ]
+     [ c_n   d_n ]     [ 2   1 ]    |   |   [  16k+4               1 ]
+                                     k=1
+
+
+     e = lim        (4 a_n/c_n - 3).
+          n->infty
+
+
+I should note that this formula is not new, it can simply be transferred in the
+notation of continued fractions and can be found for example in [5].
+By using this formula in the matrix representation and taking the advantage of
+fast matrix multiplication (e.g. see [5]) in combination with the binay
+splitting method ([3],[4]), we have the effect of a fast algorithm to calculate
+exp(1). Furthermore, for all numbers which have a simple continued fraction,
+this method seems to be faster than the binary splitting of the series formula.
+
+Using n = 55,000,000, I have calculated 869,894,101 decimal digits of exp(1).
+Originally, I intended to calculate 1 billion digits but I made an error in
+estimating the number of iterations n. No matter!
+To do this record, I have taken advantage of my arithmetic Piologie [8].
+A new version will appear soon. So if there are people interested in the
+possibilities of Piologie, they are invited to contact me via e-mail.
+
+An open question is whether the formulas of H. J. Brothers and J. A. Knox [1],
+[2] are faster than this way?
+
+
+Best regards,
+
+   Sebastian Wedeniwski  (wedeniws@de.ibm.com)
+
+
+
+
+Timings
+=======
+
+The computation (with no line of assembler) was done on July 31, 1999 and
+it took 79 hours and 30 minutes on 16 workstations of type
+
+  IBM Power2 SC 135 MHz, 2 GB RAM, GNU C++ 2.8.0, AIX 4.1.5.
+
+I have verified all 200 million digits of my previous record which
+had used the direct formula.
+
+
+
+Acknowledgements
+================
+
+This computational record was possible with the machine support of
+IBM Deutschland Entwicklung GmbH, Boeblingen.
+
+Therefore, many thanks are going to my managers
+Dr. Michael von Carlowitz, Reinhold Krause and Joerg Thielges
+who have made a series of computations possible and have been helpful
+coordinators.
+
+Thanks also to Henry Koplien for his very cooperative and administrative aid.
+
+And last but not least, many thanks are going to my ex-manager
+Dr. Oskar von Dungern
+who set these computations on foot.
+
+
+
+Technical Details
+=================
+
+The computation of exp(1) was splitted up in 96 processes on 16 processors.
+During the computation it takes 11.5 GB hard disc splitted up on 31 folders.
+
+- partial computations:
+
+ (0) in 29073 sec
+ (1) in 30067 sec
+ (2) in 30249 sec
+ (3) in 30866 sec
+ (4) in 31146 sec
+ (5) in 31795 sec
+ (6) in 32113 sec
+ (7) in 32510 sec
+ (8) in 32528 sec
+ (9) in 31813 sec
+(10) in 32159 sec
+(11) in 32448 sec
+(12) in 32773 sec
+(13) in 32703 sec
+(14) in 32849 sec
+(15) in 30250 sec
+
+- combinations
+
+ (0)- (1) in 7039 sec
+ (2)- (3) in 7058 sec
+ (4)- (5) in 7068 sec
+ (6)- (7) in 7092 sec
+ (8)- (9) in 7067 sec
+(10)-(11) in 7042 sec
+(12)-(13) in 7054 sec
+(14)-(15) in 4035 sec
+
+ (0)- (3) in 14939 sec
+ (4)- (7) in 14943 sec
+ (8)-(11) in 14905 sec
+(12)-(15) in  8500 sec
+
+ (0)- (7) in 30830 sec
+ (8)-(15) in 17539 sec
+
+ (0)-(15) in 9170+9420+9139+9372 sec
+
+- divisions (splitted in 65 processes):
+
+  23568 sec
++ 9088 sec
++ 23458 sec
++ 8972 sec
++ 23713 sec
++ 9059 sec
++ 23800 sec
++ 9089 sec
++ 23636 sec
++ 9093 sec
++ 23649 sec
++ 9156 sec
++ 23523 sec
++ 9084 sec
++ 23676 sec
++ 9166 sec
++ 23617 sec
++ 9104 sec
++ 23436 sec
++ 9208 sec
++ 23587 sec
++ 9226 sec
++ 23528 sec
++ 9124 sec
++ 23557 sec
++ 9258 sec
++ 23622 sec
++ 9177 sec
++ 23547 sec
++ 9234 sec
++ 23664 sec
++ 9194 sec
++ 23649 sec
++ 9242 sec
++ 23524 sec
++ 9270 sec
++ 23847 sec
++ 9255 sec
++ 23546 sec
++ 9287 sec
++ 23556 sec
++ 9367 sec
++ 23625 sec
++ 9367 sec
++ 23483 sec
++ 9335 sec
++ 23596 sec
++ 9343 sec
++ 23507 sec
++ 9394 sec
++ 23490 sec
++ 9450 sec
++ 23445 sec
++ 9495 sec
++ 23433 sec
++ 9535 sec
++ 23421 sec
++ 9369 sec
++ 23359 sec
++ 9423 sec
++ 23398 sec
++ 9533 sec
++ 23565 sec
++ 9554 sec
++ 258 sec
+
+
+
+References
+==========
+
+[1] H. J. Brothers, J. A. Knox: New Closed-Form Approximations to the
+    Logarithmic Constant e, The Mathematical Intelligencer 20 (1998), 25-29.
+
+[2] H. J. Brothers, J. A. Knox: Novel Series-based Approximations to e,
+    The College Mathematics Journal 30 (1999), 209-215.
+
+[3] R. P. Brent: Fast Multiple-Precision Evaluation of Elementary Functions,
+    Journal of the Association for Computing Machinery 23 (1976), 242-251.
+
+[4] B. Haible, T. Papanikolaou: Fast multiprecision evaluation of series of
+    rational numbers, Technical Report TI-97-7, Darmstadt University of
+    Technology, April 1997.
+
+[5] J. Minkus: A Continued Fraction,
+    The American Mathematical Monthly 103 (1996), 605-606.
+
+[6] C. D. Olds: The Simple Continued Fraction Exansion of e,
+    The American Mathematical Monthly 77 (1970), 968-974.
+
+[7] S. Wedeniwski: Generic Matrices and the Implementation of Fast Matrix
+    Operations, Diploma thesis, Universitaet Tuebingen.
+
+[8] S. Wedeniwski: Piologie - Eine exakte arithmetische Bibliothek in C++,
+    Technical Report WSI 96-35, Universitaet Tuebingen, available by anonymous
+    ftp from "ftp://ftp.informatik.uni-tuebingen.de/pub/CA/software/Piologie/"
+    or "ftp://ftp-ca.informatik.uni-tuebingen.de/pub/math/Piologie/".
+
+
+
+===============================================================================

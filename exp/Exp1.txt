@@ -1,0 +1,169 @@
+Dear Simon Plouffe,
+
+I send you Euler's number e = Exp(1) to 200,000,826 decimal digits.
+
+I have done this record because of the following three reasons:
+
+1. I want to start some experiences with the article [1]
+   of H. J. Brothers and J. A. Knox.
+
+2. I have done many improvements in my arithmetic Piologie [3]
+   and need an excercise to test it.
+
+3. It is a confirmation that the calculation of Apery's constant to
+   256 millions of decimals can be done in reasonable time.
+
+
+Best regards,
+
+   Sebastian Wedeniwski  (wedeniws@de.ibm.com)
+
+
+
+
+Timings:
+========
+
+The computation (with no line of assembler) was done on February 26, 1999 and
+it took 76 hours and 9 minutes on the following 64-bit emulating workstations:
+
+1. IBM Power2 SC 135 MHz, 2 GB RAM, GNU C++ 2.8.0, AIX 4.1.5.
+2. IBM PowerPC 604e 233 MHz, 1 GB RAM, GNU C++ 2.8.0, AIX 4.1.5.
+
+and it agrees with all 100,000,000 digits of the previous record by
+Bruno Haible.
+
+
+
+Thanks:
+=======
+
+This computational record was possible with the machine support of
+IBM Deutschland Entwicklung GmbH, Boeblingen.
+
+Therefore, many thanks are going to my managers
+Dr. Michael von Carlowitz, Reinhold Krause and Joerg Thielges
+who have made a serie of computations possible and have been helpful
+coordinators.
+
+Thanks also to Henry Koplien for his very cooperative and administrative aid.
+He has put the last step of the calculation of zeta(3) to 128 millions of
+decimals on 16 CD's, so that it will be possible to continue the calculation
+without any recomputation.
+
+And last but not least, many thanks are going to my ex-manager
+Dr. Oskar von Dungern
+who set these computations on foot.
+
+
+
+Technical Details:
+==================
+
+The computation of Exp(1) was splitted up in 98 processes on 2 processors.
+During the computation it takes 5 GB hard disc splitted up on 60 folders.
+
+
+- partial computations:
+
+ (0) in  971 sec
+ (1) in 1158 sec
+ (2) in 1173 sec
+ (3) in 1196 sec
+ (4) in 1525 sec
+ (5) in 1619 sec
+ (6) in 1458 sec
+ (7) in 1210 sec
+ (8) in 1232 sec
+ (9) in 1412 sec
+(10) in 1671 sec
+(11) in 1263 sec
+(12) in 1281 sec
+(13) in 1230 sec
+(14) in 1190 sec
+(15) in 1187 sec
+(16) in 1213 sec
+(17) in 1199 sec
+(18) in 1207 sec
+(19) in 1223 sec
+(20) in 1217 sec
+(21) in 1214 sec
+(22) in 1223 sec
+(23) in 1231 sec
+(24) in 1240 sec
+(25) in 1236 sec
+(26) in 1243 sec
+(27) in 1250 sec
+(28) in 1253 sec
+(29) in 1260 sec
+(30) in 1257 sec
+(31) in 1245 sec
+
+- combinations (each of them parallelized in two processes):
+
+ (0)- (1) in 201 sec / 198 sec
+ (2)- (3) in 200 sec / 198 sec
+ (4)- (5) in 197 sec / 198 sec
+ (6)- (7) in 198 sec / 198 sec
+ (8)- (9) in 209 sec / 210 sec
+(10)-(11) in 198 sec / 199 sec
+(12)-(13) in 199 sec / 196 sec
+(14)-(15) in 198 sec / 197 sec
+(16)-(17) in 196 sec / 195 sec
+(18)-(19) in 197 sec / 197 sec
+(20)-(21) in 228 sec / 226 sec
+(22)-(23) in 229 sec / 227 sec
+(24)-(25) in 228 sec / 229 sec
+(26)-(27) in 227 sec / 227 sec
+(28)-(29) in 228 sec / 228 sec
+(30)-(31) in 228 sec / 226 sec
+
+ (0)- (3) in 414 sec / 412 sec
+ (4)- (7) in 408 sec / 408 sec
+ (8)-(11) in 423 sec / 412 sec
+(12)-(15) in 431 sec / 408 sec
+(16)-(19) in 464 sec / 463 sec
+(20)-(23) in 466 sec / 602 sec
+(24)-(27) in 464 sec / 461 sec
+(28)-(31) in 464 sec / 461 sec
+
+ (0)- (7) in  990 sec /  986 sec
+ (8)-(15) in 1002 sec /  973 sec
+(16)-(23) in 1532 sec / 1517 sec
+(24)-(31) in  980 sec /  974 sec
+
+
+- divisions:
+
+ (0)- (7) in 54523 sec
+ (8)-(15) in 54763 sec
+(16)-(23) in 54499 sec
+(24)-(31) in 54544 sec
+
+
+- last combinations with divisions:
+
+(16)-(31) in 42973 sec + 2 sec
+ (8)-(31) in 42962 sec + 2 sec
+ (0)-(31) in 51364 sec + 2 sec
+
+
+I have taken advantage of the binary splitting method [2] with some
+extentions and of an improved version of my arithmetic Piologie 1.2.1 [3].
+
+
+
+References:
+===========
+
+[1] H. J. Brothers, J. A. Knox: New Closed-Form Approximations to the
+    Logarithmic Constant e, The Mathematical Intelligencer 20 (1998), 25-29.
+
+[2] B. Haible, T. Papanikolaou: Fast multiprecision evaluation of series of
+    rational numbers, Technical Report TI-97-7, Darmstadt University of
+    Technology, April 1997.
+
+[3] S. Wedeniwski: Piologie - Eine exakte arithmetische Bibliothek in C++,
+    Technical Report WSI 96-35, Tuebingen University, available by anonymous
+    ftp from "ftp://ftp.informatik.uni-tuebingen.de/pub/CA/software/Piologie/"
+    or "ftp://ruediger.informatik.uni-tuebingen.de/Piologie/".

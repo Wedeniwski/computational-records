@@ -1,0 +1,16 @@
+../div2 div time [s] = 0
+div2 time [s] = 0
+../div3 exp-p1.tmp x.tmp div3 time [s] = 35
+../div2 div time [s] = 0
+div2 time [s] = 0
+../div3 exp-p1.tmp x.tmp div3 time [s] = 36
+../div2 div time [s] = 0
+div2 time [s] = 0
+../div3 exp-p1.tmp x.tmp div3 time [s] = 36
+../div2 div time [s] = 0
+div2 time [s] = 0
+../div3 exp-p1.tmp x.tmp div3 time [s] = 35
+../div2 ../div3 exp-p1.tmp x.tmp div3 time [s] = 45
+../div2 ../div3 exp-p1.tmp x.tmp div3 time [s] = 45
+../div2 ../div3 exp-p1.tmp x.tmp div3 time [s] = 45
+../div2 ../div3 exp-p1.tmp x.tmp div3 time [s] = 45

@@ -1,0 +1,9 @@
+#!/bin/sh
+sh x0.sh $1
+sh x1.sh $1
+sh x2.sh $1
+sh x3.sh $1
+sh x4.sh $1
+sh x5.sh $1
+sh x6.sh $1
+sh x7.sh $1
